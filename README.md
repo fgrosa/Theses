@@ -1,1 +1,1 @@
-# Theses
+# Bachelor and Master Theses
