@@ -26,6 +26,8 @@
 \usepackage{array}
 \usepackage{xcolor}
 \usepackage{colortbl}
+\usepackage{tabularx}
+\usepackage{multirow}
 \definecolor{verdebbello}{RGB}{10,130,22}
 \usefonttheme[onlymath]{serif}
 
@@ -129,7 +131,7 @@ La radiazione di gluoni dipende dalla massa del quark, in particolare risulta so
  \begin{itemize}
  \color{blue}
   \item Cronin Enhancement
-  \vspace{3.5cm}
+  \vspace{3.7cm}
   \item Modifica delle PDF in presenza di materia nucleare
  \end{itemize}
 \end{center}
@@ -137,7 +139,7 @@ La radiazione di gluoni dipende dalla massa del quark, in particolare risulta so
 
 \put(10,197){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.6\linewidth}
-Le collisioni multiple dei partoni del proiettile con i nucleoni del nucleo determinano uno \textit{shift} dello spettro a più alti valori di $\pt$
+Le collisioni multiple dei partoni del proiettile con i nucleoni del nucleo determinano uno \textit{shift} dello spettro a più alti valori di momento trasverso
 \end{minipage}}
 
 \put(55,170){\captionsetup{labelformat=empty}
@@ -211,40 +213,76 @@ Si possono distringuere quattro regioni:
 \end{picture} 
 \end{frame}
 
+\section{Introduzione all'analisi}
+\begin{frame}
+\frametitle{Introduzione all'analisi dei mesoni D$^+$}
+\begin{picture}(320,250)
+
+\put(25,235){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.85\linewidth}
+\begin{block}{\centering Campione di dati}
+\centering
+\fontsize{10}{14}\selectfont
+L'analisi è stata svolta su un campione di dati acquisiti in collisioni p-Pb a $\sqrt{s_{NN}}=5.02$ TeV dalla Collaborazione ALICE\\
+$\Rightarrow$ $\sim$ 100 milioni di eventi \textit{Minimum Bias}\\
+\end{block}
+\end{minipage}}
+
+\put(0,135){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+\fontsize{10}{14}\selectfont
+\textcolor{blue}{Outline:}\vspace{0.1cm}
+\begin{enumerate}
+ \item Strategia per la ricostruzione dei mesoni D$^+$ \\[3mm]
+ \item Metodo del fit del parametro di impatto  \\[3mm]
+ \item Metodo della variazione dei tagli \\[3mm]
+ \item Misura della produzione dei mesoni D$^+$ con pacchetto di ricostruzione di vertici di decadimento basato sul filtro di Kalman
+\end{enumerate}
+
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
 \section{Ricostruzione di mesoni D$^+$}
 \begin{frame}
 \frametitle{Ricostruzione e selezione di mesoni D$^+$ in ALICE}
 \begin{picture}(320,250)
 
-\put(210,90){\includegraphics[scale=0.18]{Dplus_sketch.png}}
-\put(5,20){\includegraphics[scale=0.08]{2013-Mar-06-betap_v5.png}}
+\put(15,25){\includegraphics[scale=0.18]{Dplus_sketch.png}}
+\put(185,55){\includegraphics[scale=0.08]{2013-Mar-06-betap_v5.png}}
 
 \put(0,230){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{1.\linewidth}
-Mesoni D$^+$ ($c\tau = 312\text{ } \mu$m) ricostruiti nel canale di decadimento adronico
+Mesoni D$^+$ ($c\tau = 312\text{ } \mu$m) e coniugati di carica sono ricostruiti nel canale di decadimento adronico
 \end{minipage}}
 
-\put(105,230){\captionsetup{labelformat=empty}
+\put(110,230){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.35\linewidth}
 \begin{block}{}
  \setlength\abovedisplayskip{-0.5pt}
-\[\text{D}^+\rightarrow \text{K}^-\pi^+\pi^+ (BR = 9.13\%)\] 
+\[\text{D}^\pm\rightarrow \text{K}^\mp\pi^\pm\pi^\pm (BR = 9.13\%)\] 
 \end{block}
 \end{minipage}}
 
-\put(0,190){\captionsetup{labelformat=empty}
+\put(-5,190){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{1.\linewidth}
 \begin{itemize}
  \item Il segnale è estratto con un'\textcolor{blue}{analisi di massa invariante}
- \vspace{0.2cm}
- \item Vengono applicate selezioni topologiche \\sulle quantità ricostruite per \\ridurre il fondo combinatoriale
 \end{itemize}
 \end{minipage}}
 
-\put(160,70){\captionsetup{labelformat=empty}
+\put(-5,175){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.53\linewidth}
 \begin{itemize}
- \item Per rimuovere ulteriormente del fondo viene applicata la \textit{Particle Identification} (PID) nella selezione delle tracce nello stato finale 
+ \item Vengono applicate selezioni sulla qualità delle tracce ricostruite di K$^\pm$ e $\pi^\pm$ e su quantità legate alla topologia del decadimento per ridurre il fondo combinatoriale
+\end{itemize}
+\end{minipage}}
+
+\put(170,50){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.53\linewidth}
+\begin{itemize}
+ \item Per ridurre ulteriormente del fondo viene applicata la \textit{Particle Identification} (PID) nella selezione delle tracce nello stato finale 
 \end{itemize}
 \end{minipage}}
 
@@ -261,6 +299,7 @@ Mesoni D$^+$ ($c\tau = 312\text{ } \mu$m) ricostruiti nel canale di decadimento 
 
 \put(10,230){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{1.1\linewidth}
+\fontsize{9}{11}\selectfont
 Per la misura dei mesoni D$^+$ che sono originati da un quark \textit{charm} prodotto nella \\collisione è necessario separare il contributo di D$^+$ prompt dal segnale totale
 \end{minipage}}
 
@@ -307,7 +346,7 @@ La frazione di D$^+$ prompt può essere ottenuta utilizzando metodi \textit{theo
  \[f_{prompt} = 1-A\cdot \textcolor{blue}{\bigg{(}\frac{d^2\sigma}{d\pt dy}\bigg{)}_{FONLL}^{feed-down}R_{pPb}^{feed-down}(\pt)}\frac{(Acc\times \epsilon)_{feed-down}\cdot\Delta y \Delta\pt \cdot BR \cdot L_{int}}{N_{raw}^{D^\pm}/2}\]
   \item Metodo $f_c$
  \vspace{-0.5cm}
- \[f_{prompt} = \bigg{(} 1+\frac{\textcolor{blue}{\frac{d^2\sigma}{d\pt dy}_{FONLL}^{feed-down}}\cdot(Acc\times \epsilon)_{feed-down}\cdot\textcolor{blue}{R_{pPb}^{feed-down}(\pt)}}{\textcolor{blue}{\frac{d^2\sigma}{d\pt dy}_{FONLL}^{prompt}}\cdot(Acc\times \epsilon)_{prompt}\cdot R_{pB}^{prompt}(\pt)}\bigg{)}^{-1}\]
+ \[f_{prompt} = \bigg{(} 1+\frac{\textcolor{blue}{\frac{d^2\sigma}{d\pt dy}_{FONLL}^{feed-down}}\cdot(Acc\times \epsilon)_{feed-down}\cdot\textcolor{blue}{R_{pPb}^{feed-down}(\pt)}}{\textcolor{blue}{\frac{d^2\sigma}{d\pt dy}_{FONLL}^{prompt}}\cdot(Acc\times \epsilon)_{prompt}\cdot R_{pPb}^{prompt}(\pt)}\bigg{)}^{-1}\]
 \end{itemize}
 \end{minipage}}
 
@@ -319,14 +358,6 @@ Principali sorgenti di errore sistematico:
  \item \textcolor{blue}{$R_{pPb}^{feed-down}(\pt)$} mai misurato \\[2mm]$\Rightarrow$ necessità di un'assunzione 
 \end{itemize}
 \end{minipage}}
-
-\end{picture} 
-\end{frame}
-
-\section{Sommario}
-\begin{frame}
-\frametitle{Sommario}
-\begin{picture}(320,250)
 
 \end{picture} 
 \end{frame}
@@ -349,9 +380,9 @@ Si basa sulla differenza tra le distribuzioni del parametro di impatto ($d_0$) d
 \begin{enumerate}
  \item \textcolor{blue}{Determinazione dei \textit{template} (fase di \textit{prefit})}
  \begin{itemize}
-  \item Fit sulle distribuzioni simulate di mesoni D$^+$ prompt
-  \item Fit sulle distribuzioni simulate di mesoni D$^+$ feed-down
-  \item Fit sulle distribuzioni del fondo combinatoriale ottenute dai dati nelle regioni di massa invariante a lato del picco (\textit{side-bands})
+  \item Fit delle distribuzioni simulate di mesoni D$^+$ prompt
+  \item Fit delle distribuzioni simulate di mesoni D$^+$ feed-down
+  \item Fit delle distribuzioni del fondo combinatoriale ottenute dai dati nelle regioni di massa invariante a lato del picco (\textit{side-bands})
  \end{itemize}
  \vspace{0.1cm}
   Nella fase di prefit si ottengono i parametri che vengono successivamente fissati nel fit finale dei dati per estrarre la frazione di mesoni D$^+$ prompt
@@ -562,7 +593,7 @@ Sorgenti di errore sistematico:
 \begin{minipage}[t]{0.4\linewidth}
 \begin{center}
 I candidati mesoni D$^+$ includono D$^+$ prompt, D$^+$ feed-down e il fondo combinatoriale \\[3mm]
-Applicando selezioni su quantità topologiche per massimizzare il rapporto segnale su fondo e la significatività statistica \[signif. = \frac{S}{\sqrt{S+B}},\] se ne seleziona soltanto una parte
+Applicando selezioni su quantità topologiche per ottenere un buon rapporto segnale su fondo e una buona significatività statistica \[signif. = \frac{S}{\sqrt{S+B}},\] se ne seleziona soltanto una parte
 \end{center}
 \end{minipage}}
 
@@ -778,10 +809,10 @@ Sorgenti di errore \\sistematico:
 \end{minipage}}
 
 \put(-5,85){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.75\linewidth}
+\begin{minipage}[t]{0.85\linewidth}
 \begin{itemize}
- \item La sezione d'urto differenziale in $\pt$ di produzione dei mesoni D$^+$ prompt $\Rightarrow$ compatibile con il risultato pubblicato e la predizione di FONLL 
- \item La sezione d'urto differenziale in $\pt$ di produzione dei mesoni D$^+$ feed-down $\Rightarrow$ sistematicamente maggiore rispetto alla predizione di FONLL  
+ \item Sezione d'urto differenziale in $\pt$ di produzione dei mesoni D$^+$\\ prompt $\Rightarrow$ compatibile con il risultato pubblicato e la predizione di \\FONLL 
+ \item Sezione d'urto differenziale in $\pt$ di produzione dei mesoni D$^+$ feed-down \\$\Rightarrow$ sistematicamente maggiore rispetto alla predizione di FONLL  
 \end{itemize}
 \end{minipage}}
 
@@ -843,20 +874,20 @@ $\Rightarrow$ risoluzione della variabile $X$:\\
 \begin{picture}(320,250)
 
 \put(0,235){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{1.\linewidth}
+\begin{minipage}[t]{0.95\linewidth}
 I mesoni D$^+$ feed-down  \textcolor{blue}{non} derivano dal vertice primario di interazione dei fasci \\[1mm]
-$\Rightarrow$ L'applicazione del \textcolor{blue}{topological constraint} permette di ridurre il contributo di mesoni D$^+$ da B, valutando il \textcolor{blue}{$\chi^2$} della particella ricostruita
+$\Rightarrow$ L'applicazione del \textcolor{blue}{topological constraint} al vertice primario permette di ridurre il contributo di mesoni D$^+$ da B, valutando il \textcolor{blue}{$\chi^2$} della particella ricostruita
 \end{minipage}}
 
-\put(35,80){\includegraphics[scale=0.22]{KFchi_Dplus_pT1.eps}}
-\put(180,80){\includegraphics[scale=0.22]{KFchi_Dplus_pT8.eps}}
+\put(35,75){\includegraphics[scale=0.22]{KFchi_Dplus_pT1.eps}}
+\put(180,75){\includegraphics[scale=0.22]{KFchi_Dplus_pT8.eps}}
 
-\put(0,70){\captionsetup{labelformat=empty}
+\put(0,65){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{1.\linewidth}
 $\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni sulle quantità topologiche usate nell'analisi standard 
 \end{minipage}}
 
-\put(80,35){\captionsetup{labelformat=empty}
+\put(80,30){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.9\linewidth}
 \renewcommand\arraystretch{1.4} 
   \begin{tabular}{c|c|c|c|c}
@@ -878,23 +909,88 @@ $\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni su
 \put(10,130){\includegraphics[scale=0.2]{KF_CutVarSyst_ratioeffprompt_chiS.eps}}
 \put(130,15){\includegraphics[scale=0.2]{KF_CutVarSyst_ratioonly_chiS.eps}}
 
+\put(238,215){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{itemize}
+ \item La riduzione dell'efficienza ottenuta applicando una selezione su $\chi^2/ndf$ raggiunge il \textcolor{blue}{20\%} per i mesoni D$^+$ \textcolor{blue}{prompt} e il \textcolor{red}{60\%} per i mesoni D$^+$ \textcolor{red}{feed-down} 
+\item La perdita di segnale non supera il 30\%
+\item Applicando una selezione molto ``stretta'' su $\chi^2/ndf$ si osserva una riduzione sistematica della sezione d'urto differenziale  
+\end{itemize}
+\end{minipage}}
+
 \end{picture}
 \end{frame}
 
 \begin{frame}
-\frametitle{Ricostruzione dei mesoni D$^+$ con il filtro di Kalman - Risultato}
+\frametitle{Ricostruzione dei mesoni D$^+$ \\con il filtro di Kalman - Risultato}
 \begin{picture}(320,250)
 
-\put(10,140){\includegraphics[scale=0.27]{PromptFrac_KF.eps}}
-\put(180,80){\includegraphics[scale=0.27]{CrossSection_KF.eps}}
+\put(10,150){\includegraphics[scale=0.24]{PromptFrac_KF.eps}}
+\put(175,70){\includegraphics[scale=0.26]{CrossSection_KF.eps}}
 
+\put(170,275){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.48\linewidth}
+\begin{block}{}
+\fontsize{7}{10}\selectfont
+\setlength\abovedisplayskip{0pt}
+\begin{equation*}
+\frac{d\sigma^{D^+}_{prompt}}{d\pt}\bigg{|}_{|y|<0.5} = \frac{1}{2}\cdot \frac{f_{prompt}\cdot N^{D^\pm}_{raw}|_{|y|<y_{fid}}}{\Delta \pt \Delta y \cdot(Acc\times\epsilon)_{prompt}} \cdot\frac{L_{int}}{BR}
+\end{equation*}
+\end{block} 
+\end{minipage}}
+
+
+\put(0,140){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{1.\linewidth}
+\begin{itemize}
+ \item La frazione di D$^+$ prompt è maggiore \\rispetto a quella ottenuta applicando \\le selezioni nell'analisi standard \\$\Rightarrow$ \textcolor{blue}{riduzione dell'errore sistematico}
+ \item Sorgenti di errore sistematico valutate:
+ \begin{itemize}
+ \item Estrazione del segnale
+ \item Efficienza di selezione dei tagli topologici
+ \item Efficienza di selezione della PID 
+ \item Imperfetta descrizione delle distribuzioni di $\pt$ di mesoni D$^+$ e B generati nella simulazione MC
+ \item Determinazione della frazione di D$^+$ prompt con i metodi \textit{theory-driven}
+ \end{itemize}
+\item Sezione d'urto differenziale in $\pt$ di produzione dei mesoni D$^+$ prompt ottenuta compatibile con il risultato pubblicato
+ \end{itemize}
+\end{minipage}}
 \end{picture}
 \end{frame}
 
 \begin{frame}
+\section{Conclusioni}
 \frametitle{Conclusioni e confronto}
 \begin{picture}(320,250)
-\put(0,85){\includegraphics[scale=0.3]{CrossSecComp.eps}}
+\put(0,90){\includegraphics[scale=0.29]{CrossSecComp.eps}}
+\put(230,20){\includegraphics[scale=0.06]{upgradedITS.png}}
+\put(125,25){\includegraphics[scale=0.13]{ITSupgrade.png}}
+
+\put(250,125){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.3mm] (0, 0) -- + (0,-0.5);
+\end{tikzpicture}}
+
+\put(250,152){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.3mm] (0, 0) -- + (0,-0.5);
+\end{tikzpicture}}
+
+\put(155,245){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.55\linewidth}
+\begin{itemize}
+ \item Tutti i risultati ottenuti sono compatibili con la sezione d'urto differenziale in $\pt$ di produzione dei mesoni D$^+$ prompt all'interno dell'incertezza sperimentale
+ \item I metodi del fit del parametro di impatto e della variazione dei tagli permettono di effettuare la misura della produzione di mesoni D$^+$ prompt \textcolor{blue}{senza l'utilizzo di calcoli di QCD perturbativa}\\[6mm] al momento limitati dalla statistica disponibile\\[6mm] 
+ miglioramento previsto a partire dal Run II e sopratutto per il Run III $\Rightarrow$ Upgrade di ALICE
+ \end{itemize}
+\end{minipage}}
+
+\put(-5,85){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.33\linewidth}
+\begin{itemize}
+ \item Il metodo basato sulla ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e l'applicazione del topological constraint permette di ridurre il contributo di D$^+$ feed-down
+ \end{itemize}
+\end{minipage}}
 
 \end{picture}
 \end{frame}
@@ -915,6 +1011,7 @@ $\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni su
 \end{frame}
 
 \begin{frame}
+\subsection{Confronto dati Vs. FONLL}
 \frametitle{Confronto dei dati con la predizione di FONLL in collisioni pp}
 \begin{picture}(320,250)
 
@@ -927,6 +1024,373 @@ $\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni su
 Le sezioni d'urto per adroni contenenti $charm$ e $beauty$ misurate in collisioni pp sono in accordo con la predizione di FONLL \\$\Rightarrow$ nei metodi \textit{theory-driven} la sezione d'urto è calcolata utilizzando FONLL
 \end{center}
 \end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\subsection{Analisi standard - Set di tagli}
+\begin{frame}
+\frametitle{Set di tagli nell'analisi standard}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\subsection{Fit del parametro di impatto - Fit unbinned}
+\begin{frame}
+\frametitle{Fit unbinned}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\subsection{Fit del parametro di impatto - Errori sistematici}
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Parametro di risoluzione $\sigma_{prompt}$ fissato}
+\begin{picture}(320,250)
+
+\put(180,95){\includegraphics[scale=0.26]{promptfraction_syst_sigma_onlyratio.eps}}
+\put(20,95){\includegraphics[scale=0.26]{sigmaprompt.eps}}
+
+\put(35,60){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,8]$ & $[8,12]$ & $[12,16]$ \\
+    \hline
+    $\sigma_{prompt}$ & negl. & negl. & negl. & negl. & negl. & negl. & negl.\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Variazione del range dei fit}
+\begin{picture}(320,250)
+
+\put(20,95){\includegraphics[scale=0.26]{promptfraction_syst_range_onlyratio.eps}}
+\put(180,95){\includegraphics[scale=0.26]{promptfraction_syst_range_onlyratio_SBfix.eps}}
+
+\put(35,60){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,8]$ & $[8,12]$ & $[12,16]$ \\
+    \hline
+    fit range & 2\% & 2\% & 2\% & 2\% & 2\% & 2\% & 2\%\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Variazione della regione di massa invariante delle side-bands}
+\begin{picture}(320,250)
+
+\put(20,95){\includegraphics[scale=0.26]{Mass_4-5_SBranges.pdf}}
+\put(180,95){\includegraphics[scale=0.26]{promptfraction_syst_SBtot_ratioonly.eps}}
+
+\put(30,60){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,8]$ & $[8,12]$ & $[12,16]$ \\
+    \hline
+    side-bands & 6\% & 3\% & 3\% & 3\% & 3\% & 3\% & 3\%\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Variazione della funzione di fit per il fondo}
+\begin{picture}(320,250)
+
+\put(20,95){\includegraphics[scale=0.26]{BkgFitFuncComp.eps}}
+\put(180,95){\includegraphics[scale=0.26]{promptfraction_syst_prefit_onlyratio.eps}}
+
+\put(25,60){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,8]$ & $[8,12]$ & $[12,16]$ \\
+    \hline
+    funzione fit fondo & 4\% & 1\% & 1\% & 1\% & 1\% & 1\% & 1\%\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Forma degli spettri in $\pt$ di mesoni D$^+$ e B generati}
+\begin{picture}(320,250)
+
+\put(20,90){\includegraphics[scale=0.24]{DplusPrompt_PtSpectrum.eps}}
+\put(180,90){\includegraphics[scale=0.24]{Bmesons_PtSpetrum.eps}}
+
+\put(30,60){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,8]$ & $[8,12]$ & $[12,16]$ \\
+    \hline
+    distribuzioni $\pt$ & negl. & negl. & negl. & negl. & negl. & negl. & negl.\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Variazione della quantità di segnale $S$ nel fit}
+\begin{picture}(320,250)
+
+\put(20,95){\includegraphics[scale=0.26]{promptfraction_syst_SoverT_onlyratio.eps}}
+\put(180,95){\includegraphics[scale=0.26]{promptcrosssection_syst_SoverT_ratioonly.eps}}
+
+\put(35,60){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,8]$ & $[8,12]$ & $[12,16]$ \\
+    \hline
+    parametro $S$ & 4\% & 2\% & 2\% & 2\% & 2\% & 2\% & 2\%\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Variazione della finestra di massa invariante}
+\begin{picture}(320,250)
+
+\put(20,95){\includegraphics[scale=0.26]{Mass_4-5_ranges.pdf}}
+\put(180,95){\includegraphics[scale=0.26]{promptfraction_syst_MassRange_onlyratio.eps}}
+
+\put(30,60){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,8]$ & $[8,12]$ & $[12,16]$ \\
+    \hline
+    range di massa & negl. & negl. & negl. & negl. & negl. & negl. & negl.\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impatto - Errori sistematici\\ Monte Carlo closure test}
+\begin{picture}(320,250)
+
+\put(10,135){\includegraphics[scale=0.2]{Bias_bkg_freesigma.eps}}
+\put(130,135){\includegraphics[scale=0.2]{BiasRMS_bkg_freesigma.eps}}
+\put(10,25){\includegraphics[scale=0.2]{Pulls_bkg_freesigma.eps}}
+\put(130,25){\includegraphics[scale=0.2]{Sigma_bkg_freesigma.eps}}
+
+\end{picture} 
+\end{frame}
+
+\subsection{Metodo della variazione dei tagli - Set di tagli}
+\begin{frame}
+\frametitle{Metodo della variazione dei tagli - Efficienze set 1}
+\begin{picture}(320,250)
+
+\put(80,100){\includegraphics[scale=0.33]{Eff_Set1.eps}}
+
+\put(20,55){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+\begin{tabular}{c|c|c|c|c|c}
+$\pt$ (GeV/c) & [2,4] & [4,6] & [6,8] & [8,12] & [12,16] \\
+\hline
+ $L_{xy}$ (cm)& $[0.02,0.14]$ & $[0.02,0.15]$ & $[0.02,0.15]$ & $[0.04,0.15]$ & $[0.04,0.25]$ \\
+\hline
+Norm. $L_{xy}$ & $[7,14]$ & $[4,16]$ & $[4,16]$ & $[4,16]$ & $[4,22]$ \\
+\hline
+$Cos(\theta_P^{xy})$ & >0.998 & >0.998 & >0.998 & >0.998 & >0.998 \\
+\hline
+$max\text{ }n\sigma_{res}$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-2.0,2.0]$\\
+\end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Metodo della variazione dei tagli - Efficienze set 2}
+\begin{picture}(320,250)
+
+\put(80,100){\includegraphics[scale=0.33]{Eff_Set2.eps}}
+
+\put(55,55){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+\begin{tabular}{c|c|c|c|c|c}
+$\pt$ (GeV/c) & [2,4] & [4,6] & [6,8] & [8,12] & [12,16] \\
+\hline
+ $L_{xy}$ (cm)& >0.05 & >0.05 & >0.05 & >0.10 & >0.10 \\
+\hline
+Norm. $L_{XY}$ & >9 & >9 & >9 & >6 & >6 \\
+\hline
+$Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
+\end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Metodo della variazione dei tagli - Efficienze set 3}
+\begin{picture}(320,250)
+
+\put(80,100){\includegraphics[scale=0.33]{Eff_Set3.eps}}
+
+\put(55,55){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+\begin{tabular}{c|c|c|c|c|c}
+$\pt$ (GeV/c) & [2,4] & [4,6] & [6,8] & [8,12] & [12,16] \\
+\hline
+$L_{xy}$ (cm)& >0.08 & >0.12 & >0.20 & >0.20 & >0.20 \\
+\hline
+Norm. $L_{xy}$ & >9 & >12 & >20 & >20 & >20 \\
+\hline
+$Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
+\hline
+$max\text{ }n\sigma_{res}$ & <-1.5 & <-1.5 & <-1.5 & <-1.5 & <-1.0\\
+\end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Metodo della variazione dei tagli - Estrazione del segnale}
+\begin{picture}(320,250)
+
+\put(15,80){\includegraphics[scale=0.55]{Mass3Set_4-5.eps}}
+
+\end{picture} 
+\end{frame}
+
+\subsection{Metodo della variazione dei tagli - Errori sistematici}
+
+\begin{frame}
+\frametitle{Metodo della variazione dei tagli - Errori sistematici \\Estrazione del segnale}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Metodo della variazione dei tagli - Errori sistematici \\Variazione dei tagli}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Metodo della variazione dei tagli - Errori sistematici \\Forma degli spettri in $\pt$ di mesoni D$^+$ e B generati}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\subsection{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e topological constraint}
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e topological constraint}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\subsection{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Performance}
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Risoluzione e pulls}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Vertice di decadimento}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Vertice di produzione}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Parametro di impatto}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Lunghezza di decadimento}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Vertice primario}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\subsection{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Set di tagli}
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Set di tagli}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Estrazione del segnale}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+
+\subsection{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici}
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Estrazione del segnale}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Variazione dei tagli}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Forma degli spettri in $\pt$ di mesoni D$^+$ e B generati}
+\begin{picture}(320,250)
+
+\end{picture} 
+\end{frame}
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Efficienza di selezione della PID}
+\begin{picture}(320,250)
 
 \end{picture} 
 \end{frame}

@@ -2,10 +2,21 @@
 \select@language {english}
 \beamer@sectionintoc {1}{Heavy Flavours}{2}{0}{1}
 \beamer@sectionintoc {2}{ALICE}{4}{0}{2}
-\beamer@sectionintoc {3}{Ricostruzione di mesoni D$^+$}{5}{0}{3}
-\beamer@sectionintoc {4}{Metodi theory-driven per la misura della frazione di D$^+$ prompt}{6}{0}{4}
-\beamer@sectionintoc {5}{Sommario}{8}{0}{5}
+\beamer@sectionintoc {3}{Introduzione all'analisi}{5}{0}{3}
+\beamer@sectionintoc {4}{Ricostruzione di mesoni D$^+$}{6}{0}{4}
+\beamer@sectionintoc {5}{Metodi theory-driven per la misura della frazione di D$^+$ prompt}{7}{0}{5}
 \beamer@sectionintoc {6}{Metodo di fit del parametro di impatto}{9}{0}{6}
 \beamer@sectionintoc {7}{Metodo della variazione dei tagli}{15}{0}{7}
 \beamer@sectionintoc {8}{Ricostruzione dei mesoni D$^+$ con il filtro di Kalman}{19}{0}{8}
-\beamer@sectionintoc {9}{Backup}{24}{0}{9}
+\beamer@sectionintoc {9}{Conclusioni}{23}{0}{9}
+\beamer@sectionintoc {10}{Backup}{24}{0}{10}
+\beamer@subsectionintoc {10}{1}{Confronto dati Vs. FONLL}{25}{0}{10}
+\beamer@subsectionintoc {10}{2}{Analisi standard - Set di tagli}{26}{0}{10}
+\beamer@subsectionintoc {10}{3}{Fit del parametro di impatto - Fit unbinned}{27}{0}{10}
+\beamer@subsectionintoc {10}{4}{Fit del parametro di impatto - Errori sistematici}{28}{0}{10}
+\beamer@subsectionintoc {10}{5}{Metodo della variazione dei tagli - Set di tagli}{36}{0}{10}
+\beamer@subsectionintoc {10}{6}{Metodo della variazione dei tagli - Errori sistematici}{40}{0}{10}
+\beamer@subsectionintoc {10}{7}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e topological constraint}{43}{0}{10}
+\beamer@subsectionintoc {10}{8}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Performance}{44}{0}{10}
+\beamer@subsectionintoc {10}{9}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Set di tagli}{50}{0}{10}
+\beamer@subsectionintoc {10}{10}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici}{52}{0}{10}
