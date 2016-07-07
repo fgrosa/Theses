@@ -118,7 +118,7 @@ Even though the first two methods are at the moment limited by statistics, they 
 \mainmatter
 \chapter{Quark-Gluon Plasma}
 \label{QGP-section}
-\section{Quantum Chromodynamics (QCD)}
+\section{Quantum Chromodynamics}
 In the Standard Model the strong interaction is described by Quantum Chromodynamics (QCD), which is a non-Abelian quantum gauge field theory, based on the invariance under local SU(3)$_{c}$ group transformations.\\
 The choice of SU(3)$_c$ is dictated by the hypothesis of the existence of a new degree of freedom of matter called colour, which can assume three different states: red, blue and green. The introduction of colour was necessary to explain the propriety of symmetry (or anti-symmetry) of the hadron wave-functions. Infact, according to the static quark model, the hadrons are made of elementary spin-$\frac{1}{2}$ constituents called quarks, and they are divided in two categories: mesons, which are composed by a quark and an anti-quark, and baryons which are made of three quarks. Therefore the meson wave-function takes the form
 \begin{equation}
@@ -734,7 +734,7 @@ where $f(x_{i,j},Q^2)$ are the parton distribution functions (PDFs) for the two 
 The fragmentation function describes the probability of hadronisation of the quark $q$ into the hadron $H$, which carry a fraction of
 momentum of the quark $z_q = p_H/p_q$. As well as the PDFs, also the fragmentation functions are obtained from the experiment, in particular in $e^+e^-$ collisions, in which all the process before the hadronisation is perturbative, and therefore precisely calculated. Also for the fragmentation function case the evolution with $Q^2$ is evaluated with the DGLAP equations. These calculations describe well the experimental data, especially for the beauty hadrons. An example is the measurement of the cross section of $J/\psi$ from $b$ decays (non-prompt $J/\psi$) in pp collisions at $\sqrt{s} =$ 7 TeV performed by LHCb \cite{Aaij:2011jh}. In the right panel of figure \ref{HF_pp} it is possible to see the comparison of the data with the pQCD prediction (FONLL).
 For the charmed hadrons the experimental results are also in agreement with the FONLL prediction, however all the measurements performed at Tevatron, RHIC and LHC show that the data are systematically on the upper edge of the theoretical prediction. An example of this behaviour is the $\pt$-differential cross section of prompt D$^+$-mesons (D$^+$ mesons coming directly from the hadronisation of a $c$-quark) measured in pp collisions at $\sqrt{s} =$ 7 TeV by ALICE \cite{ALICE:2011aa} (left panel of figure \ref{HF_pp}).
-\section{Heavy-quarks production in p-A and A-A collisions}
+\section{Heavy-quark production in p-A and A-A collisions}
 In heavy-ion collisions the production mechanism of heavy quarks is the same as in proton-proton collisions, since they are predominantly created in hard partonic scatterings, because of their large mass, in fact the thermal production in the QGP is negligible at the temperatures reached at RHIC and LHC. Therefore, neglecting medium effects, the hard particles production in heavy-ion collisions is expected to scale with the number of binary collisions, as explained in \ref{jet_sec}.
 However, as for the high-$\pt$ hadrons, considering the $\pt$ spectrum, the binary scaling is broken by the interactions with the nuclear matter, which can be divided in two main categories:
 \begin{itemize}
@@ -753,7 +753,7 @@ where $dN_{AA}/d\pt$ is the $\pt$-differential corrected yield measured in $A-A$
  R_{pA} = \frac{1}{\langle T_{pA} \rangle} \frac{dN_{pA}/d\pt}{d\sigma_{pp}/d\pt} = \frac{1}{A} \frac{d\sigma_{pA}/d\pt}{d\sigma_{pp}/d\pt},
  \label{RpA_HF}
 \end{equation}
-where $\sigma_{pA}/dpt$ is the $\pt$-differential cross section measured in p-A collisions and $A$ the mass number of the colliding nuclei. If there are no modifications due to initial or final state effects then, because of the binary scaling, we should observe a nuclear modification factor equal to 1 in the full $\pt$ range, otherwise it should be different. In particular the different effect would lead to a modification in different $\pt$ intervals, as explained in the following sections.
+where $\sigma_{pA}/dpt$ is the $\pt$-differential cross section measured in p-A collisions and $A$ the mass number of the colliding nuclei. If there are no modifications due to initial or final state effects then, because of the binary scaling, we should observe a nuclear modification factor equal to 1 in the full $\pt$ range, otherwise it should be different. In particular, the various effects lead to different modifications in different $\pt$ regions, as explained in the following sections.
 \subsection{Cold Nuclear Matter effects}
 \label{CNM_sec}
 In this section I will provide a brief explaination of initial-state CNM effects, which include the nuclear modification of the PDFs, the \textit{Cronin enhancement} and the initial-state energy loss in Cold Nuclear Matter (the energy-loss mechanism will be described in the following section, since is the same for heavy quarks travelling through the QGP). However, experimental observations might sugest also the presence of final-state effects in p-Pb collisions at LHC, due to the interaction of the produced heavy-flavoured hadrons with the particles produced in the collision, for which some kind of collective behaviour could be established.  
@@ -811,7 +811,7 @@ is proportional to the square of the distance L traversed in the medium, to the 
 \theta_c = M_q/E_q,
 \end{equation}
 where $M_q$ and $E_q$ are respectively the mass and the energy of the quark.
-\subsubsection{Heavy quarks thermalisation}
+\subsubsection{Heavy-quark thermalisation}
 The thermalisation of light quarks in the QGP is reached via multiple scatterings after a time of about $0.6-1$ fm/c at RHIC energies and even earlier at LHC. On the contrary, the thermal equilibrium of heavy quarks needs a longer time to be established, due to their larger mass, and eventually it can also not be reached. In particular, it is  more likely expected to be reached for charm and beauty quarks with low transverse momentum, since they have to lose less energy in the medium to thermalise. If the thermal equilibrium is completely reached, then the heavy quarks are subject to the same pressure gradients which act on light quarks, as explained in \ref{flows_sec}. Concerning that, the nuclear modification factor at low $\pt$ is a sensitive observable for the radial flow and can be an interesting tool to investigate the thermalisation of heavy quarks.
 \subsubsection{Hadronisation via coalescence}
 The heavy quarks which are produced in the core of the fireball could not have sufficient energy to emerge from the medium before hadronising. In this case, they can hadronise through a different mechanism, called \textit{coalescence}, which basically consists in the recombination with a light quark of the medium to form a heavy-flavoured hadron. The main difference of this mechanism with respect to the fragmentation described in section \ref{HF_prod_sec} is that, in this case, two low momentum partons form a higher momentum hadron, while in the fragmentation the final hadron has a fraction of the initial parton momentum $z_q=p_H/p_q$. In particular, it happens when two partons are close in the phase space and therefore have a significant overlap of their wave functions. The recombination picture becomes even more important in the presence of a thermalised medium, in which collective motions increase the probability to find a light quark close in space and with similar momentum with respect to the heavy quark. This alternative hadronisation method modifies the probability for the heavy quark to hadronise into a specific hadron $H$ and therefore the production mechanism of charmed and beauty hadrons.
@@ -1434,7 +1434,7 @@ $[12,16]$ & 263 $\pm$ 27 & 0.10 & 0.08\\
 \section{Systematic uncertainties}
 In this section the various sources of systematic uncertainty that affect the fraction of prompt D$^+$ extracted from the fit of the impact-parameter distributions in the $xy$-plane are presented. They include:
 \begin{enumerate}
-\item Systematic uncertainty due to the iperfections in the distributions taken from the simulations and the side-bands of the signal peak, in particular:
+\item Systematic uncertainty due to the imperfections in the distributions taken from the simulations and the side-bands of the signal peak, in particular:
 \begin{enumerate}[label=\alph*.]
  \item Shapes for prompt D$^+$, feed-down D$^+$ and background impact-parameter distributions.
  \item Shape of generated $\pt$ distribution of prompt D$^+$ and B mesons decaying to D$^+$.
@@ -1442,7 +1442,7 @@ In this section the various sources of systematic uncertainty that affect the fr
 \item Systematic uncertainty induced by the uncertainty on the signal yield $S$.
 \item Systematic uncertainty evaluated by checking the consistency of the procedure.
 \end{enumerate}
-Several tests have been performed in order to quantify these sources of systematic effects. Concerning the first category, tests on the degree of agreement of the resolution
+Several tests have been performed in order to quantify these sources of systematic effects. Concerning the first category, tests on the degree of agreement of the 
 \begin{figure}[h]
 \begin{center}
 {\includegraphics[scale = 0.25]{FitUnbinned_2-3_bkg_plot.eps}}
@@ -1461,7 +1461,7 @@ Several tests have been performed in order to quantify these sources of systemat
 \caption{Fits to the D$^+$ impact-parameter distributions in the $xy$-plane in the seven transverse momentum intervals of the analysis. The curves are the fit functions for prompt D$^+$ (green), feed-down D$^+$ (blue), background (magenta) and the sum of all contributions (red).}
 \label{finalfit}
 \end{center}
-\end{figure}  \clearpage \hspace{-0.61cm} term in data and MC, the impact-parameter fitting range and the parametrisation of the background distribution from the side-band regions have been performed. To take into account the discrepancy between the $\pt$-shape in data and MC, the impact-parameter distributions of prompt and feed-down D$^+$ used in the prefit phase have been reweighted in order to match the FONLL $\pt$-shape. The error induced by the signal yield was quantified by changing the $S$ parameter within 1$\sigma$ in the fitting function. Finally, to check the consistency of the procedure the invariant-mass window used to obtain the impact-parameter distributions was changed and a MC closure test was performed. All these tests will be described in more detail in the following subsections.
+\end{figure}  \clearpage \hspace{-0.61cm} resolution term in data and MC, the impact-parameter fitting range and the parametrisation of the background distribution from the side-band regions have been performed. To take into account the discrepancy between the $\pt$-shape in data and MC, the impact-parameter distributions of prompt and feed-down D$^+$ used in the prefit phase have been reweighted in order to match the FONLL $\pt$-shape. The error induced by the signal yield was quantified by changing the $S$ parameter within 1$\sigma$ in the fitting function. Finally, to check the consistency of the procedure the invariant-mass window used to obtain the impact-parameter distributions was changed and a MC closure test was performed. All these tests will be described in more detail in the following subsections.
 \subsection{Systematic uncertainty due to the impact-parameter shapes}
 \subsubsection{Test on the degree of agreement between the resolution term in data and MC}
 \label{sigma_syst_sec}
@@ -1860,7 +1860,7 @@ The uncertainty on the slope of the lines depends on the uncertainty on the effi
 As described in the previous section, the weighting matrix used for the analytic minimisation is assumed to be diagonal (see equation \ref{weightmatrix}) and therefore possible correlations among the sets of topological cuts are neglected. Furthermore, considering the incentre method, if two or more sets are similar (and therefore correlated), the corresponding lines would be almost parallel, resulting in a poor precision of the incentre calculation, because of the large overlap of the regions defined by the dotted lines in figure \ref{incerror}. For this reason, the sets of topological cuts have to be chosen in order to generate sub-samples of D$^+$ candidates as much as possible disjoint. Moreover, a large number of sets would produce several sub-samples of D$^+$ candidates, which would have a small amount of entries because of the necessity to keep all the sets as much as possible uncorrelated. Hence, only three cut sets were defined for the analysis:
 \begin{itemize}
 \item \textbf{Enhanced prompt contribution}: this first set of topological cuts is defined maximising the prompt D$^+$ contribution. Since the efficiency is typically higher for feed-down D$^+$, the aim is to achieve a similar or slightly higher efficiency for the prompt contribution with respect to the feed-down one.  
-\item \textbf{Mixed}: the goal of this set of cuts is to maximise the amount of signal extraction from the invariant-mass spetra. For this reason, this set is similar to the one defined for the standard analysis, which was optimised to obtain a large signal-to-background ratio and a large significance. 
+\item \textbf{Mixed}: the goal of this set of cuts is to maximise the amount of signal extracted from the invariant-mass distributions. For this reason, this set is similar to the one defined for the standard analysis, which was optimised to obtain a large signal-to-background ratio and a large significance. 
 \item \textbf{Enhanced feed-down contribution}: the third set of cuts aims to maximise the feed-down D$^+$ contribution. Even if the maximisation of the efficiency for feed-down D$^+$ can be easily achieved, the complication for this set of topological cuts is to obtain a reasonable yield extraction, since the feed-down D$^+$ are the minority of the candidates. 
 \end{itemize}
 \subsection{Topological variables}
@@ -2530,11 +2530,11 @@ the invariant-mass distribution for D$^+$ candidates with $4<\pt<5$ GeV/c obtain
 {\includegraphics[scale = 0.31]{RatioEffPrompt_KF.eps}}
 \hspace{-0.5cm}
 {\includegraphics[scale = 0.31]{KF_ratio_fprompt.eps}}
-\caption{Left: Ratio of the efficiencies for prompt D$^+$ obtained with the FONLL and the Pythia $\pt$ shapes. Right: ratio of the fraction of prompt D$^+$ calculated with the efficiencies for prompt and feed-down D$^+$ obtained with the FONLL and the Pythia $\pt$ shapes.}
+\caption{Left: Ratio of the efficiencies for prompt D$^+$ obtained with the FONLL and Pythia $\pt$ shapes. Right: ratio of the fraction of prompt D$^+$ calculated using the efficiencies for prompt and feed-down D$^+$ obtained with the FONLL and Pythia $\pt$ shapes.}
 \label{KF_ptshape_syst}
 \end{center}
 \end{figure} 
-To compute the efficiency of prompt D$^+$-mesons, the generated distribution of prompt D$^+$ has been reweighted in order to reproduce the shape of the FONLL $\pt$ spectrum. That was done also for the efficiency of feed-down D$^+$, since it is needed for the computation of the fraction of prompt D$^+$ with the $N_b$ and $f_c$ methods (see section \ref{Theory-driven}). The weights used to reproduce the FONLL $\pt$ spectrum for feed-down D$^+$ have been obtained considering that of D$^+$ from B-meson decays, as explained in section \ref{IP_syst_ptshape}. On the other hand, the efficiencies obtained with the $\pt$ shapes of prompt and feed-down D$^+$ generated with Pythia have been considered for the evaluation of the systematic uncertainties. In the left panel of figure \ref{KF_ptshape_syst} the ratio between the efficiencies obtained with the two different $\pt$ shapes is shown. The effect is in general small and, in particular, it is larger at high $\pt$, because the $\pt$ intervals considered are wider, and in the first bin, where the efficiency varies steeply with the D$^+$ transverse momentum. These ratios have been used to assign the systematic uncertainty, which is reported in table \ref{KF_syst}.
+To compute the efficiency of prompt D$^+$-mesons, the generated distribution of prompt D$^+$ has been reweighted in order to reproduce the shape of the FONLL $\pt$ spectrum. That was done also for the efficiency of feed-down D$^+$, since it is needed for the computation of the fraction of prompt D$^+$ with the $N_b$ and $f_c$ methods (see section \ref{Theory-driven}). The weights used to reproduce the FONLL $\pt$ spectrum for feed-down D$^+$ have been obtained considering that of D$^+$ from B-meson decays, as explained in section \ref{IP_syst_ptshape}. On the other hand, the efficiencies obtained with the $\pt$ shapes of prompt and feed-down D$^+$ generated with Pythia have been considered for the evaluation of the systematic uncertainties. In the left panel of figure \ref{KF_ptshape_syst} the ratio between the efficiencies for prompt D$^+$ obtained with the two different $\pt$ shapes is shown. The effect is in general small and, in particular, it is larger at high $\pt$, because the $\pt$ intervals considered are wider, and in the first bin, where the efficiency varies steeply with the D$^+$ transverse momentum. The right panel of figure \ref{KF_ptshape_syst} shows the ratio between the fraction of prompt D$^+$ evaluated with the $N_b$ method, using the efficiencies for prompt and feed-down D$^+$ obtained with the two different $\pt$ shapes. The small variation observed indicates that the the effect of the generated $\pt$ shape of D$^+$ from B-meson decays on the prompt D$^+$ cross section is negligible. The values assigned as systematic uncertainty are reported in table \ref{KF_syst}.
 \begin{table}[b]
 \centering 
 %\par\medskip
@@ -2545,10 +2545,10 @@ To compute the efficiency of prompt D$^+$-mesons, the generated distribution of 
 \hline
 $\pt$ (GeV/c) & $[1,2]$ & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,7]$ & $[7,8]$ & $[8,12]$ & $[12,16]$ & $[16,24]$\\
 \hline
-cut var & 10\% & 10\% & 6\% & 6\% & 6\% & 5\% & 5\% & 5\% & 5\% & 5\%\\
 raw yield & 10\% & 8\% & 5\% & 5\% & 5\% & 5\% & 5\% & 5\% & 8\% & 8\%\\
-$\pt$ shape & 1\% & negl. & negl. & negl. & negl. & negl. & negl. & negl. & 1\% & 1\%\\
+cut var & 10\% & 10\% & 6\% & 6\% & 6\% & 5\% & 5\% & 5\% & 5\% & 5\%\\
 PID & negl. & negl. & negl. & negl. & negl. & negl. & negl. & negl. & negl. & negl.\\
+$\pt$ shape & 1\% & negl. & negl. & negl. & negl. & negl. & negl. & negl. & 1\% & 1\%\\
 \hline
 \end{tabular}
 \caption{Summary of the systematic uncertainty for the analysis performed reconstructing the D$^+$ candidates with the KFParticle package.}
@@ -2594,10 +2594,10 @@ This ratio fluctates around unity without any particular trend, indicating that 
 \hline
 $\pt$ (GeV/c) & $[1,2]$ & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,7]$ & $[7,8]$ & $[8,12]$ & $[12,16]$ & $[16,24]$\\
 \hline
-\multirow{2}{*}{KFParticle (\%)}& +2 & +2 & +2 & +2 & +2 & +3 & +3 & +3 & +3 & +5\\
+\multirow{2}{*}{Published (\%)}& +2 & +2 & +2 & +2 & +2 & +3 & +3 & +3 & +3 & +5\\
 & -22 & -12 & -9 & -9 & -8 & -7 & -7 & -8 & -9 & -6\\
 \hline
-\multirow{2}{*}{Published (\%)}& +2 & +2 & +2 & +2 & +2 & +2 & +2 & +2 & +2 & +3\\
+\multirow{2}{*}{KFParticle (\%)}& +2 & +2 & +2 & +2 & +2 & +2 & +2 & +2 & +2 & +3\\
 & -24 & -12 & -8 & -7 & -6 & -5 & -5 & -5 & -5 & -3\\
 \hline
 \end{tabular} 
@@ -3363,6 +3363,16 @@ https://root.cern.ch/.
 \end{thebibliography}
 
 \ringraziamenti
+Sembra ieri che ho iniziato il percorso che mi ha portato alla scrittura di questa tesi e, se guardo indietro, mi sembra incredibile pensare a quante cose abbia imparato e quante altre, invece, debba ancora impararne. Per questo mi sento di ringraziare tante persone che, in modi diversi, mi hanno aiutato, supportato e mi hanno accompagnato durante questi anni. \\
+Per prima cosa vorrei esprimere un sincero ringraziamento alla mia famiglia. A mia madre Mariateresa e mio padre Franco, che mi hanno permesso di studiare ci\`{o} che pi\`{u} mi piace e hanno sempre creduto in me, e a mio fratello Roberto, che mi ha aiutato a comprendere un punto di vista diverso dal mio, dal momento che (purtroppo!) \`{e} ingegnere. Vorrei poi ringraziare Giulia e Riccardo, che mi hanno aiutato a superare i momenti pi\`{u} difficili e faticosi sostenendomi e, grazie ai quali, questi anni sono stati pi\`{u} piacevoli di quanto potessi sperare. Grazie!\\
+Un speciale ringraziamento va ai miei supervisor di Torino, Stefania Beol\`{e} e Francesco Prino, che mi hanno insegnato tantissimo, facendomi scoprire l'affascinante mondo della ricerca e, soprattutto, hanno sempre trovato la pazienza di ascoltare la mie domande e darmi spiegazioni sempre precise ed esaustive. Ringrazio anche Elena Bruna, che con grande disponibilit\`{a}, mi ha aiutato sia a Torino che al GSI, e Riccardo Russo, che per primo mi ha seguito durante il lavoro di tesi. Allo stesso modo voglio ringraziare Silvia Masciocchi e Ralf Averbeck, i miei supervisor durante i periodi trascorsi al GSI, i quali mi hanno sempre fatto sentire come a casa e mi hanno fatto comprendere quanto sia importante e proficua la collaborazione a livello internazionale. \\ Grazie anche a Maksym che durante il periodo al GSI, con gran pazienza, mi ha spiegato come utilizzare il codice da lui scritto e a Lukas (che non ho ancora avuto il piacere di conoscere di persona), che con il suo lavoro. Vorrei poi dire grazie a tutti coloro che hanno reso le giornate di lavoro pi\`{u} piacevoli, lavorando al mio fianco. In particolare gli amici e colleghi di Torino e Darmstadt:
+\begin{itemize}
+ \item I miei compagni di tesi magistrale, Luca e Matteo, che anche loro come me si laureano quest'anno.
+ \item Anastasia, Stefano, Ivan e Maximiliano che hanno sempre torvato un momento per aiutarmi e condividere con me la loro maggiore esperienza.
+ \item Gli amici del GSI: Tonatiuh, Jan, Tatiana, Edgar, Andrea, Mariella, Steffen, Julius, Lilit, Jaap, 
+\end{itemize}
+
+Infine vorrei ringraziare tutti i 
 \end{document}
 
 %_______________________________________________________________________________________________________________________________

@@ -141,13 +141,13 @@
 \contentsline {chapter}{\numberline {A}Additional figures}{149}{appendix.A}
 \contentsline {section}{\numberline {A.1}Fits to the MC impact-parameter distributions of prompt D$^+$-mesons}{150}{section.A.1}
 \contentsline {section}{\numberline {A.2}Fits to the MC true impact-parameter distributions of feed-down D$^+$-mesons}{151}{section.A.2}
-\contentsline {section}{\numberline {A.3}MC reconstructed impact-parameter distributions of feed-down D$^+$-mesons}{152}{section.A.3}
+\contentsline {section}{\numberline {A.3}MC impact-parameter distributions of feed-down D$^+$-mesons}{152}{section.A.3}
 \contentsline {section}{\numberline {A.4}Fits to the impact-parameter distributions of the combinatorial background}{153}{section.A.4}
 \contentsline {section}{\numberline {A.5}Cut-variation analysis plots}{154}{section.A.5}
 \contentsline {subsection}{\numberline {A.5.1}Mass fits prompt-enhanced set}{154}{subsection.A.5.1}
 \contentsline {subsection}{\numberline {A.5.2}Mass fits mixed set}{155}{subsection.A.5.2}
 \contentsline {subsection}{\numberline {A.5.3}Mass fits feed-down-enhanced set}{156}{subsection.A.5.3}
 \contentsline {subsection}{\numberline {A.5.4}Incentre determination}{157}{subsection.A.5.4}
-\contentsline {section}{\numberline {A.6}Kalman filter analysis mass fits}{158}{section.A.6}
+\contentsline {section}{\numberline {A.6}Kalman filter analysis invariant-mass fits}{158}{section.A.6}
 \contentsline {chapter}{Bibliography}{161}{appendix*.44}
 \contentsline {chapter}{Acknowledgements}{167}{appendix*.45}
