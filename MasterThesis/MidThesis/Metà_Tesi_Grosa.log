@@ -1,0 +1,4071 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.24)  3 JUL 2016 15:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Metà_Tesi_Grosa.tex
+(./Metà_Tesi_Grosa.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasercs.sty
+Package: beamerbasercs 2015/03/08 (rcs-revision 368aa9ba9d38)
+)
+Document Class: beamer 2015/01/05 3.36 A class for typesetting presentations (r
+cs-revision 8a39122e1f63)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+Package: beamerbasemodes 2013/09/03 (rcs-revision 768f2d98ca64)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+Package: beamerbaseoptions 2013/03/10 (rcs-revision 47431932db0d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen139
+\pgfmath@count=\count112
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count113
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen140
+\pgf@picmaxx=\dimen141
+\pgf@picminy=\dimen142
+\pgf@picmaxy=\dimen143
+\pgf@pathminx=\dimen144
+\pgf@pathmaxx=\dimen145
+\pgf@pathminy=\dimen146
+\pgf@pathmaxy=\dimen147
+\pgf@xx=\dimen148
+\pgf@xy=\dimen149
+\pgf@yx=\dimen150
+\pgf@yy=\dimen151
+\pgf@zx=\dimen152
+\pgf@zy=\dimen153
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen154
+\pgf@path@lasty=\dimen155
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen156
+\pgf@shorten@start@additional=\dimen157
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count114
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen158
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen159
+\pgf@pt@y=\dimen160
+\pgf@pt@temp=\dimen161
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen162
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen163
+\pgf@sys@shading@range@num=\count115
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box39
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count116
+\XC@countmixins=\count117
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `implicit' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen165
+\Fld@menulength=\count122
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count123
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+Package: beamerbasefont 2015/01/05  (rcs-revision b4b4bee242e2)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-
+mappings.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty
+Package: beamerbasemisc 2013/09/03  (rcs-revision a55719c41d85)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+Package: beamerbaseoverlay 2013/12/25  (rcs-revision f6bd5e3805da)
+\beamer@argscount=\count126
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+Package: beamerbasesection 2013/06/07  (rcs-revision 60b9fe0f342f)
+\c@lecture=\count128
+\c@part=\count129
+\c@section=\count130
+\c@subsection=\count131
+\c@subsubsection=\count132
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+Package: beamerbaseframe 2014/02/20  (rcs-revision 4b8ceeeff434)
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count133
+\beamer@zoomframecount=\count134
+\beamer@frametextheight=\dimen168
+\c@subsectionslide=\count135
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen169
+\c@framenumber=\count136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2015/01/05  (rcs-revision 431510bb5890)
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count137
+\beamer@autobreaklastheight=\dimen170
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+Package: beamerbaseframecomponents 2013/10/18  (rcs-revision 5cf6c5555a45)
+\beamer@footins=\box44
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty
+Package: beamerbasecolor 2015/02/21  (rcs-revision d944b04ee2d5)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+Package: beamerbasenotes 2012/12/19  (rcs-revision 1686da3db3c9)
+\beamer@frameboxcopy=\box45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty
+Package: beamerbasetoc 2015/03/08  (rcs-revision 7270298bbaae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks30
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2014/06/30  (rcs-revision 580088513a67)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen171
+\bmb@dima=\dimen172
+\bmb@dimb=\dimen173
+\bmb@prevheight=\dimen174
+)
+\beamer@blockheadheight=\dimen175
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+Package: beamerbaselocalstructure 2014/09/10  (rcs-revision 393f6dcff371)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count138
+\c@table=\count139
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+Package: beamerbasenavigation 2015/02/27  (rcs-revision 923f4bf87efa)
+\beamer@section@min@dim=\dimen176
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks32
+\ex@=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip11
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks33
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks34
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemedefault
+.sty
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/font/beamerfontthemedefa
+ult.sty
+Package: beamerfontthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemede
+fault.sty
+Package: beamercolorthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemede
+fault.sty
+Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
+\beamer@dima=\dimen186
+\beamer@dimb=\dimen187
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemede
+fault.sty
+Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count153
+\U@D=\dimen188
+LaTeX Info: Redefining \textlatin on input line 1431.
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia/multimedia.sty
+Package: multimedia 2012/05/02 ver 0.02
+\mm@movie=\count154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2014/01/03 v1.7j
+
+Package: textpos 2014/01/03 1.7j, absolute positioning of text on the page
+\TP@textbox=\box53
+\TP@holdbox=\box54
+\TPHorizModule=\dimen189
+\TPVertModule=\dimen190
+\TP@margin=\dimen191
+\TP@absmargin=\dimen192
+Grid set 16 x 16 = 22.7622pt x 17.07166pt
+\TPboxrulesize=\dimen193
+\TP@ox=\dimen194
+\TP@oy=\dimen195
+\TP@tbargs=\toks45
+\TP@prevdepth=\dimen196
+TextBlockOrigin set to 0pt x 0pt
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box55
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen197
+\pgf@nodesepend=\dimen198
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen199
+\pgffor@skip=\dimen200
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count155
+\pgfplotmarksize=\dimen201
+)
+\tikz@lastx=\dimen202
+\tikz@lasty=\dimen203
+\tikz@lastxsaved=\dimen204
+\tikz@lastysaved=\dimen205
+\tikzleveldistance=\dimen206
+\tikzsiblingdistance=\dimen207
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count156
+\tikznumberofchildren=\count157
+\tikznumberofcurrentchild=\count158
+\tikz@fig@count=\count159
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count160
+\pgfmatrixcurrentcolumn=\count161
+\pgf@matrix@numberofcolumns=\count162
+)
+\tikz@expandcount=\count163
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks48
+\verbatim@line=\toks49
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/eulervm.sty
+Package: eulervm 2005/01/11 v4.0 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen208
+\captionmargin@=\dimen209
+\captionwidth=\dimen210
+\caption@tempdima=\dimen211
+\caption@indent=\dimen212
+\caption@parindent=\dimen213
+\caption@hangindent=\dimen214
+)
+\c@ContinuedFloat=\count164
+Package caption Info: beamer document class.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/feynmp-auto/feynmp-auto.sty
+Package: feynmp-auto 2013/05/03 v1.1 Automatic processing of feynmp graphics
+
+(/usr/share/texmf/tex/latex/feynmf/feynmp.sty
+Package: feynmp 1996/12/02 v1.08 LaTeX/MetaPost Feynman Diagram Package (ohl)
+\@outfmf=\write5
+\fmfbuf@=\toks50
+\c@fmfgraph=\count165
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hepnames/hepnicenames.sty
+Package: hepnicenames 2014/12/01 Friendly alternatives to the PEN particle code
+s (version 2.0)
+
+(/usr/share/texlive/texmf-dist/tex/latex/hepnames/heppennames.sty
+Package: heppennames 2014/12/01 Elementary Particle Naming Scheme (version 2.0)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/hepparticles/hepparticles.sty
+Package: hepparticles 2014/12/01 HEP particle typesetting (v2.0)
+
+(/usr/share/texlive/texmf-dist/tex/latex/subdepth/subdepth.sty
+Package: subdepth 2007/09/02 v0.1 Unify subscript depths
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathup' in version `bold'
+(Font)                  OT1/phv/m/n --> T1/phv/bx/n on input line 110.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfup' in version `bold'
+(Font)                  OT1/phv/m/n --> T1/phv/bx/n on input line 113.
+LaTeX Font Info:    Overwriting math alphabet `\mathsfit' in version `bold'
+(Font)                  T1/phv/m/sl --> T1/phv/bx/sl on input line 116.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/slashed.sty
+Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bbold/bbold.sty
+Package: bbold 1994/04/06 Bbold symbol package
+LaTeX Font Info:    Redeclaring math alphabet \mathbb on input line 42.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen215
+\extrarowheight=\dimen216
+\NC@list=\toks51
+\extratabsurround=\skip57
+\backup@length=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks52
+\minrowclearance=\skip59
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/font/beamerfontthemeseri
+f.sty
+Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen217
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.5)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.0 (rcs-revision 1.6)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.0 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box60
+\pgfnodeparttwobox=\box61
+\pgfnodepartthreebox=\box62
+\pgfnodepartfourbox=\box63
+\pgfnodeparttwentybox=\box64
+\pgfnodepartnineteenbox=\box65
+\pgfnodeparteighteenbox=\box66
+\pgfnodepartseventeenbox=\box67
+\pgfnodepartsixteenbox=\box68
+\pgfnodepartfifteenbox=\box69
+\pgfnodepartfourteenbox=\box70
+\pgfnodepartthirteenbox=\box71
+\pgfnodeparttwelvebox=\box72
+\pgfnodepartelevenbox=\box73
+\pgfnodeparttenbox=\box74
+\pgfnodepartninebox=\box75
+\pgfnodeparteightbox=\box76
+\pgfnodepartsevenbox=\box77
+\pgfnodepartsixbox=\box78
+\pgfnodepartfivebox=\box79
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.0 (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
+e.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.0 (rcs-revision 1.13)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen218
+\pgfdecoratedremainingdistance=\dimen219
+\pgfdecoratedinputsegmentcompleteddistance=\dimen220
+\pgfdecoratedinputsegmentremainingdistance=\dimen221
+\pgf@decorate@distancetomove=\dimen222
+\pgf@decorate@repeatstate=\count166
+\pgfdecorationsegmentamplitude=\dimen223
+\pgfdecorationsegmentlength=\dimen224
+)
+\tikz@lib@dec@box=\box80
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeMadrid.
+sty
+Package: beamerthemeMadrid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemewh
+ale.sty
+Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemeor
+chid.sty
+Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemero
+unded.sty
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemein
+folines.sty
+Package: beamerouterthemeinfolines 2012/10/16  (rcs-revision 51a8c72084af)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemedo
+lphin.sty
+Package: beamercolorthemedolphin 2010/06/17  (rcs-revision d02a7cf4d8ae)
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+)
+LaTeX Info: Redefining \HepProcess on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\new@ifnextchar' on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 56.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 56.
+
+LaTeX Info: Redefining \HepProcess on input line 61.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 61.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 61.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 61.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 61.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 61.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 61.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 61.
+
+(./Metà_Tesi_Grosa.aux)
+\openout1 = `Metà_Tesi_Grosa.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(9.24774pt, 345.69987pt, 9.24774pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=345.69987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-63.02225pt
+* \evensidemargin=-63.02225pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=9.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count167
+\scratchdimen=\dimen225
+\scratchbox=\box81
+\nofMPsegments=\count168
+\nofMParguments=\count169
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count170
+\MPscratchDim=\dimen226
+\MPnumerator=\count171
+\makeMPintoPDFobject=\count172
+\everyMPtoPDFconversion=\toks54
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box82
+Package hyperref Info: Link coloring OFF on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count173
+)
+LaTeX Info: Redefining \ref on input line 61.
+LaTeX Info: Redefining \pageref on input line 61.
+LaTeX Info: Redefining \nameref on input line 61.
+
+(./Metà_Tesi_Grosa.out) (./Metà_Tesi_Grosa.out)
+\@outlinefile=\write6
+\openout6 = `Metà_Tesi_Grosa.out'.
+
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  T1/phv/m/n --> T1/ptm/m/n on input line 61.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  T1/ptm/b/n --> T1/ptm/bx/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/ptm/b/n --> T1/ptm/bx/n on input line 61.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  T1/phv/m/n --> T1/phv/m/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/phv/b/n --> T1/phv/m/n on input line 61.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  T1/ptm/m/it --> T1/ptm/m/it on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/ptm/b/it --> T1/ptm/m/it on input line 61.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  T1/pcr/m/n --> T1/pcr/m/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/pcr/b/n --> T1/pcr/m/n on input line 61.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/ptm/m/n --> T1/ptm/bx/n on input line 61.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/ptm/m/it --> T1/ptm/bx/it on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  T1/phv/b/n --> T1/ptm/bx/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/ptm/bx/n --> T1/ptm/bx/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/ptm/m/it --> T1/ptm/bx/it on input line 61.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
+ic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bib
+liography-dictionary/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-env
+ironment-dictionary/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-mon
+ths-dictionary/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-num
+bers-dictionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-the
+orem-dictionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 61.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: Incompatible package detected (regarding \caption).
+(caption)             \caption = macro:->\ifx \@captype \@undefined \@latex@err
+or {\noexpand \caption outside figure or table}\@ehd \expandafter \@gobble \els
+e \refstepcounter \@captype \expandafter \@firstofone \fi {\@dblarg {\@caption 
+\@captype }}.
+
+
+Package caption Warning: \caption will not be redefined since it's already
+(caption)                redefined by a document class or package which is
+(caption)                unknown to the caption package.
+See the caption package documentation for explanation.
+
+Package caption Info: End \AtBeginDocument code.
+(./Metà_Tesi_Grosa.nav)
+LaTeX Font Info:    Try loading font information for U+zeur on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeur.fd
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for U+zeus on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeus.fd
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/eulervm/uzeuex.fd
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 61.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 66.
+
+<logounito.png, id=115, 223.83624pt x 226.8475pt>
+File: logounito.png Graphic file (type png)
+ <use logounito.png>
+Package pdftex.def Info: logounito.png used on input line 66.
+(pdftex.def)             Requested size: 78.34386pt x 79.39781pt.
+
+Overfull \vbox (12.78131pt too high) detected at line 66
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 66.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logounito.png>]
+LaTeX Info: Redefining \HepProcess on input line 69.
+
+<ts_cone_hf.png, id=153, 796.4154pt x 596.9502pt>
+File: ts_cone_hf.png Graphic file (type png)
+ <use ts_cone_hf.png>
+Package pdftex.def Info: ts_cone_hf.png used on input line 112.
+(pdftex.def)             Requested size: 183.17169pt x 137.29565pt.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 112.
+
+<energy_loss.png, id=161, 1106.1325pt x 829.0975pt>
+File: energy_loss.png Graphic file (type png)
+ <use energy_loss.png>
+Package pdftex.def Info: energy_loss.png used on input line 112.
+(pdftex.def)             Requested size: 79.64822pt x 59.70003pt.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 112.
+
+Overfull \vbox (7.58434pt too high) detected at line 112
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 112.
+[2
+
+ <./ts_cone_hf.png> <./energy_loss.png>]
+<PDF_nuclear.png, id=195, 413.545pt x 260.975pt>
+File: PDF_nuclear.png Graphic file (type png)
+ <use PDF_nuclear.png>
+Package pdftex.def Info: PDF_nuclear.png used on input line 153.
+(pdftex.def)             Requested size: 144.7429pt x 91.3426pt.
+
+<random_walk.png, id=196, 446.66875pt x 223.83624pt>
+File: random_walk.png Graphic file (type png)
+ <use random_walk.png>
+Package pdftex.def Info: random_walk.png used on input line 153.
+(pdftex.def)             Requested size: 89.33215pt x 44.76645pt.
+
+<cronin_enhancement.png, id=197, 554.07pt x 397.485pt>
+File: cronin_enhancement.png Graphic file (type png)
+
+<use cronin_enhancement.png>
+Package pdftex.def Info: cronin_enhancement.png used on input line 153.
+(pdftex.def)             Requested size: 138.51715pt x 99.371pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 153
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 153.
+[3
+
+ <./PDF_nuclear.png (PNG copy)> <./random_walk.png> <./cronin_enhancement.png>]
+LaTeX Info: Redefining \HepProcess on input line 155.
+ <2012-Aug-02-ALICE_3D_v0.jpg, id=226, 4154.52126pt x 3045.3775pt>
+File: 2012-Aug-02-ALICE_3D_v0.jpg Graphic file (type jpg)
+
+<use 2012-Aug-02-ALICE_3D_v0.jpg>
+Package pdftex.def Info: 2012-Aug-02-ALICE_3D_v0.jpg used on input line 202.
+(pdftex.def)             Requested size: 228.46768pt x 167.47304pt.
+
+<2012-Aug-02-ALICE_3D_ITS.jpg, id=227, 357.0138pt x 356.2911pt>
+File: 2012-Aug-02-ALICE_3D_ITS.jpg Graphic file (type jpg)
+
+<use 2012-Aug-02-ALICE_3D_ITS.jpg>
+Package pdftex.def Info: 2012-Aug-02-ALICE_3D_ITS.jpg used on input line 202.
+(pdftex.def)             Requested size: 64.2597pt x 64.12962pt.
+ <TPC.jpeg, id=228, 232.87pt x 178.6675pt>
+File: TPC.jpeg Graphic file (type jpg)
+
+<use TPC.jpeg>
+Package pdftex.def Info: TPC.jpeg used on input line 202.
+(pdftex.def)             Requested size: 116.43471pt x 89.33353pt.
+ <TOF.png, id=229, 641.39626pt x 569.12625pt>
+File: TOF.png Graphic file (type png)
+ <use TOF.png>
+Package pdftex.def Info: TOF.png used on input line 202.
+(pdftex.def)             Requested size: 83.38443pt x 73.989pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 202
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 202.
+[4
+
+ <./2012-Aug-02-ALICE_3D_v0.jpg> <./2012-Aug-02-ALICE_3D_ITS.jpg> <./TPC.jpeg> 
+<./TOF.png>] <Dplustokpipi.png, id=258, 693.792pt x 399.6531pt>
+File: Dplustokpipi.png Graphic file (type png)
+
+<use Dplustokpipi.png>
+Package pdftex.def Info: Dplustokpipi.png used on input line 247.
+(pdftex.def)             Requested size: 159.5688pt x 91.91827pt.
+
+<2013-Mar-06-betap_v5.png, id=259, 1927.2pt x 1311.90125pt>
+File: 2013-Mar-06-betap_v5.png Graphic file (type png)
+
+<use 2013-Mar-06-betap_v5.png>
+Package pdftex.def Info: 2013-Mar-06-betap_v5.png used on input line 247.
+(pdftex.def)             Requested size: 154.17915pt x 104.95424pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 247
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 247.
+[5
+
+ <./Dplustokpipi.png> <./2013-Mar-06-betap_v5.png>]
+LaTeX Info: Redefining \HepProcess on input line 249.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 249.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 249.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 249.
+
+<Prompt_sketch2.png, id=288, 833.1125pt x 655.44875pt>
+File: Prompt_sketch2.png Graphic file (type png)
+
+<use Prompt_sketch2.png>
+Package pdftex.def Info: Prompt_sketch2.png used on input line 283.
+(pdftex.def)             Requested size: 133.30072pt x 104.87393pt.
+ <FD_sketch2.png, id=289, 870.25125pt x 671.50874pt>
+File: FD_sketch2.png Graphic file (type png)
+
+<use FD_sketch2.png>
+Package pdftex.def Info: FD_sketch2.png used on input line 283.
+(pdftex.def)             Requested size: 139.24304pt x 107.44359pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 283
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 283.
+[6
+
+ <./Prompt_sketch2.png> <./FD_sketch2.png>]
+Overfull \vbox (7.58434pt too high) detected at line 325
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 325.
+[7
+
+]
+Package epstopdf Info: Source file: <2012-Jun-06-DplusCrossSection_pp7TeV.eps>
+(epstopdf)                    date: 2016-02-29 14:45:35
+(epstopdf)                    size: 28985 bytes
+(epstopdf)             Output file: <2012-Jun-06-DplusCrossSection_pp7TeV-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2016-02-29 14:46:09
+(epstopdf)                    size: 17468 bytes
+(epstopdf)             Command: <repstopdf --outfile=2012-Jun-06-DplusCrossSect
+ion_pp7TeV-eps-converted-to.pdf 2012-Jun-06-DplusCrossSection_pp7TeV.eps>
+(epstopdf)             \includegraphics on input line 342.
+Package epstopdf Info: Output file is already uptodate.
+
+<2012-Jun-06-DplusCrossSection_pp7TeV-eps-converted-to.pdf, id=351, 569.12625pt
+ x 594.22pt>
+File: 2012-Jun-06-DplusCrossSection_pp7TeV-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use 2012-Jun-06-DplusCrossSection_pp7TeV-eps-converted-to.pdf>
+Package pdftex.def Info: 2012-Jun-06-DplusCrossSection_pp7TeV-eps-converted-to.
+pdf used on input line 342.
+(pdftex.def)             Requested size: 170.73918pt x 178.26736pt.
+
+<jpsi_nonprompt_LHCb.png, id=352, 569.12625pt x 398.48875pt>
+File: jpsi_nonprompt_LHCb.png Graphic file (type png)
+
+<use jpsi_nonprompt_LHCb.png>
+Package pdftex.def Info: jpsi_nonprompt_LHCb.png used on input line 342.
+(pdftex.def)             Requested size: 170.73918pt x 119.54755pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 342
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 342.
+[8
+
+ <./2012-Jun-06-DplusCrossSection_pp7TeV-eps-converted-to.pdf> <./jpsi_nonpromp
+t_LHCb.png (PNG copy)>]
+LaTeX Info: Redefining \HepProcess on input line 344.
+LaTeX Info: Redefining \HepProcess on input line 359.
+ [9
+
+]
+<Prompt_sketch.png, id=423, 599.841pt x 471.9231pt>
+File: Prompt_sketch.png Graphic file (type png)
+ <use Prompt_sketch.png>
+Package pdftex.def Info: Prompt_sketch.png used on input line 395.
+(pdftex.def)             Requested size: 125.97032pt x 99.10677pt.
+
+<FD_sketch.png, id=424, 870.25125pt x 671.50874pt>
+File: FD_sketch.png Graphic file (type png)
+ <use FD_sketch.png>
+Package pdftex.def Info: FD_sketch.png used on input line 395.
+(pdftex.def)             Requested size: 139.24304pt x 107.44359pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 395
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 395.
+[10
+
+ <./Prompt_sketch.png> <./FD_sketch.png>]
+LaTeX Info: Redefining \HepProcess on input line 397.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 437.
+
+Overfull \vbox (7.58434pt too high) detected at line 437
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 437.
+[11
+
+]
+LaTeX Info: Redefining \HepProcess on input line 439.
+Package epstopdf Info: Source file: <ImpParPrompt_4-5.eps>
+(epstopdf)                    date: 2016-02-10 12:19:35
+(epstopdf)                    size: 20175 bytes
+(epstopdf)             Output file: <ImpParPrompt_4-5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:43
+(epstopdf)                    size: 15925 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_4-5-eps-conve
+rted-to.pdf ImpParPrompt_4-5.eps>
+(epstopdf)             \includegraphics on input line 467.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParPrompt_4-5-eps-converted-to.pdf, id=482, 569.12625pt x 414.54875pt>
+File: ImpParPrompt_4-5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_4-5-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_4-5-eps-converted-to.pdf used on input li
+ne 467.
+(pdftex.def)             Requested size: 199.19717pt x 145.09422pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 467
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 467.
+[12
+
+ <./ImpParPrompt_4-5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ImpParTrueFD_6-8.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 26081 bytes
+(epstopdf)             Output file: <ImpParTrueFD_6-8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:44
+(epstopdf)                    size: 19695 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_6-8-eps-conve
+rted-to.pdf ImpParTrueFD_6-8.eps>
+(epstopdf)             \includegraphics on input line 499.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParTrueFD_6-8-eps-converted-to.pdf, id=528, 569.12625pt x 414.54875pt>
+File: ImpParTrueFD_6-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_6-8-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_6-8-eps-converted-to.pdf used on input li
+ne 499.
+(pdftex.def)             Requested size: 199.19717pt x 145.09422pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 499
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 499.
+[13
+
+ <./ImpParTrueFD_6-8-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ImpParRecoFD_6-8.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 20520 bytes
+(epstopdf)             Output file: <ImpParRecoFD_6-8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:44
+(epstopdf)                    size: 17926 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_6-8-eps-conve
+rted-to.pdf ImpParRecoFD_6-8.eps>
+(epstopdf)             \includegraphics on input line 532.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParRecoFD_6-8-eps-converted-to.pdf, id=571, 569.12625pt x 414.54875pt>
+File: ImpParRecoFD_6-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_6-8-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_6-8-eps-converted-to.pdf used on input li
+ne 532.
+(pdftex.def)             Requested size: 199.19717pt x 145.09422pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 532
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 532.
+[14
+
+ <./ImpParRecoFD_6-8-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 534.
+Package epstopdf Info: Source file: <Mass_3-4.eps>
+(epstopdf)                    date: 2016-02-10 15:14:48
+(epstopdf)                    size: 17545 bytes
+(epstopdf)             Output file: <Mass_3-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 15:15:33
+(epstopdf)                    size: 18156 bytes
+(epstopdf)             Command: <repstopdf --outfile=Mass_3-4-eps-converted-to.
+pdf Mass_3-4.eps>
+(epstopdf)             \includegraphics on input line 574.
+Package epstopdf Info: Output file is already uptodate.
+
+<Mass_3-4-eps-converted-to.pdf, id=613, 569.12625pt x 414.54875pt>
+File: Mass_3-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Mass_3-4-eps-converted-to.pdf>
+Package pdftex.def Info: Mass_3-4-eps-converted-to.pdf used on input line 574.
+(pdftex.def)             Requested size: 170.73918pt x 124.36557pt.
+Package epstopdf Info: Source file: <ImpParBkg_3-4_NoFit.eps>
+(epstopdf)                    date: 2016-01-28 11:14:47
+(epstopdf)                    size: 19670 bytes
+(epstopdf)             Output file: <ImpParBkg_3-4_NoFit-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:45
+(epstopdf)                    size: 20043 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_3-4_NoFit-eps-co
+nverted-to.pdf ImpParBkg_3-4_NoFit.eps>
+(epstopdf)             \includegraphics on input line 574.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_3-4_NoFit-eps-converted-to.pdf, id=614, 569.12625pt x 414.54875pt>
+File: ImpParBkg_3-4_NoFit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_3-4_NoFit-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_3-4_NoFit-eps-converted-to.pdf used on input
+ line 574.
+(pdftex.def)             Requested size: 170.73918pt x 124.36557pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 574
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 574.
+[15
+
+ <./Mass_3-4-eps-converted-to.pdf> <./ImpParBkg_3-4_NoFit-eps-converted-to.pdf>
+]
+Package epstopdf Info: Source file: <ImpParBkg_3-4.eps>
+(epstopdf)                    date: 2016-02-10 12:19:47
+(epstopdf)                    size: 37357 bytes
+(epstopdf)             Output file: <ImpParBkg_3-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:45
+(epstopdf)                    size: 26193 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_3-4-eps-converte
+d-to.pdf ImpParBkg_3-4.eps>
+(epstopdf)             \includegraphics on input line 598.
+Package epstopdf Info: Output file is already uptodate.
+ <ImpParBkg_3-4-eps-converted-to.pdf, id=673, 569.12625pt x 414.54875pt>
+File: ImpParBkg_3-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_3-4-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_3-4-eps-converted-to.pdf used on input line 
+598.
+(pdftex.def)             Requested size: 227.64647pt x 165.81656pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 598
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 598.
+[16
+
+ <./ImpParBkg_3-4-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 600.
+
+Overfull \vbox (7.58434pt too high) detected at line 650
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 650.
+[17
+
+]
+Package epstopdf Info: Source file: <Mass_5-6_fit.eps>
+(epstopdf)                    date: 2016-02-10 14:57:18
+(epstopdf)                    size: 17761 bytes
+(epstopdf)             Output file: <Mass_5-6_fit-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:57:53
+(epstopdf)                    size: 17972 bytes
+(epstopdf)             Command: <repstopdf --outfile=Mass_5-6_fit-eps-converted
+-to.pdf Mass_5-6_fit.eps>
+(epstopdf)             \includegraphics on input line 690.
+Package epstopdf Info: Output file is already uptodate.
+ <Mass_5-6_fit-eps-converted-to.pdf, id=741, 569.12625pt x 414.54875pt>
+File: Mass_5-6_fit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Mass_5-6_fit-eps-converted-to.pdf>
+Package pdftex.def Info: Mass_5-6_fit-eps-converted-to.pdf used on input line 6
+90.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+Package epstopdf Info: Source file: <FitUnbinned_5-6_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 12:26:58
+(epstopdf)                    size: 78381 bytes
+(epstopdf)             Output file: <FitUnbinned_5-6_bkg_plot-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-02-10 14:48:46
+(epstopdf)                    size: 52871 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_5-6_bkg_plot-e
+ps-converted-to.pdf FitUnbinned_5-6_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 690.
+Package epstopdf Info: Output file is already uptodate.
+
+<FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf, id=742, 569.12625pt x 414.54875
+pt>
+File: FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+ <use FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf used on 
+input line 690.
+(pdftex.def)             Requested size: 210.57341pt x 153.38063pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 690
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 690.
+[18
+
+ <./Mass_5-6_fit-eps-converted-to.pdf> <./FitUnbinned_5-6_bkg_plot-eps-converte
+d-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 692.
+Package epstopdf Info: Source file: <promptfraction_syst_sigma.eps>
+(epstopdf)                    date: 2016-02-10 14:16:47
+(epstopdf)                    size: 14381 bytes
+(epstopdf)             Output file: <promptfraction_syst_sigma-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-02-10 15:17:31
+(epstopdf)                    size: 10708 bytes
+(epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_sigma-
+eps-converted-to.pdf promptfraction_syst_sigma.eps>
+(epstopdf)             \includegraphics on input line 726.
+Package epstopdf Info: Output file is already uptodate.
+
+<promptfraction_syst_sigma-eps-converted-to.pdf, id=799, 569.12625pt x 272.0162
+5pt>
+File: promptfraction_syst_sigma-eps-converted-to.pdf Graphic file (type pdf)
+ <use promptfraction_syst_sigma-eps-converted-to.pdf>
+Package pdftex.def Info: promptfraction_syst_sigma-eps-converted-to.pdf used on
+ input line 726.
+(pdftex.def)             Requested size: 256.10445pt x 122.40617pt.
+Package epstopdf Info: Source file: <sigmaprompt.eps>
+(epstopdf)                    date: 2016-02-10 14:16:47
+(epstopdf)                    size: 10198 bytes
+(epstopdf)             Output file: <sigmaprompt-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 15:17:32
+(epstopdf)                    size: 10145 bytes
+(epstopdf)             Command: <repstopdf --outfile=sigmaprompt-eps-converted-
+to.pdf sigmaprompt.eps>
+(epstopdf)             \includegraphics on input line 726.
+Package epstopdf Info: Output file is already uptodate.
+
+<sigmaprompt-eps-converted-to.pdf, id=800, 569.12625pt x 408.52625pt>
+File: sigmaprompt-eps-converted-to.pdf Graphic file (type pdf)
+
+<use sigmaprompt-eps-converted-to.pdf>
+Package pdftex.def Info: sigmaprompt-eps-converted-to.pdf used on input line 72
+6.
+(pdftex.def)             Requested size: 125.20816pt x 89.87605pt.
+
+Overfull \hbox (178.1042pt too wide) in paragraph at lines 726--726
+[][] 
+ []
+
+
+Overfull \vbox (7.84464pt too high) detected at line 726
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 726.
+[19
+
+ <./promptfraction_syst_sigma-eps-converted-to.pdf> <./sigmaprompt-eps-converte
+d-to.pdf>]
+Package epstopdf Info: Source file: <promptfraction_syst_range.eps>
+(epstopdf)                    date: 2016-02-10 17:06:43
+(epstopdf)                    size: 27865 bytes
+(epstopdf)             Output file: <promptfraction_syst_range-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-02-10 17:33:06
+(epstopdf)                    size: 18298 bytes
+(epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_range-
+eps-converted-to.pdf promptfraction_syst_range.eps>
+(epstopdf)             \includegraphics on input line 759.
+Package epstopdf Info: Output file is already uptodate.
+
+<promptfraction_syst_range-eps-converted-to.pdf, id=854, 569.12625pt x 272.0162
+5pt>
+File: promptfraction_syst_range-eps-converted-to.pdf Graphic file (type pdf)
+ <use promptfraction_syst_range-eps-converted-to.pdf>
+Package pdftex.def Info: promptfraction_syst_range-eps-converted-to.pdf used on
+ input line 759.
+(pdftex.def)             Requested size: 284.56242pt x 136.00778pt.
+
+Overfull \hbox (167.47528pt too wide) in paragraph at lines 759--759
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 759
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 759.
+[20
+
+ <./promptfraction_syst_range-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <promptfraction_syst_MassRange.eps>
+(epstopdf)                    date: 2016-02-09 17:14:49
+(epstopdf)                    size: 18285 bytes
+(epstopdf)             Output file: <promptfraction_syst_MassRange-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-02-10 15:17:32
+(epstopdf)                    size: 13864 bytes
+(epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_MassRa
+nge-eps-converted-to.pdf promptfraction_syst_MassRange.eps>
+(epstopdf)             \includegraphics on input line 792.
+Package epstopdf Info: Output file is already uptodate.
+
+<promptfraction_syst_MassRange-eps-converted-to.pdf, id=893, 569.12625pt x 272.
+01625pt>
+File: promptfraction_syst_MassRange-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use promptfraction_syst_MassRange-eps-converted-to.pdf>
+Package pdftex.def Info: promptfraction_syst_MassRange-eps-converted-to.pdf use
+d on input line 792.
+(pdftex.def)             Requested size: 284.56242pt x 136.00778pt.
+
+Overfull \hbox (187.90897pt too wide) in paragraph at lines 792--792
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 792
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 792.
+[21
+
+ <./promptfraction_syst_MassRange-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <promptfraction_syst_SBtot.eps>
+(epstopdf)                    date: 2016-02-09 17:05:04
+(epstopdf)                    size: 19648 bytes
+(epstopdf)             Output file: <promptfraction_syst_SBtot-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-02-10 15:17:33
+(epstopdf)                    size: 15918 bytes
+(epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_SBtot-
+eps-converted-to.pdf promptfraction_syst_SBtot.eps>
+(epstopdf)             \includegraphics on input line 820.
+Package epstopdf Info: Output file is already uptodate.
+
+<promptfraction_syst_SBtot-eps-converted-to.pdf, id=933, 569.12625pt x 272.0162
+5pt>
+File: promptfraction_syst_SBtot-eps-converted-to.pdf Graphic file (type pdf)
+ <use promptfraction_syst_SBtot-eps-converted-to.pdf>
+Package pdftex.def Info: promptfraction_syst_SBtot-eps-converted-to.pdf used on
+ input line 820.
+(pdftex.def)             Requested size: 273.17749pt x 130.56631pt.
+
+Overfull \hbox (185.41583pt too wide) in paragraph at lines 820--820
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 820
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 820.
+[22
+
+ <./promptfraction_syst_SBtot-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <promptfraction_syst_prefit.eps>
+(epstopdf)                    date: 2016-02-09 16:32:52
+(epstopdf)                    size: 13174 bytes
+(epstopdf)             Output file: <promptfraction_syst_prefit-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2016-02-10 15:17:33
+(epstopdf)                    size: 9637 bytes
+(epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_prefit
+-eps-converted-to.pdf promptfraction_syst_prefit.eps>
+(epstopdf)             \includegraphics on input line 846.
+Package epstopdf Info: Output file is already uptodate.
+
+<promptfraction_syst_prefit-eps-converted-to.pdf, id=972, 569.12625pt x 272.016
+25pt>
+File: promptfraction_syst_prefit-eps-converted-to.pdf Graphic file (type pdf)
+ <use promptfraction_syst_prefit-eps-converted-to.pdf>
+Package pdftex.def Info: promptfraction_syst_prefit-eps-converted-to.pdf used o
+n input line 846.
+(pdftex.def)             Requested size: 273.17749pt x 130.56631pt.
+
+Overfull \hbox (182.49986pt too wide) in paragraph at lines 846--846
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 846
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 846.
+[23
+
+ <./promptfraction_syst_prefit-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <fprompt_syst_SoverT_onlyratio.eps>
+(epstopdf)                    date: 2016-02-18 12:20:59
+(epstopdf)                    size: 9778 bytes
+(epstopdf)             Output file: <fprompt_syst_SoverT_onlyratio-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-02-18 12:23:24
+(epstopdf)                    size: 9608 bytes
+(epstopdf)             Command: <repstopdf --outfile=fprompt_syst_SoverT_onlyra
+tio-eps-converted-to.pdf fprompt_syst_SoverT_onlyratio.eps>
+(epstopdf)             \includegraphics on input line 873.
+Package epstopdf Info: Output file is already uptodate.
+
+<fprompt_syst_SoverT_onlyratio-eps-converted-to.pdf, id=1007, 569.12625pt x 552
+.0625pt>
+File: fprompt_syst_SoverT_onlyratio-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use fprompt_syst_SoverT_onlyratio-eps-converted-to.pdf>
+Package pdftex.def Info: fprompt_syst_SoverT_onlyratio-eps-converted-to.pdf use
+d on input line 873.
+(pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
+Package epstopdf Info: Source file: <rawyields_ratio.eps>
+(epstopdf)                    date: 2016-02-18 12:40:25
+(epstopdf)                    size: 9515 bytes
+(epstopdf)             Output file: <rawyields_ratio-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-18 12:40:42
+(epstopdf)                    size: 9457 bytes
+(epstopdf)             Command: <repstopdf --outfile=rawyields_ratio-eps-conver
+ted-to.pdf rawyields_ratio.eps>
+(epstopdf)             \includegraphics on input line 873.
+Package epstopdf Info: Output file is already uptodate.
+
+<rawyields_ratio-eps-converted-to.pdf, id=1008, 569.12625pt x 552.0625pt>
+File: rawyields_ratio-eps-converted-to.pdf Graphic file (type pdf)
+
+<use rawyields_ratio-eps-converted-to.pdf>
+Package pdftex.def Info: rawyields_ratio-eps-converted-to.pdf used on input lin
+e 873.
+(pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 873
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 873.
+[24
+
+ <./fprompt_syst_SoverT_onlyratio-eps-converted-to.pdf> <./rawyields_ratio-eps-
+converted-to.pdf>]
+Package epstopdf Info: Source file: <promptcrosssection_syst_SoverT.eps>
+(epstopdf)                    date: 2016-02-15 17:41:18
+(epstopdf)                    size: 16881 bytes
+(epstopdf)             Output file: <promptcrosssection_syst_SoverT-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2016-02-18 12:46:38
+(epstopdf)                    size: 11033 bytes
+(epstopdf)             Command: <repstopdf --outfile=promptcrosssection_syst_So
+verT-eps-converted-to.pdf promptcrosssection_syst_SoverT.eps>
+(epstopdf)             \includegraphics on input line 906.
+Package epstopdf Info: Output file is already uptodate.
+
+<promptcrosssection_syst_SoverT-eps-converted-to.pdf, id=1060, 569.12625pt x 27
+2.01625pt>
+File: promptcrosssection_syst_SoverT-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use promptcrosssection_syst_SoverT-eps-converted-to.pdf>
+Package pdftex.def Info: promptcrosssection_syst_SoverT-eps-converted-to.pdf us
+ed on input line 906.
+(pdftex.def)             Requested size: 313.0204pt x 149.60939pt.
+
+Overfull \hbox (167.47528pt too wide) in paragraph at lines 906--906
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 906
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 906.
+[25
+
+ <./promptcrosssection_syst_SoverT-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <promptfraction_syst_pTreweight.eps>
+(epstopdf)                    date: 2016-02-09 17:05:17
+(epstopdf)                    size: 17610 bytes
+(epstopdf)             Output file: <promptfraction_syst_pTreweight-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2016-02-10 15:17:34
+(epstopdf)                    size: 10585 bytes
+(epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_pTrewe
+ight-eps-converted-to.pdf promptfraction_syst_pTreweight.eps>
+(epstopdf)             \includegraphics on input line 941.
+Package epstopdf Info: Output file is already uptodate.
+
+<promptfraction_syst_pTreweight-eps-converted-to.pdf, id=1099, 569.12625pt x 27
+2.01625pt>
+File: promptfraction_syst_pTreweight-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use promptfraction_syst_pTreweight-eps-converted-to.pdf>
+Package pdftex.def Info: promptfraction_syst_pTreweight-eps-converted-to.pdf us
+ed on input line 941.
+(pdftex.def)             Requested size: 256.10445pt x 122.40617pt.
+Package epstopdf Info: Source file: <DplusPrompt_PtSpectrum.eps>
+(epstopdf)                    date: 2016-02-01 09:04:21
+(epstopdf)                    size: 34532 bytes
+(epstopdf)             Output file: <DplusPrompt_PtSpectrum-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-02-01 09:05:26
+(epstopdf)                    size: 22925 bytes
+(epstopdf)             Command: <repstopdf --outfile=DplusPrompt_PtSpectrum-eps
+-converted-to.pdf DplusPrompt_PtSpectrum.eps>
+(epstopdf)             \includegraphics on input line 941.
+Package epstopdf Info: Output file is already uptodate.
+
+<DplusPrompt_PtSpectrum-eps-converted-to.pdf, id=1100, 569.12625pt x 414.54875p
+t>
+File: DplusPrompt_PtSpectrum-eps-converted-to.pdf Graphic file (type pdf)
+ <use DplusPrompt_PtSpectrum-eps-converted-to.pdf>
+Package pdftex.def Info: DplusPrompt_PtSpectrum-eps-converted-to.pdf used on in
+put line 941.
+(pdftex.def)             Requested size: 125.20816pt x 91.201pt.
+
+Overfull \hbox (174.79189pt too wide) in paragraph at lines 941--941
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 941
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 941.
+[26
+
+ <./promptfraction_syst_pTreweight-eps-converted-to.pdf> <./DplusPrompt_PtSpect
+rum-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 943.
+Package epstopdf Info: Source file: <Bias_bkg_freesigma.eps>
+(epstopdf)                    date: 2016-02-10 15:23:34
+(epstopdf)                    size: 13750 bytes
+(epstopdf)             Output file: <Bias_bkg_freesigma-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 15:23:53
+(epstopdf)                    size: 11501 bytes
+(epstopdf)             Command: <repstopdf --outfile=Bias_bkg_freesigma-eps-con
+verted-to.pdf Bias_bkg_freesigma.eps>
+(epstopdf)             \includegraphics on input line 977.
+Package epstopdf Info: Output file is already uptodate.
+
+<Bias_bkg_freesigma-eps-converted-to.pdf, id=1147, 569.12625pt x 414.54875pt>
+File: Bias_bkg_freesigma-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Bias_bkg_freesigma-eps-converted-to.pdf>
+Package pdftex.def Info: Bias_bkg_freesigma-eps-converted-to.pdf used on input 
+line 977.
+(pdftex.def)             Requested size: 227.64647pt x 165.81656pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 977
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 977.
+[27
+
+ <./Bias_bkg_freesigma-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 979.
+Package epstopdf Info: Source file: <prompt_fraction.eps>
+(epstopdf)                    date: 2016-02-18 12:13:22
+(epstopdf)                    size: 9725 bytes
+(epstopdf)             Output file: <prompt_fraction-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-18 12:13:41
+(epstopdf)                    size: 10632 bytes
+(epstopdf)             Command: <repstopdf --outfile=prompt_fraction-eps-conver
+ted-to.pdf prompt_fraction.eps>
+(epstopdf)             \includegraphics on input line 1001.
+Package epstopdf Info: Output file is already uptodate.
+
+<prompt_fraction-eps-converted-to.pdf, id=1185, 569.12625pt x 408.52625pt>
+File: prompt_fraction-eps-converted-to.pdf Graphic file (type pdf)
+
+<use prompt_fraction-eps-converted-to.pdf>
+Package pdftex.def Info: prompt_fraction-eps-converted-to.pdf used on input lin
+e 1001.
+(pdftex.def)             Requested size: 250.41632pt x 179.7521pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1001
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1001.
+[28
+
+ <./prompt_fraction-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1003.
+LaTeX Info: Redefining \HepProcess on input line 1018.
+ [29
+
+]
+<DplusCand.png, id=1254, 815.045pt x 248.127pt>
+File: DplusCand.png Graphic file (type png)
+ <use DplusCand.png>
+Package pdftex.def Info: DplusCand.png used on input line 1063.
+(pdftex.def)             Requested size: 163.0061pt x 49.62451pt.
+Package epstopdf Info: Source file: <MassFit_pt_1-24_fit.eps>
+(epstopdf)                    date: 2016-01-28 11:12:31
+(epstopdf)                    size: 18261 bytes
+(epstopdf)             Output file: <MassFit_pt_1-24_fit-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-28 11:15:06
+(epstopdf)                    size: 17615 bytes
+(epstopdf)             Command: <repstopdf --outfile=MassFit_pt_1-24_fit-eps-co
+nverted-to.pdf MassFit_pt_1-24_fit.eps>
+(epstopdf)             \includegraphics on input line 1063.
+Package epstopdf Info: Output file is already uptodate.
+
+<MassFit_pt_1-24_fit-eps-converted-to.pdf, id=1255, 569.12625pt x 414.54875pt>
+File: MassFit_pt_1-24_fit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MassFit_pt_1-24_fit-eps-converted-to.pdf>
+Package pdftex.def Info: MassFit_pt_1-24_fit-eps-converted-to.pdf used on input
+ line 1063.
+(pdftex.def)             Requested size: 136.59308pt x 99.49373pt.
+
+<DplusCand2.png, id=1256, 664.4825pt x 309.155pt>
+File: DplusCand2.png Graphic file (type png)
+ <use DplusCand2.png>
+Package pdftex.def Info: DplusCand2.png used on input line 1063.
+(pdftex.def)             Requested size: 132.89413pt x 61.8299pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1063
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1063.
+[30
+
+ <./DplusCand.png> <./MassFit_pt_1-24_fit-eps-converted-to.pdf> <./DplusCand2.p
+ng>] <DplusCand3.png, id=1299, 664.4825pt x 309.155pt>
+File: DplusCand3.png Graphic file (type png)
+ <use DplusCand3.png>
+Package pdftex.def Info: DplusCand3.png used on input line 1129.
+(pdftex.def)             Requested size: 132.89413pt x 61.8299pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1129
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1129.
+[31
+
+ <./DplusCand3.png>]
+LaTeX Info: Redefining \HepProcess on input line 1131.
+
+Overfull \vbox (7.58434pt too high) detected at line 1215
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1215.
+[32
+
+]
+Overfull \vbox (7.58434pt too high) detected at line 1268
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1268.
+[33
+
+]
+LaTeX Info: Redefining \HepProcess on input line 1270.
+Package epstopdf Info: Source file: <Lines_5-6.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 29716 bytes
+(epstopdf)             Output file: <Lines_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:45
+(epstopdf)                    size: 18844 bytes
+(epstopdf)             Command: <repstopdf --outfile=Lines_5-6-eps-converted-to
+.pdf Lines_5-6.eps>
+(epstopdf)             \includegraphics on input line 1322.
+Package epstopdf Info: Output file is already uptodate.
+ <Lines_5-6-eps-converted-to.pdf, id=1380, 569.12625pt x 414.54875pt>
+File: Lines_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Lines_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: Lines_5-6-eps-converted-to.pdf used on input line 1322
+.
+(pdftex.def)             Requested size: 204.88528pt x 149.23743pt.
+
+Underfull \hbox (badness 1412) in paragraph at lines 1322--1322
+[]\T1/phv/m/n/9 Idealmente c'� soltanto un punto di in-ter-sezione tra tutte le
+ rette, ma l'errore
+ []
+
+<Incentre_def.png, id=1381, 460.72125pt x 288.07625pt>
+File: Incentre_def.png Graphic file (type png)
+ <use Incentre_def.png>
+Package pdftex.def Info: Incentre_def.png used on input line 1322.
+(pdftex.def)             Requested size: 129.00107pt x 80.66078pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1322
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1322.
+[34
+
+ <./Lines_5-6-eps-converted-to.pdf> <./Incentre_def.png>]
+Package epstopdf Info: Source file: <LinesErr_5-6.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 37020 bytes
+(epstopdf)             Output file: <LinesErr_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:38
+(epstopdf)                    size: 23313 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesErr_5-6-eps-converted
+-to.pdf LinesErr_5-6.eps>
+(epstopdf)             \includegraphics on input line 1385.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesErr_5-6-eps-converted-to.pdf, id=1419, 569.12625pt x 414.54875pt>
+File: LinesErr_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesErr_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: LinesErr_5-6-eps-converted-to.pdf used on input line 1
+385.
+(pdftex.def)             Requested size: 227.64647pt x 165.81656pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1385
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1385.
+[35
+
+ <./LinesErr_5-6-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <LinesDisp_5-6.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 136404 bytes
+(epstopdf)             Output file: <LinesDisp_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:08
+(epstopdf)                    size: 446805 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_5-6-eps-converte
+d-to.pdf LinesDisp_5-6.eps>
+(epstopdf)             \includegraphics on input line 1418.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesDisp_5-6-eps-converted-to.pdf, id=1453, 569.12625pt x 554.07pt>
+File: LinesDisp_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_5-6-eps-converted-to.pdf used on input line 
+1418.
+(pdftex.def)             Requested size: 147.96933pt x 144.0548pt.
+Package epstopdf Info: Source file: <Nprompt_disp_5-6.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 7872 bytes
+(epstopdf)             Output file: <Nprompt_disp_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:12:16
+(epstopdf)                    size: 7149 bytes
+(epstopdf)             Command: <repstopdf --outfile=Nprompt_disp_5-6-eps-conve
+rted-to.pdf Nprompt_disp_5-6.eps>
+(epstopdf)             \includegraphics on input line 1418.
+Package epstopdf Info: Output file is already uptodate.
+
+<Nprompt_disp_5-6-eps-converted-to.pdf, id=1454, 569.12625pt x 414.54875pt>
+File: Nprompt_disp_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Nprompt_disp_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: Nprompt_disp_5-6-eps-converted-to.pdf used on input li
+ne 1418.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+Package epstopdf Info: Source file: <Nfeeddown_disp_5-6.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 7434 bytes
+(epstopdf)             Output file: <Nfeeddown_disp_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:38
+(epstopdf)                    size: 6656 bytes
+(epstopdf)             Command: <repstopdf --outfile=Nfeeddown_disp_5-6-eps-con
+verted-to.pdf Nfeeddown_disp_5-6.eps>
+(epstopdf)             \includegraphics on input line 1418.
+Package epstopdf Info: Output file is already uptodate.
+
+<Nfeeddown_disp_5-6-eps-converted-to.pdf, id=1455, 569.12625pt x 367.3725pt>
+File: Nfeeddown_disp_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Nfeeddown_disp_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: Nfeeddown_disp_5-6-eps-converted-to.pdf used on input 
+line 1418.
+(pdftex.def)             Requested size: 147.96933pt x 95.51459pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1418
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1418.
+[36
+
+ <./LinesDisp_5-6-eps-converted-to.pdf> <./Nprompt_disp_5-6-eps-converted-to.pd
+f> <./Nfeeddown_disp_5-6-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1420.
+
+<vars.png, id=1500, 629.4717pt x 504.4446pt>
+File: vars.png Graphic file (type png)
+ <use vars.png>
+Package pdftex.def Info: vars.png used on input line 1470.
+(pdftex.def)             Requested size: 113.3pt x 90.7961pt.
+
+<d0d0exp.png, id=1501, 549.252pt x 372.9132pt>
+File: d0d0exp.png Graphic file (type png)
+ <use d0d0exp.png>
+Package pdftex.def Info: d0d0exp.png used on input line 1470.
+(pdftex.def)             Requested size: 109.84845pt x 74.58131pt.
+
+Overfull \hbox (1.23637pt too wide) detected at line 1470
+\T1/ptm/m/it/9 d[] \U/zeus/m/n/9 ^^Y \T1/ptm/m/it/9 L[] []\U/zeus/m/n/9 �\U/zeu
+r/m/n/9 ^^R[]\U/zeus/m/n/9 �
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 1470
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1470.
+[37
+
+ <./vars.png> <./d0d0exp.png>]
+Package epstopdf Info: Source file: <Dist_cxy_5-6.eps>
+(epstopdf)                    date: 2016-02-10 16:07:26
+(epstopdf)                    size: 8733 bytes
+(epstopdf)             Output file: <Dist_cxy_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 16:09:17
+(epstopdf)                    size: 9737 bytes
+(epstopdf)             Command: <repstopdf --outfile=Dist_cxy_5-6-eps-converted
+-to.pdf Dist_cxy_5-6.eps>
+(epstopdf)             \includegraphics on input line 1514.
+Package epstopdf Info: Output file is already uptodate.
+
+<Dist_cxy_5-6-eps-converted-to.pdf, id=1534, 569.12625pt x 414.54875pt>
+File: Dist_cxy_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Dist_cxy_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: Dist_cxy_5-6-eps-converted-to.pdf used on input line 1
+514.
+(pdftex.def)             Requested size: 136.59308pt x 99.49373pt.
+Package epstopdf Info: Source file: <Dist_NLxy_5-6.eps>
+(epstopdf)                    date: 2016-02-10 16:07:33
+(epstopdf)                    size: 8331 bytes
+(epstopdf)             Output file: <Dist_NLxy_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 16:10:03
+(epstopdf)                    size: 9044 bytes
+(epstopdf)             Command: <repstopdf --outfile=Dist_NLxy_5-6-eps-converte
+d-to.pdf Dist_NLxy_5-6.eps>
+(epstopdf)             \includegraphics on input line 1514.
+Package epstopdf Info: Output file is already uptodate.
+
+<Dist_NLxy_5-6-eps-converted-to.pdf, id=1535, 569.12625pt x 414.54875pt>
+File: Dist_NLxy_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Dist_NLxy_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: Dist_NLxy_5-6-eps-converted-to.pdf used on input line 
+1514.
+(pdftex.def)             Requested size: 136.59308pt x 99.49373pt.
+Package epstopdf Info: Source file: <Dist_Lxy_5-6.eps>
+(epstopdf)                    date: 2016-02-10 16:07:28
+(epstopdf)                    size: 10188 bytes
+(epstopdf)             Output file: <Dist_Lxy_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 16:10:03
+(epstopdf)                    size: 10212 bytes
+(epstopdf)             Command: <repstopdf --outfile=Dist_Lxy_5-6-eps-converted
+-to.pdf Dist_Lxy_5-6.eps>
+(epstopdf)             \includegraphics on input line 1514.
+Package epstopdf Info: Output file is already uptodate.
+
+<Dist_Lxy_5-6-eps-converted-to.pdf, id=1536, 569.12625pt x 414.54875pt>
+File: Dist_Lxy_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Dist_Lxy_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: Dist_Lxy_5-6-eps-converted-to.pdf used on input line 1
+514.
+(pdftex.def)             Requested size: 136.59308pt x 99.49373pt.
+Package epstopdf Info: Source file: <Dist_d0d0exp_5-6.eps>
+(epstopdf)                    date: 2016-02-10 16:07:38
+(epstopdf)                    size: 9669 bytes
+(epstopdf)             Output file: <Dist_d0d0exp_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 16:09:17
+(epstopdf)                    size: 9321 bytes
+(epstopdf)             Command: <repstopdf --outfile=Dist_d0d0exp_5-6-eps-conve
+rted-to.pdf Dist_d0d0exp_5-6.eps>
+(epstopdf)             \includegraphics on input line 1514.
+Package epstopdf Info: Output file is already uptodate.
+
+<Dist_d0d0exp_5-6-eps-converted-to.pdf, id=1537, 569.12625pt x 414.54875pt>
+File: Dist_d0d0exp_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Dist_d0d0exp_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: Dist_d0d0exp_5-6-eps-converted-to.pdf used on input li
+ne 1514.
+(pdftex.def)             Requested size: 136.59308pt x 99.49373pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1514
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1514.
+[38
+
+ <./Dist_cxy_5-6-eps-converted-to.pdf> <./Dist_NLxy_5-6-eps-converted-to.pdf> <
+./Dist_Lxy_5-6-eps-converted-to.pdf> <./Dist_d0d0exp_5-6-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1516.
+Package epstopdf Info: Source file: <Eff_Set1.eps>
+(epstopdf)                    date: 2016-02-29 09:39:59
+(epstopdf)                    size: 7950 bytes
+(epstopdf)             Output file: <Eff_Set1-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 09:40:26
+(epstopdf)                    size: 9572 bytes
+(epstopdf)             Command: <repstopdf --outfile=Eff_Set1-eps-converted-to.
+pdf Eff_Set1.eps>
+(epstopdf)             \includegraphics on input line 1548.
+Package epstopdf Info: Output file is already uptodate.
+ <Eff_Set1-eps-converted-to.pdf, id=1612, 569.12625pt x 414.54875pt>
+File: Eff_Set1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Eff_Set1-eps-converted-to.pdf>
+Package pdftex.def Info: Eff_Set1-eps-converted-to.pdf used on input line 1548.
+
+(pdftex.def)             Requested size: 204.88528pt x 149.23743pt.
+
+Overfull \hbox (168.77878pt too wide) in paragraph at lines 1548--1548
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 1548
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1548.
+[39
+
+ <./Eff_Set1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Eff_Set2.eps>
+(epstopdf)                    date: 2016-02-29 09:39:59
+(epstopdf)                    size: 7833 bytes
+(epstopdf)             Output file: <Eff_Set2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 09:40:27
+(epstopdf)                    size: 9501 bytes
+(epstopdf)             Command: <repstopdf --outfile=Eff_Set2-eps-converted-to.
+pdf Eff_Set2.eps>
+(epstopdf)             \includegraphics on input line 1577.
+Package epstopdf Info: Output file is already uptodate.
+
+<Eff_Set2-eps-converted-to.pdf, id=1653, 569.12625pt x 414.54875pt>
+File: Eff_Set2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Eff_Set2-eps-converted-to.pdf>
+Package pdftex.def Info: Eff_Set2-eps-converted-to.pdf used on input line 1577.
+
+(pdftex.def)             Requested size: 204.88528pt x 149.23743pt.
+
+Overfull \hbox (158.23276pt too wide) in paragraph at lines 1577--1577
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 1577
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1577.
+[40
+
+ <./Eff_Set2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Eff_Set3.eps>
+(epstopdf)                    date: 2016-02-29 09:39:59
+(epstopdf)                    size: 8836 bytes
+(epstopdf)             Output file: <Eff_Set3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 09:40:27
+(epstopdf)                    size: 9921 bytes
+(epstopdf)             Command: <repstopdf --outfile=Eff_Set3-eps-converted-to.
+pdf Eff_Set3.eps>
+(epstopdf)             \includegraphics on input line 1610.
+Package epstopdf Info: Output file is already uptodate.
+
+<Eff_Set3-eps-converted-to.pdf, id=1691, 569.12625pt x 414.54875pt>
+File: Eff_Set3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Eff_Set3-eps-converted-to.pdf>
+Package pdftex.def Info: Eff_Set3-eps-converted-to.pdf used on input line 1610.
+
+(pdftex.def)             Requested size: 204.88528pt x 149.23743pt.
+
+Overfull \hbox (158.23276pt too wide) in paragraph at lines 1610--1610
+[][] 
+ []
+
+
+Overfull \vbox (7.58434pt too high) detected at line 1610
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1610.
+[41
+
+ <./Eff_Set3-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1612.
+Package epstopdf Info: Source file: <Fitter_5_fit_set1.eps>
+(epstopdf)                    date: 2016-02-29 09:27:45
+(epstopdf)                    size: 16134 bytes
+(epstopdf)             Output file: <Fitter_5_fit_set1-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 09:37:39
+(epstopdf)                    size: 17065 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fitter_5_fit_set1-eps-conv
+erted-to.pdf Fitter_5_fit_set1.eps>
+(epstopdf)             \includegraphics on input line 1629.
+Package epstopdf Info: Output file is already uptodate.
+
+<Fitter_5_fit_set1-eps-converted-to.pdf, id=1730, 569.12625pt x 414.54875pt>
+File: Fitter_5_fit_set1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Fitter_5_fit_set1-eps-converted-to.pdf>
+Package pdftex.def Info: Fitter_5_fit_set1-eps-converted-to.pdf used on input l
+ine 1629.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+Package epstopdf Info: Source file: <Fitter_5_fit_set2.eps>
+(epstopdf)                    date: 2016-02-29 09:27:45
+(epstopdf)                    size: 15136 bytes
+(epstopdf)             Output file: <Fitter_5_fit_set2-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 09:37:39
+(epstopdf)                    size: 16773 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fitter_5_fit_set2-eps-conv
+erted-to.pdf Fitter_5_fit_set2.eps>
+(epstopdf)             \includegraphics on input line 1629.
+Package epstopdf Info: Output file is already uptodate.
+
+<Fitter_5_fit_set2-eps-converted-to.pdf, id=1731, 569.12625pt x 414.54875pt>
+File: Fitter_5_fit_set2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Fitter_5_fit_set2-eps-converted-to.pdf>
+Package pdftex.def Info: Fitter_5_fit_set2-eps-converted-to.pdf used on input l
+ine 1629.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+Package epstopdf Info: Source file: <Fitter_5_fit_set3.eps>
+(epstopdf)                    date: 2016-02-29 09:27:45
+(epstopdf)                    size: 15177 bytes
+(epstopdf)             Output file: <Fitter_5_fit_set3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 09:37:39
+(epstopdf)                    size: 16708 bytes
+(epstopdf)             Command: <repstopdf --outfile=Fitter_5_fit_set3-eps-conv
+erted-to.pdf Fitter_5_fit_set3.eps>
+(epstopdf)             \includegraphics on input line 1629.
+Package epstopdf Info: Output file is already uptodate.
+
+<Fitter_5_fit_set3-eps-converted-to.pdf, id=1732, 569.12625pt x 414.54875pt>
+File: Fitter_5_fit_set3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Fitter_5_fit_set3-eps-converted-to.pdf>
+Package pdftex.def Info: Fitter_5_fit_set3-eps-converted-to.pdf used on input l
+ine 1629.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1629
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1629.
+[42
+
+ <./Fitter_5_fit_set1-eps-converted-to.pdf> <./Fitter_5_fit_set2-eps-converted-
+to.pdf> <./Fitter_5_fit_set3-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1631.
+Package epstopdf Info: Source file: <CrossSectionPromptpPb.eps>
+(epstopdf)                    date: 2016-02-29 09:50:13
+(epstopdf)                    size: 19965 bytes
+(epstopdf)             Output file: <CrossSectionPromptpPb-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-02-29 09:53:18
+(epstopdf)                    size: 13450 bytes
+(epstopdf)             Command: <repstopdf --outfile=CrossSectionPromptpPb-eps-
+converted-to.pdf CrossSectionPromptpPb.eps>
+(epstopdf)             \includegraphics on input line 1655.
+Package epstopdf Info: Output file is already uptodate.
+
+<CrossSectionPromptpPb-eps-converted-to.pdf, id=1804, 569.12625pt x 552.0625pt>
+File: CrossSectionPromptpPb-eps-converted-to.pdf Graphic file (type pdf)
+<use CrossSectionPromptpPb-eps-converted-to.pdf>
+Package pdftex.def Info: CrossSectionPromptpPb-eps-converted-to.pdf used on inp
+ut line 1655.
+(pdftex.def)             Requested size: 210.57341pt x 204.25992pt.
+Package epstopdf Info: Source file: <RatioPublishedPromptpPb.eps>
+(epstopdf)                    date: 2016-02-29 09:50:13
+(epstopdf)                    size: 10671 bytes
+(epstopdf)             Output file: <RatioPublishedPromptpPb-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-02-29 09:53:02
+(epstopdf)                    size: 9359 bytes
+(epstopdf)             Command: <repstopdf --outfile=RatioPublishedPromptpPb-ep
+s-converted-to.pdf RatioPublishedPromptpPb.eps>
+(epstopdf)             \includegraphics on input line 1655.
+Package epstopdf Info: Output file is already uptodate.
+
+<RatioPublishedPromptpPb-eps-converted-to.pdf, id=1805, 569.12625pt x 408.52625
+pt>
+File: RatioPublishedPromptpPb-eps-converted-to.pdf Graphic file (type pdf)
+ <use RatioPublishedPromptpPb-eps-converted-to.pdf>
+Package pdftex.def Info: RatioPublishedPromptpPb-eps-converted-to.pdf used on i
+nput line 1655.
+(pdftex.def)             Requested size: 159.35426pt x 114.38657pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1655
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1655.
+[43
+
+ <./CrossSectionPromptpPb-eps-converted-to.pdf> <./RatioPublishedPromptpPb-eps-
+converted-to.pdf>]
+Package epstopdf Info: Source file: <CrossSectionFDpPb.eps>
+(epstopdf)                    date: 2016-02-29 09:50:13
+(epstopdf)                    size: 17600 bytes
+(epstopdf)             Output file: <CrossSectionFDpPb-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 09:53:02
+(epstopdf)                    size: 12317 bytes
+(epstopdf)             Command: <repstopdf --outfile=CrossSectionFDpPb-eps-conv
+erted-to.pdf CrossSectionFDpPb.eps>
+(epstopdf)             \includegraphics on input line 1680.
+Package epstopdf Info: Output file is already uptodate.
+
+<CrossSectionFDpPb-eps-converted-to.pdf, id=1853, 569.12625pt x 552.0625pt>
+File: CrossSectionFDpPb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CrossSectionFDpPb-eps-converted-to.pdf>
+Package pdftex.def Info: CrossSectionFDpPb-eps-converted-to.pdf used on input l
+ine 1680.
+(pdftex.def)             Requested size: 210.57341pt x 204.25992pt.
+Package epstopdf Info: Source file: <RatioMethodsFDpPb.eps>
+(epstopdf)                    date: 2016-01-28 14:56:05
+(epstopdf)                    size: 9221 bytes
+(epstopdf)             Output file: <RatioMethodsFDpPb-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-28 23:15:40
+(epstopdf)                    size: 9370 bytes
+(epstopdf)             Command: <repstopdf --outfile=RatioMethodsFDpPb-eps-conv
+erted-to.pdf RatioMethodsFDpPb.eps>
+(epstopdf)             \includegraphics on input line 1680.
+Package epstopdf Info: Output file is already uptodate.
+
+<RatioMethodsFDpPb-eps-converted-to.pdf, id=1854, 569.12625pt x 408.52625pt>
+File: RatioMethodsFDpPb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RatioMethodsFDpPb-eps-converted-to.pdf>
+Package pdftex.def Info: RatioMethodsFDpPb-eps-converted-to.pdf used on input l
+ine 1680.
+(pdftex.def)             Requested size: 159.35426pt x 114.38657pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1680
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1680.
+[44
+
+ <./CrossSectionFDpPb-eps-converted-to.pdf> <./RatioMethodsFDpPb-eps-converted-
+to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1682.
+Package epstopdf Info: Source file: <CrossSecComp.eps>
+(epstopdf)                    date: 2016-03-02 09:57:30
+(epstopdf)                    size: 11989 bytes
+(epstopdf)             Output file: <CrossSecComp-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-02 09:57:51
+(epstopdf)                    size: 15297 bytes
+(epstopdf)             Command: <repstopdf --outfile=CrossSecComp-eps-converted
+-to.pdf CrossSecComp.eps>
+(epstopdf)             \includegraphics on input line 1704.
+Package epstopdf Info: Output file is already uptodate.
+
+<CrossSecComp-eps-converted-to.pdf, id=1904, 569.12625pt x 552.0625pt>
+File: CrossSecComp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CrossSecComp-eps-converted-to.pdf>
+Package pdftex.def Info: CrossSecComp-eps-converted-to.pdf used on input line 1
+704.
+(pdftex.def)             Requested size: 210.57341pt x 204.25992pt.
+Package epstopdf Info: Source file: <CrossSecRatios.eps>
+(epstopdf)                    date: 2016-02-29 17:35:17
+(epstopdf)                    size: 9018 bytes
+(epstopdf)             Output file: <CrossSecRatios-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 17:35:35
+(epstopdf)                    size: 9264 bytes
+(epstopdf)             Command: <repstopdf --outfile=CrossSecRatios-eps-convert
+ed-to.pdf CrossSecRatios.eps>
+(epstopdf)             \includegraphics on input line 1704.
+Package epstopdf Info: Output file is already uptodate.
+
+<CrossSecRatios-eps-converted-to.pdf, id=1905, 569.12625pt x 408.52625pt>
+File: CrossSecRatios-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CrossSecRatios-eps-converted-to.pdf>
+Package pdftex.def Info: CrossSecRatios-eps-converted-to.pdf used on input line
+ 1704.
+(pdftex.def)             Requested size: 159.35426pt x 114.38657pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1704
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1704.
+[45
+
+ <./CrossSecComp-eps-converted-to.pdf> <./CrossSecRatios-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1706.
+
+Overfull \vbox (7.58434pt too high) detected at line 1733
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1733.
+[46
+
+]
+LaTeX Info: Redefining \HepProcess on input line 1735.
+LaTeX Info: Redefining \HepProcess on input line 1750.
+ [47
+
+]
+LaTeX Info: Redefining \HepProcess on input line 1752.
+Package epstopdf Info: Source file: <ImpParPrompt_2-3.eps>
+(epstopdf)                    date: 2016-02-10 12:19:35
+(epstopdf)                    size: 19798 bytes
+(epstopdf)             Output file: <ImpParPrompt_2-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:47
+(epstopdf)                    size: 15840 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_2-3-eps-conve
+rted-to.pdf ImpParPrompt_2-3.eps>
+(epstopdf)             \includegraphics on input line 1764.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParPrompt_2-3-eps-converted-to.pdf, id=2008, 569.12625pt x 414.54875pt>
+File: ImpParPrompt_2-3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_2-3-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_2-3-eps-converted-to.pdf used on input li
+ne 1764.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParPrompt_3-4.eps>
+(epstopdf)                    date: 2016-02-10 12:19:35
+(epstopdf)                    size: 20263 bytes
+(epstopdf)             Output file: <ImpParPrompt_3-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:47
+(epstopdf)                    size: 15801 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_3-4-eps-conve
+rted-to.pdf ImpParPrompt_3-4.eps>
+(epstopdf)             \includegraphics on input line 1764.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParPrompt_3-4-eps-converted-to.pdf, id=2009, 569.12625pt x 414.54875pt>
+File: ImpParPrompt_3-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_3-4-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_3-4-eps-converted-to.pdf used on input li
+ne 1764.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParPrompt_4-5.eps>
+(epstopdf)                    date: 2016-02-10 12:19:35
+(epstopdf)                    size: 20175 bytes
+(epstopdf)             Output file: <ImpParPrompt_4-5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:43
+(epstopdf)                    size: 15925 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_4-5-eps-conve
+rted-to.pdf ImpParPrompt_4-5.eps>
+(epstopdf)             \includegraphics on input line 1764.
+Package epstopdf Info: Output file is already uptodate.
+File: ImpParPrompt_4-5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_4-5-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_4-5-eps-converted-to.pdf used on input li
+ne 1764.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParPrompt_5-6.eps>
+(epstopdf)                    date: 2016-02-10 12:19:35
+(epstopdf)                    size: 20303 bytes
+(epstopdf)             Output file: <ImpParPrompt_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:48
+(epstopdf)                    size: 15885 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_5-6-eps-conve
+rted-to.pdf ImpParPrompt_5-6.eps>
+(epstopdf)             \includegraphics on input line 1764.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParPrompt_5-6-eps-converted-to.pdf, id=2010, 569.12625pt x 414.54875pt>
+File: ImpParPrompt_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_5-6-eps-converted-to.pdf used on input li
+ne 1764.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParPrompt_6-8.eps>
+(epstopdf)                    date: 2016-02-10 12:19:35
+(epstopdf)                    size: 19793 bytes
+(epstopdf)             Output file: <ImpParPrompt_6-8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:48
+(epstopdf)                    size: 15591 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_6-8-eps-conve
+rted-to.pdf ImpParPrompt_6-8.eps>
+(epstopdf)             \includegraphics on input line 1764.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParPrompt_6-8-eps-converted-to.pdf, id=2011, 569.12625pt x 414.54875pt>
+File: ImpParPrompt_6-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_6-8-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_6-8-eps-converted-to.pdf used on input li
+ne 1764.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParPrompt_8-12.eps>
+(epstopdf)                    date: 2016-02-10 12:19:35
+(epstopdf)                    size: 19970 bytes
+(epstopdf)             Output file: <ImpParPrompt_8-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:48
+(epstopdf)                    size: 15645 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_8-12-eps-conv
+erted-to.pdf ImpParPrompt_8-12.eps>
+(epstopdf)             \includegraphics on input line 1764.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParPrompt_8-12-eps-converted-to.pdf, id=2012, 569.12625pt x 414.54875pt>
+File: ImpParPrompt_8-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_8-12-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_8-12-eps-converted-to.pdf used on input l
+ine 1764.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParPrompt_12-16.eps>
+(epstopdf)                    date: 2016-02-10 12:19:36
+(epstopdf)                    size: 19854 bytes
+(epstopdf)             Output file: <ImpParPrompt_12-16-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:49
+(epstopdf)                    size: 15449 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_12-16-eps-con
+verted-to.pdf ImpParPrompt_12-16.eps>
+(epstopdf)             \includegraphics on input line 1764.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParPrompt_12-16-eps-converted-to.pdf, id=2013, 569.12625pt x 414.54875pt>
+File: ImpParPrompt_12-16-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParPrompt_12-16-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParPrompt_12-16-eps-converted-to.pdf used on input 
+line 1764.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1764
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1764.
+[48
+
+ <./ImpParPrompt_2-3-eps-converted-to.pdf> <./ImpParPrompt_3-4-eps-converted-to
+.pdf> <./ImpParPrompt_5-6-eps-converted-to.pdf> <./ImpParPrompt_6-8-eps-convert
+ed-to.pdf> <./ImpParPrompt_8-12-eps-converted-to.pdf> <./ImpParPrompt_12-16-eps
+-converted-to.pdf>]
+Package epstopdf Info: Source file: <ImpParTrueFD_2-3.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 25640 bytes
+(epstopdf)             Output file: <ImpParTrueFD_2-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:49
+(epstopdf)                    size: 19248 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_2-3-eps-conve
+rted-to.pdf ImpParTrueFD_2-3.eps>
+(epstopdf)             \includegraphics on input line 1777.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParTrueFD_2-3-eps-converted-to.pdf, id=2133, 569.12625pt x 414.54875pt>
+File: ImpParTrueFD_2-3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_2-3-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_2-3-eps-converted-to.pdf used on input li
+ne 1777.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParTrueFD_3-4.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 26077 bytes
+(epstopdf)             Output file: <ImpParTrueFD_3-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:49
+(epstopdf)                    size: 19523 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_3-4-eps-conve
+rted-to.pdf ImpParTrueFD_3-4.eps>
+(epstopdf)             \includegraphics on input line 1777.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParTrueFD_3-4-eps-converted-to.pdf, id=2134, 569.12625pt x 414.54875pt>
+File: ImpParTrueFD_3-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_3-4-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_3-4-eps-converted-to.pdf used on input li
+ne 1777.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParTrueFD_4-5.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 26498 bytes
+(epstopdf)             Output file: <ImpParTrueFD_4-5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:50
+(epstopdf)                    size: 19690 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_4-5-eps-conve
+rted-to.pdf ImpParTrueFD_4-5.eps>
+(epstopdf)             \includegraphics on input line 1777.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParTrueFD_4-5-eps-converted-to.pdf, id=2135, 569.12625pt x 414.54875pt>
+File: ImpParTrueFD_4-5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_4-5-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_4-5-eps-converted-to.pdf used on input li
+ne 1777.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParTrueFD_5-6.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 26383 bytes
+(epstopdf)             Output file: <ImpParTrueFD_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:50
+(epstopdf)                    size: 19773 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_5-6-eps-conve
+rted-to.pdf ImpParTrueFD_5-6.eps>
+(epstopdf)             \includegraphics on input line 1777.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParTrueFD_5-6-eps-converted-to.pdf, id=2136, 569.12625pt x 414.54875pt>
+File: ImpParTrueFD_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_5-6-eps-converted-to.pdf used on input li
+ne 1777.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParTrueFD_6-8.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 26081 bytes
+(epstopdf)             Output file: <ImpParTrueFD_6-8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:44
+(epstopdf)                    size: 19695 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_6-8-eps-conve
+rted-to.pdf ImpParTrueFD_6-8.eps>
+(epstopdf)             \includegraphics on input line 1777.
+Package epstopdf Info: Output file is already uptodate.
+File: ImpParTrueFD_6-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_6-8-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_6-8-eps-converted-to.pdf used on input li
+ne 1777.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParTrueFD_8-12.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 26065 bytes
+(epstopdf)             Output file: <ImpParTrueFD_8-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:50
+(epstopdf)                    size: 19742 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_8-12-eps-conv
+erted-to.pdf ImpParTrueFD_8-12.eps>
+(epstopdf)             \includegraphics on input line 1777.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParTrueFD_8-12-eps-converted-to.pdf, id=2137, 569.12625pt x 414.54875pt>
+File: ImpParTrueFD_8-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_8-12-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_8-12-eps-converted-to.pdf used on input l
+ine 1777.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParTrueFD_12-16.eps>
+(epstopdf)                    date: 2016-02-10 12:19:42
+(epstopdf)                    size: 26160 bytes
+(epstopdf)             Output file: <ImpParTrueFD_12-16-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:51
+(epstopdf)                    size: 19606 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_12-16-eps-con
+verted-to.pdf ImpParTrueFD_12-16.eps>
+(epstopdf)             \includegraphics on input line 1777.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParTrueFD_12-16-eps-converted-to.pdf, id=2138, 569.12625pt x 414.54875pt>
+File: ImpParTrueFD_12-16-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParTrueFD_12-16-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParTrueFD_12-16-eps-converted-to.pdf used on input 
+line 1777.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1777
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1777.
+[49
+
+ <./ImpParTrueFD_2-3-eps-converted-to.pdf> <./ImpParTrueFD_3-4-eps-converted-to
+.pdf> <./ImpParTrueFD_4-5-eps-converted-to.pdf> <./ImpParTrueFD_5-6-eps-convert
+ed-to.pdf> <./ImpParTrueFD_8-12-eps-converted-to.pdf> <./ImpParTrueFD_12-16-eps
+-converted-to.pdf>]
+Package epstopdf Info: Source file: <ImpParRecoFD_2-3.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 19481 bytes
+(epstopdf)             Output file: <ImpParRecoFD_2-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:51
+(epstopdf)                    size: 17150 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_2-3-eps-conve
+rted-to.pdf ImpParRecoFD_2-3.eps>
+(epstopdf)             \includegraphics on input line 1790.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParRecoFD_2-3-eps-converted-to.pdf, id=2256, 569.12625pt x 414.54875pt>
+File: ImpParRecoFD_2-3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_2-3-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_2-3-eps-converted-to.pdf used on input li
+ne 1790.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParRecoFD_3-4.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 20459 bytes
+(epstopdf)             Output file: <ImpParRecoFD_3-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:51
+(epstopdf)                    size: 17821 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_3-4-eps-conve
+rted-to.pdf ImpParRecoFD_3-4.eps>
+(epstopdf)             \includegraphics on input line 1790.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParRecoFD_3-4-eps-converted-to.pdf, id=2257, 569.12625pt x 414.54875pt>
+File: ImpParRecoFD_3-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_3-4-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_3-4-eps-converted-to.pdf used on input li
+ne 1790.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParRecoFD_4-5.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 20540 bytes
+(epstopdf)             Output file: <ImpParRecoFD_4-5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:52
+(epstopdf)                    size: 17862 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_4-5-eps-conve
+rted-to.pdf ImpParRecoFD_4-5.eps>
+(epstopdf)             \includegraphics on input line 1790.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParRecoFD_4-5-eps-converted-to.pdf, id=2258, 569.12625pt x 414.54875pt>
+File: ImpParRecoFD_4-5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_4-5-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_4-5-eps-converted-to.pdf used on input li
+ne 1790.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParRecoFD_5-6.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 20534 bytes
+(epstopdf)             Output file: <ImpParRecoFD_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:52
+(epstopdf)                    size: 17886 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_5-6-eps-conve
+rted-to.pdf ImpParRecoFD_5-6.eps>
+(epstopdf)             \includegraphics on input line 1790.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParRecoFD_5-6-eps-converted-to.pdf, id=2259, 569.12625pt x 414.54875pt>
+File: ImpParRecoFD_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_5-6-eps-converted-to.pdf used on input li
+ne 1790.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParRecoFD_6-8.eps>
+(epstopdf)                    date: 2016-02-10 12:19:41
+(epstopdf)                    size: 20520 bytes
+(epstopdf)             Output file: <ImpParRecoFD_6-8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:44
+(epstopdf)                    size: 17926 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_6-8-eps-conve
+rted-to.pdf ImpParRecoFD_6-8.eps>
+(epstopdf)             \includegraphics on input line 1790.
+Package epstopdf Info: Output file is already uptodate.
+File: ImpParRecoFD_6-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_6-8-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_6-8-eps-converted-to.pdf used on input li
+ne 1790.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParRecoFD_8-12.eps>
+(epstopdf)                    date: 2016-02-10 12:19:42
+(epstopdf)                    size: 20477 bytes
+(epstopdf)             Output file: <ImpParRecoFD_8-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:52
+(epstopdf)                    size: 17984 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_8-12-eps-conv
+erted-to.pdf ImpParRecoFD_8-12.eps>
+(epstopdf)             \includegraphics on input line 1790.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParRecoFD_8-12-eps-converted-to.pdf, id=2260, 569.12625pt x 414.54875pt>
+File: ImpParRecoFD_8-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_8-12-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_8-12-eps-converted-to.pdf used on input l
+ine 1790.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParRecoFD_12-16.eps>
+(epstopdf)                    date: 2016-02-10 12:19:42
+(epstopdf)                    size: 20538 bytes
+(epstopdf)             Output file: <ImpParRecoFD_12-16-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:52
+(epstopdf)                    size: 17925 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_12-16-eps-con
+verted-to.pdf ImpParRecoFD_12-16.eps>
+(epstopdf)             \includegraphics on input line 1790.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParRecoFD_12-16-eps-converted-to.pdf, id=2261, 569.12625pt x 414.54875pt>
+File: ImpParRecoFD_12-16-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParRecoFD_12-16-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParRecoFD_12-16-eps-converted-to.pdf used on input 
+line 1790.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1790
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1790.
+[50
+
+ <./ImpParRecoFD_2-3-eps-converted-to.pdf> <./ImpParRecoFD_3-4-eps-converted-to
+.pdf> <./ImpParRecoFD_4-5-eps-converted-to.pdf> <./ImpParRecoFD_5-6-eps-convert
+ed-to.pdf> <./ImpParRecoFD_8-12-eps-converted-to.pdf> <./ImpParRecoFD_12-16-eps
+-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1792.
+Package epstopdf Info: Source file: <ImpParBkg_2-3.eps>
+(epstopdf)                    date: 2016-02-10 12:19:47
+(epstopdf)                    size: 33102 bytes
+(epstopdf)             Output file: <ImpParBkg_2-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:53
+(epstopdf)                    size: 23689 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_2-3-eps-converte
+d-to.pdf ImpParBkg_2-3.eps>
+(epstopdf)             \includegraphics on input line 1804.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_2-3-eps-converted-to.pdf, id=2378, 569.12625pt x 414.54875pt>
+File: ImpParBkg_2-3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_2-3-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_2-3-eps-converted-to.pdf used on input line 
+1804.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParBkg_3-4.eps>
+(epstopdf)                    date: 2016-02-10 12:19:47
+(epstopdf)                    size: 37357 bytes
+(epstopdf)             Output file: <ImpParBkg_3-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:45
+(epstopdf)                    size: 26193 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_3-4-eps-converte
+d-to.pdf ImpParBkg_3-4.eps>
+(epstopdf)             \includegraphics on input line 1804.
+Package epstopdf Info: Output file is already uptodate.
+File: ImpParBkg_3-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_3-4-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_3-4-eps-converted-to.pdf used on input line 
+1804.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParBkg_4-5.eps>
+(epstopdf)                    date: 2016-02-10 12:19:47
+(epstopdf)                    size: 35502 bytes
+(epstopdf)             Output file: <ImpParBkg_4-5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:53
+(epstopdf)                    size: 25029 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_4-5-eps-converte
+d-to.pdf ImpParBkg_4-5.eps>
+(epstopdf)             \includegraphics on input line 1804.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_4-5-eps-converted-to.pdf, id=2379, 569.12625pt x 414.54875pt>
+File: ImpParBkg_4-5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_4-5-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_4-5-eps-converted-to.pdf used on input line 
+1804.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParBkg_5-6.eps>
+(epstopdf)                    date: 2016-02-10 12:19:47
+(epstopdf)                    size: 33847 bytes
+(epstopdf)             Output file: <ImpParBkg_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:53
+(epstopdf)                    size: 24341 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_5-6-eps-converte
+d-to.pdf ImpParBkg_5-6.eps>
+(epstopdf)             \includegraphics on input line 1804.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_5-6-eps-converted-to.pdf, id=2380, 569.12625pt x 414.54875pt>
+File: ImpParBkg_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_5-6-eps-converted-to.pdf used on input line 
+1804.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParBkg_6-8.eps>
+(epstopdf)                    date: 2016-02-10 12:19:47
+(epstopdf)                    size: 36260 bytes
+(epstopdf)             Output file: <ImpParBkg_6-8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:54
+(epstopdf)                    size: 25440 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_6-8-eps-converte
+d-to.pdf ImpParBkg_6-8.eps>
+(epstopdf)             \includegraphics on input line 1804.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_6-8-eps-converted-to.pdf, id=2381, 569.12625pt x 414.54875pt>
+File: ImpParBkg_6-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_6-8-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_6-8-eps-converted-to.pdf used on input line 
+1804.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParBkg_8-12.eps>
+(epstopdf)                    date: 2016-02-10 12:19:48
+(epstopdf)                    size: 35688 bytes
+(epstopdf)             Output file: <ImpParBkg_8-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:54
+(epstopdf)                    size: 25370 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_8-12-eps-convert
+ed-to.pdf ImpParBkg_8-12.eps>
+(epstopdf)             \includegraphics on input line 1804.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_8-12-eps-converted-to.pdf, id=2382, 569.12625pt x 414.54875pt>
+File: ImpParBkg_8-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_8-12-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_8-12-eps-converted-to.pdf used on input line
+ 1804.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <ImpParBkg_12-16.eps>
+(epstopdf)                    date: 2016-02-10 12:19:48
+(epstopdf)                    size: 32053 bytes
+(epstopdf)             Output file: <ImpParBkg_12-16-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:54
+(epstopdf)                    size: 22959 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_12-16-eps-conver
+ted-to.pdf ImpParBkg_12-16.eps>
+(epstopdf)             \includegraphics on input line 1804.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_12-16-eps-converted-to.pdf, id=2383, 569.12625pt x 414.54875pt>
+File: ImpParBkg_12-16-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_12-16-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_12-16-eps-converted-to.pdf used on input lin
+e 1804.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1804
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1804.
+[51
+
+ <./ImpParBkg_2-3-eps-converted-to.pdf> <./ImpParBkg_4-5-eps-converted-to.pdf> 
+<./ImpParBkg_5-6-eps-converted-to.pdf> <./ImpParBkg_6-8-eps-converted-to.pdf> <
+./ImpParBkg_8-12-eps-converted-to.pdf> <./ImpParBkg_12-16-eps-converted-to.pdf>
+]
+LaTeX Info: Redefining \HepProcess on input line 1806.
+Package epstopdf Info: Source file: <FitUnbinned_2-3_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 12:26:58
+(epstopdf)                    size: 74615 bytes
+(epstopdf)             Output file: <FitUnbinned_2-3_bkg_plot-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-02-10 14:48:55
+(epstopdf)                    size: 50411 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_2-3_bkg_plot-e
+ps-converted-to.pdf FitUnbinned_2-3_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 1818.
+Package epstopdf Info: Output file is already uptodate.
+
+<FitUnbinned_2-3_bkg_plot-eps-converted-to.pdf, id=2501, 569.12625pt x 414.5487
+5pt>
+File: FitUnbinned_2-3_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+ <use FitUnbinned_2-3_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_2-3_bkg_plot-eps-converted-to.pdf used on 
+input line 1818.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <FitUnbinned_3-4_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 12:26:58
+(epstopdf)                    size: 72987 bytes
+(epstopdf)             Output file: <FitUnbinned_3-4_bkg_plot-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-02-10 14:48:55
+(epstopdf)                    size: 49729 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_3-4_bkg_plot-e
+ps-converted-to.pdf FitUnbinned_3-4_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 1818.
+Package epstopdf Info: Output file is already uptodate.
+
+<FitUnbinned_3-4_bkg_plot-eps-converted-to.pdf, id=2502, 569.12625pt x 414.5487
+5pt>
+File: FitUnbinned_3-4_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+ <use FitUnbinned_3-4_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_3-4_bkg_plot-eps-converted-to.pdf used on 
+input line 1818.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <FitUnbinned_4-5_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 12:26:58
+(epstopdf)                    size: 80017 bytes
+(epstopdf)             Output file: <FitUnbinned_4-5_bkg_plot-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-02-10 14:48:55
+(epstopdf)                    size: 53626 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_4-5_bkg_plot-e
+ps-converted-to.pdf FitUnbinned_4-5_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 1818.
+Package epstopdf Info: Output file is already uptodate.
+
+<FitUnbinned_4-5_bkg_plot-eps-converted-to.pdf, id=2503, 569.12625pt x 414.5487
+5pt>
+File: FitUnbinned_4-5_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+ <use FitUnbinned_4-5_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_4-5_bkg_plot-eps-converted-to.pdf used on 
+input line 1818.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <FitUnbinned_5-6_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 12:26:58
+(epstopdf)                    size: 78381 bytes
+(epstopdf)             Output file: <FitUnbinned_5-6_bkg_plot-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-02-10 14:48:46
+(epstopdf)                    size: 52871 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_5-6_bkg_plot-e
+ps-converted-to.pdf FitUnbinned_5-6_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 1818.
+Package epstopdf Info: Output file is already uptodate.
+File: FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+
+<use FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf used on 
+input line 1818.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <FitUnbinned_6-8_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 12:26:58
+(epstopdf)                    size: 76217 bytes
+(epstopdf)             Output file: <FitUnbinned_6-8_bkg_plot-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-02-10 14:48:56
+(epstopdf)                    size: 51736 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_6-8_bkg_plot-e
+ps-converted-to.pdf FitUnbinned_6-8_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 1818.
+Package epstopdf Info: Output file is already uptodate.
+
+<FitUnbinned_6-8_bkg_plot-eps-converted-to.pdf, id=2504, 569.12625pt x 414.5487
+5pt>
+File: FitUnbinned_6-8_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+ <use FitUnbinned_6-8_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_6-8_bkg_plot-eps-converted-to.pdf used on 
+input line 1818.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <FitUnbinned_8-12_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 12:26:59
+(epstopdf)                    size: 76552 bytes
+(epstopdf)             Output file: <FitUnbinned_8-12_bkg_plot-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:56
+(epstopdf)                    size: 52144 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_8-12_bkg_plot-
+eps-converted-to.pdf FitUnbinned_8-12_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 1818.
+Package epstopdf Info: Output file is already uptodate.
+
+<FitUnbinned_8-12_bkg_plot-eps-converted-to.pdf, id=2505, 569.12625pt x 414.548
+75pt>
+File: FitUnbinned_8-12_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+ <use FitUnbinned_8-12_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_8-12_bkg_plot-eps-converted-to.pdf used on
+ input line 1818.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+Package epstopdf Info: Source file: <FitUnbinned_12-16_bkg_plot.eps>
+(epstopdf)                    date: 2016-02-10 11:57:20
+(epstopdf)                    size: 64859 bytes
+(epstopdf)             Output file: <FitUnbinned_12-16_bkg_plot-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:56
+(epstopdf)                    size: 45016 bytes
+(epstopdf)             Command: <repstopdf --outfile=FitUnbinned_12-16_bkg_plot
+-eps-converted-to.pdf FitUnbinned_12-16_bkg_plot.eps>
+(epstopdf)             \includegraphics on input line 1818.
+Package epstopdf Info: Output file is already uptodate.
+
+<FitUnbinned_12-16_bkg_plot-eps-converted-to.pdf, id=2506, 569.12625pt x 414.54
+875pt>
+File: FitUnbinned_12-16_bkg_plot-eps-converted-to.pdf Graphic file (type pdf)
+ <use FitUnbinned_12-16_bkg_plot-eps-converted-to.pdf>
+Package pdftex.def Info: FitUnbinned_12-16_bkg_plot-eps-converted-to.pdf used o
+n input line 1818.
+(pdftex.def)             Requested size: 102.4383pt x 74.61555pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1818
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1818.
+[52
+
+ <./FitUnbinned_2-3_bkg_plot-eps-converted-to.pdf> <./FitUnbinned_3-4_bkg_plot-
+eps-converted-to.pdf> <./FitUnbinned_4-5_bkg_plot-eps-converted-to.pdf> <./FitU
+nbinned_6-8_bkg_plot-eps-converted-to.pdf> <./FitUnbinned_8-12_bkg_plot-eps-con
+verted-to.pdf> <./FitUnbinned_12-16_bkg_plot-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <SB_pars_pT_2-3.eps>
+(epstopdf)                    date: 2016-01-25 10:10:44
+(epstopdf)                    size: 26387 bytes
+(epstopdf)             Output file: <SB_pars_pT_2-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-08 15:46:19
+(epstopdf)                    size: 12449 bytes
+(epstopdf)             Command: <repstopdf --outfile=SB_pars_pT_2-3-eps-convert
+ed-to.pdf SB_pars_pT_2-3.eps>
+(epstopdf)             \includegraphics on input line 1842.
+Package epstopdf Info: Output file is already uptodate.
+
+<SB_pars_pT_2-3-eps-converted-to.pdf, id=2625, 569.12625pt x 414.54875pt>
+File: SB_pars_pT_2-3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SB_pars_pT_2-3-eps-converted-to.pdf>
+Package pdftex.def Info: SB_pars_pT_2-3-eps-converted-to.pdf used on input line
+ 1842.
+(pdftex.def)             Requested size: 256.10445pt x 186.54521pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1842
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1842.
+[53
+
+ <./SB_pars_pT_2-3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ImpParBkg_4-5.eps>
+(epstopdf)                    date: 2016-02-10 12:19:47
+(epstopdf)                    size: 35502 bytes
+(epstopdf)             Output file: <ImpParBkg_4-5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:53
+(epstopdf)                    size: 25029 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_4-5-eps-converte
+d-to.pdf ImpParBkg_4-5.eps>
+(epstopdf)             \includegraphics on input line 1859.
+Package epstopdf Info: Output file is already uptodate.
+File: ImpParBkg_4-5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_4-5-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_4-5-eps-converted-to.pdf used on input line 
+1859.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+Package epstopdf Info: Source file: <ImpParBkg_4-5_asymm.eps>
+(epstopdf)                    date: 2016-02-13 09:51:39
+(epstopdf)                    size: 32826 bytes
+(epstopdf)             Output file: <ImpParBkg_4-5_asymm-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:35:49
+(epstopdf)                    size: 22377 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_4-5_asymm-eps-co
+nverted-to.pdf ImpParBkg_4-5_asymm.eps>
+(epstopdf)             \includegraphics on input line 1859.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_4-5_asymm-eps-converted-to.pdf, id=2660, 569.12625pt x 414.54875pt>
+File: ImpParBkg_4-5_asymm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_4-5_asymm-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_4-5_asymm-eps-converted-to.pdf used on input
+ line 1859.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+Package epstopdf Info: Source file: <ImpParBkg_12-16.eps>
+(epstopdf)                    date: 2016-02-10 12:19:48
+(epstopdf)                    size: 32053 bytes
+(epstopdf)             Output file: <ImpParBkg_12-16-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-10 14:48:54
+(epstopdf)                    size: 22959 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_12-16-eps-conver
+ted-to.pdf ImpParBkg_12-16.eps>
+(epstopdf)             \includegraphics on input line 1859.
+Package epstopdf Info: Output file is already uptodate.
+File: ImpParBkg_12-16-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ImpParBkg_12-16-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_12-16-eps-converted-to.pdf used on input lin
+e 1859.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+Package epstopdf Info: Source file: <ImpParBkg_12-16_asymm.eps>
+(epstopdf)                    date: 2016-02-13 09:59:11
+(epstopdf)                    size: 29043 bytes
+(epstopdf)             Output file: <ImpParBkg_12-16_asymm-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-02-29 10:37:17
+(epstopdf)                    size: 20263 bytes
+(epstopdf)             Command: <repstopdf --outfile=ImpParBkg_12-16_asymm-eps-
+converted-to.pdf ImpParBkg_12-16_asymm.eps>
+(epstopdf)             \includegraphics on input line 1859.
+Package epstopdf Info: Output file is already uptodate.
+
+<ImpParBkg_12-16_asymm-eps-converted-to.pdf, id=2661, 569.12625pt x 414.54875pt
+>
+File: ImpParBkg_12-16_asymm-eps-converted-to.pdf Graphic file (type pdf)
+ <use ImpParBkg_12-16_asymm-eps-converted-to.pdf>
+Package pdftex.def Info: ImpParBkg_12-16_asymm-eps-converted-to.pdf used on inp
+ut line 1859.
+(pdftex.def)             Requested size: 142.2812pt x 103.63693pt.
+
+Overfull \vbox (20.58434pt too high) detected at line 1859
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1859.
+[54
+
+ <./ImpParBkg_4-5_asymm-eps-converted-to.pdf> <./ImpParBkg_12-16_asymm-eps-conv
+erted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1861.
+Package epstopdf Info: Source file: <LinesDisp_2-3.eps>
+(epstopdf)                    date: 2016-02-29 10:07:25
+(epstopdf)                    size: 145534 bytes
+(epstopdf)             Output file: <LinesDisp_2-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:07
+(epstopdf)                    size: 447031 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_2-3-eps-converte
+d-to.pdf LinesDisp_2-3.eps>
+(epstopdf)             \includegraphics on input line 1873.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesDisp_2-3-eps-converted-to.pdf, id=2705, 569.12625pt x 554.07pt>
+File: LinesDisp_2-3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_2-3-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_2-3-eps-converted-to.pdf used on input line 
+1873.
+(pdftex.def)             Requested size: 85.36525pt x 83.1069pt.
+Package epstopdf Info: Source file: <LinesDisp_3-4.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 142836 bytes
+(epstopdf)             Output file: <LinesDisp_3-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:07
+(epstopdf)                    size: 428150 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_3-4-eps-converte
+d-to.pdf LinesDisp_3-4.eps>
+(epstopdf)             \includegraphics on input line 1873.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesDisp_3-4-eps-converted-to.pdf, id=2706, 569.12625pt x 554.07pt>
+File: LinesDisp_3-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_3-4-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_3-4-eps-converted-to.pdf used on input line 
+1873.
+(pdftex.def)             Requested size: 85.36525pt x 83.1069pt.
+Package epstopdf Info: Source file: <LinesDisp_4-5.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 135658 bytes
+(epstopdf)             Output file: <LinesDisp_4-5-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:05
+(epstopdf)                    size: 438736 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_4-5-eps-converte
+d-to.pdf LinesDisp_4-5.eps>
+(epstopdf)             \includegraphics on input line 1873.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesDisp_4-5-eps-converted-to.pdf, id=2707, 569.12625pt x 554.07pt>
+File: LinesDisp_4-5-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_4-5-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_4-5-eps-converted-to.pdf used on input line 
+1873.
+(pdftex.def)             Requested size: 85.36525pt x 83.1069pt.
+Package epstopdf Info: Source file: <LinesDisp_5-6.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 136404 bytes
+(epstopdf)             Output file: <LinesDisp_5-6-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:08
+(epstopdf)                    size: 446805 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_5-6-eps-converte
+d-to.pdf LinesDisp_5-6.eps>
+(epstopdf)             \includegraphics on input line 1873.
+Package epstopdf Info: Output file is already uptodate.
+File: LinesDisp_5-6-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_5-6-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_5-6-eps-converted-to.pdf used on input line 
+1873.
+(pdftex.def)             Requested size: 85.36525pt x 83.1069pt.
+Package epstopdf Info: Source file: <LinesDisp_6-8.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 138014 bytes
+(epstopdf)             Output file: <LinesDisp_6-8-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:09
+(epstopdf)                    size: 430641 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_6-8-eps-converte
+d-to.pdf LinesDisp_6-8.eps>
+(epstopdf)             \includegraphics on input line 1873.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesDisp_6-8-eps-converted-to.pdf, id=2708, 569.12625pt x 554.07pt>
+File: LinesDisp_6-8-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_6-8-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_6-8-eps-converted-to.pdf used on input line 
+1873.
+(pdftex.def)             Requested size: 85.36525pt x 83.1069pt.
+Package epstopdf Info: Source file: <LinesDisp_8-12.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 141434 bytes
+(epstopdf)             Output file: <LinesDisp_8-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:10
+(epstopdf)                    size: 422699 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_8-12-eps-convert
+ed-to.pdf LinesDisp_8-12.eps>
+(epstopdf)             \includegraphics on input line 1873.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesDisp_8-12-eps-converted-to.pdf, id=2709, 569.12625pt x 554.07pt>
+File: LinesDisp_8-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_8-12-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_8-12-eps-converted-to.pdf used on input line
+ 1873.
+(pdftex.def)             Requested size: 85.36525pt x 83.1069pt.
+Package epstopdf Info: Source file: <LinesDisp_12-16.eps>
+(epstopdf)                    date: 2016-02-29 10:07:26
+(epstopdf)                    size: 144034 bytes
+(epstopdf)             Output file: <LinesDisp_12-16-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-29 10:08:11
+(epstopdf)                    size: 431430 bytes
+(epstopdf)             Command: <repstopdf --outfile=LinesDisp_12-16-eps-conver
+ted-to.pdf LinesDisp_12-16.eps>
+(epstopdf)             \includegraphics on input line 1873.
+Package epstopdf Info: Output file is already uptodate.
+
+<LinesDisp_12-16-eps-converted-to.pdf, id=2710, 569.12625pt x 554.07pt>
+File: LinesDisp_12-16-eps-converted-to.pdf Graphic file (type pdf)
+
+<use LinesDisp_12-16-eps-converted-to.pdf>
+Package pdftex.def Info: LinesDisp_12-16-eps-converted-to.pdf used on input lin
+e 1873.
+(pdftex.def)             Requested size: 85.36525pt x 83.1069pt.
+
+Overfull \vbox (7.58434pt too high) detected at line 1873
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1873.
+[55
+
+ <./LinesDisp_2-3-eps-converted-to.pdf> <./LinesDisp_3-4-eps-converted-to.pdf> 
+<./LinesDisp_4-5-eps-converted-to.pdf> <./LinesDisp_6-8-eps-converted-to.pdf> <
+./LinesDisp_8-12-eps-converted-to.pdf> <./LinesDisp_12-16-eps-converted-to.pdf>
+]
+\tf@nav=\write7
+\openout7 = `Metà_Tesi_Grosa.nav'.
+
+\tf@toc=\write8
+\openout8 = `Metà_Tesi_Grosa.toc'.
+
+\tf@snm=\write9
+\openout9 = `Metà_Tesi_Grosa.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1875.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1875.
+ (./Metà_Tesi_Grosa.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1875.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1875.
+
+Package rerunfilecheck Info: File `Metà_Tesi_Grosa.out' has not changed.
+(rerunfilecheck)             Checksum: 8DD14828E9AAE650F147A00C796926FC;1707.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1875.
+ ) 
+Here is how much of TeX's memory you used:
+ 27814 strings out of 493085
+ 555712 string characters out of 6136916
+ 635484 words of memory out of 5000000
+ 30347 multiletter control sequences out of 15000+600000
+ 111828 words of font info for 155 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,18n,69p,423b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/euler/euex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/euler/eufm5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/euler/eufm7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/euler/eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/e
+uler/eurm5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler
+/eurm7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eus
+m10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm5.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on Metà_Tesi_Grosa.pdf (55 pages, 14961251 bytes).
+PDF statistics:
+ 2897 PDF objects out of 2984 (max. 8388607)
+ 2382 compressed objects within 24 object streams
+ 136 named destinations out of 1000 (max. 500000)
+ 819 words of extra memory for PDF output out of 10000 (max. 10000000)
+

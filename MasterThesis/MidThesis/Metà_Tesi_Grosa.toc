@@ -1,0 +1,27 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Heavy Flavours}{2}{0}{1}
+\beamer@sectionintoc {2}{ALICE}{4}{0}{2}
+\beamer@sectionintoc {3}{Metodi theory-driven per la misura della frazione di $D^+$ prompt}{6}{0}{3}
+\beamer@sectionintoc {4}{Metodo del fit del parametro di impatto}{9}{0}{4}
+\beamer@subsectionintoc {4}{1}{Procedimento}{11}{0}{4}
+\beamer@subsectionintoc {4}{2}{Prefit sulle distribuzioni MC}{12}{0}{4}
+\beamer@subsectionintoc {4}{3}{Sidebands}{15}{0}{4}
+\beamer@subsectionintoc {4}{4}{Unbinned fit sui dati}{17}{0}{4}
+\beamer@subsectionintoc {4}{5}{Errori sistematici}{19}{0}{4}
+\beamer@subsectionintoc {4}{6}{MC closure test}{27}{0}{4}
+\beamer@subsectionintoc {4}{7}{Risultato}{28}{0}{4}
+\beamer@sectionintoc {5}{Metodo della variazione dei tagli}{29}{0}{5}
+\beamer@subsectionintoc {5}{1}{Metodo di Minimizzazione}{32}{0}{5}
+\beamer@subsectionintoc {5}{2}{Metodo dell'incentro}{34}{0}{5}
+\beamer@subsectionintoc {5}{3}{Set dei tagli}{37}{0}{5}
+\beamer@subsectionintoc {5}{4}{Efficienze}{39}{0}{5}
+\beamer@subsectionintoc {5}{5}{Estrazione del segnale}{42}{0}{5}
+\beamer@subsectionintoc {5}{6}{Risultato}{43}{0}{5}
+\beamer@sectionintoc {6}{Confronto}{45}{0}{6}
+\beamer@sectionintoc {7}{Attivit\IeC {\`a} future}{46}{0}{7}
+\beamer@sectionintoc {8}{Backup}{47}{0}{8}
+\beamer@subsectionintoc {8}{1}{Prefit delle distribuzioni MC}{48}{0}{8}
+\beamer@subsectionintoc {8}{2}{Prefit delle distribuzioni delle sidebands}{51}{0}{8}
+\beamer@subsectionintoc {8}{3}{Fit delle distribuzioni del parametro di impatto}{52}{0}{8}
+\beamer@subsectionintoc {8}{4}{Metodo dell'incentro (variazione dei tagli)}{55}{0}{8}
