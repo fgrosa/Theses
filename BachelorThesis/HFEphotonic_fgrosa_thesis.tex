@@ -1,0 +1,1286 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{multimedia}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{verbatim}
+\usepackage{xcolor}
+\usepackage{textpos}
+\usepackage{eulervm}
+
+\let\oldmb\mathbold
+\protected\def\mathbold{\oldmb}
+\usetikzlibrary{arrows,shapes}
+\usetikzlibrary{patterns,arrows,decorations.pathreplacing}
+\usetheme{Darmstadt}
+\usecolortheme{lily}
+
+\newcommand{\nologo}{\setbeamertemplate{logo}{}} % command to set the logo to nothing
+
+\author[Universit\`{a} degli studi di Torino]%
+{
+  \footnotesize{\includegraphics[scale=0.4]{logos2.jpg}\\ [2mm] Universit\`{a} degli studi di Torino} \\ [1mm]
+  \footnotesize{Dipartimento di Fisica} \\ [5mm]
+  \scriptsize{Candidato: Fabrizio Grosa \hspace{2.5cm} Relatore: Prof.ssa Stefania Beolè}
+}
+
+\title{Heavy-flavour production in proton-proton collisions at $\sqrt{s} = 7$ TeV}
+\subtitle{Estimation of $\gamma$, \space $\pi^{0}$ and $\eta$ ratios in the photonic background}
+
+\logo{
+  \includegraphics[width=1.5cm,height=1.5cm,keepaspectratio]{logo.jpg}
+}
+   
+\date{\vspace{-5ex}}
+
+\begin{document}
+
+{\nologo
+\begin{frame}
+\maketitle
+\end{frame}
+}
+
+\begin{comment}
+\begin{frame}
+\footnotesize
+\frametitle{Outline}
+\tableofcontents
+\end{frame}
+\end{comment}
+
+\section{GSI}
+\begin{frame}
+ \frametitle{Summer Student Program at GSI}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 1/18}}
+\end{minipage}}
+
+\put(-20, 65){\includegraphics[scale=0.42]{gsi.jpg}}
+
+\put(-20,230){
+\begin{minipage}[t]{1.1\linewidth}
+\begin{itemize}
+\item The Summer Student program at GSI consists in 15 lectures about different subjects and in a project with a reaserch group
+\end{itemize}
+\end{minipage}}
+
+\put(140,175){
+\begin{minipage}[t]{0.7\linewidth}
+\textcolor{blue}{Research areas at GSI:}
+\footnotesize{
+\begin{itemize}
+\item Atomic, Plasma physics and applications
+\item Astrophysics
+\item Biophysics
+\item Nuclear Quark Matter
+\begin{itemize}
+\item ALICE at LHC/CERN
+\item CBM at SIS100-300/FAIR
+\item HADES and FOPI at SIS18/GSI
+\end{itemize}
+\end{itemize}}
+\end{minipage}}
+
+\pause
+\put(170,94){
+\begin{tikzpicture}[-]
+\draw[draw=blue,solid,line width=0.4mm] (0,0) -- (4,0) -- (4,0.47) -- (0,0.47) -- (0,0);
+\end{tikzpicture}}
+
+\end{picture}
+\end{frame}
+
+\section{Heavy-flavour production in heavy-ion collisions}
+\subsection{Quark-gluon plasma}
+\begin{frame}
+\frametitle{Quark-gluon plasma in laboratory}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 2/18}}
+\end{minipage}}
+
+\put(0,145){\includegraphics[scale=0.35]{evolution.jpg}}
+
+\put(-10,250){
+\begin{minipage}[t]{1\linewidth}
+\footnotesize
+\begin{itemize}
+\item QCD predicts that under extreme conditions of very high temperature or energy densities, hadronic matter 
+transit to a deconfined phase of matter called \textit{``quark-gluon plasma``} (QGP)
+\end{itemize}
+\end{minipage}}
+
+\put(300,210){
+\begin{minipage}[t]{0.5\linewidth}
+\textbf{t}
+\end{minipage}}
+
+\put(0,205){
+\begin{tikzpicture}[->]
+\draw[draw=black,solid,line width=0.5mm] (1, 1) -- + (11, 0);
+\end{tikzpicture}}
+
+\put(-20,130){
+\begin{minipage}[t]{0.5\linewidth}
+\begin{itemize}
+\footnotesize
+\item \textbf{Collision}: large number of hard scatterings between partons.
+\item \textbf{Thermalization} : the thermal equilibrium is reached.
+\item \textbf{QGP}: the fireball is created, in which quarks and gluons are free.
+\end{itemize}
+\end{minipage}}
+
+\put(150,130){
+\begin{minipage}[t]{0.5\linewidth}
+\begin{itemize}
+\footnotesize
+\item \textbf{Hadronization} : the quarks and the glouns are recombined in hadrons.
+\item \textbf{Chemical freeze-out}: inelastic scattering cease.
+\item \textbf{Kinetic freeze-out} : elastic scattering cease.
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\subsection{Heavy-flavour production}
+\begin{frame}
+ \frametitle{Heavy-flavour production}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 3/18}}
+\end{minipage}}
+
+\put(25,50){\includegraphics[scale=0.3]{semileptonic.jpg}}
+
+\put(-20,115){\includegraphics[scale=0.12]{cone_and_hf.png}}
+
+\put(120,240){
+\begin{minipage}[t]{0.6\linewidth}
+\begin{itemize}
+\footnotesize
+\item Heavy-flavour production happens through initial hard partonic scattering processes when the medium is more dense
+\item Heavy-flavour quarks lose energy travelling in the QGP 
+\end{itemize}
+\end{minipage}}
+
+\put(235,145){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.7mm] (1, 1) -- + (1., -1);
+\end{tikzpicture}}
+
+\put(250,130){
+\begin{minipage}[t]{0.3\linewidth}
+\footnotesize
+Probe for the QGP
+\end{minipage}}
+
+\put(10,50){
+\begin{minipage}[t]{0.5\linewidth}
+\textcolor{blue}{\it semileptonic decay}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{Heavy-flavour cocktail background} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 4/18}}
+\end{minipage}}
+
+\put(0,40){\includegraphics[scale=0.08]{2013-Jan-03-inclusive_versus_cocktail_combined_mult.png}}
+
+\put(145,150){
+\begin{minipage}{0.55\linewidth}
+\footnotesize
+\begin{itemize}
+ \item There are other sources of leptons which form the background for the heavy-flavour hadron semileptonic decay. 
+ \item The \textit{inclusive} electrons and positrons are all the $e^{\pm}$ measured, which are decay products of both 
+ hadrons carrying heavy quarks, and the background sources.
+ \item After the subtraction of the background only the remaining $p_{T}$ spectrum contains electrons from heavy-flavour hadron
+ decays only.
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\section{Photonic background}
+\subsection{Main sources}
+\begin{frame}
+\frametitle{Main sources of the photonic background} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 5/18}}
+\end{minipage}}
+
+\put(-10,70){\includegraphics[scale=0.5]{dalitz.jpg}}
+\put(-10,170){\includegraphics[scale=0.2]{conversion.jpg}}
+
+\put(130,173){
+\begin{minipage}{0.8\linewidth}
+\begin{itemize}
+\item 
+Photon conversion: $\gamma \rightarrow e^{+}e^{-}$ 
+\vspace{1.5cm}
+\item
+Dalitz decays: 
+\end{itemize}
+\end{minipage}}
+
+\put(230,115){
+\begin{minipage}{0.4\linewidth}
+{$\pi^{0} \rightarrow e^{+}e^{-}\gamma$\\$\eta \rightarrow e^{+}e^{-}\gamma$\\
+$\eta' \rightarrow e^{+}e^{-}\gamma$\\$\omega \rightarrow e^{+}e^{-}\pi^{0}$\\$\phi \rightarrow e^{+}e^{-}\eta$}
+\end{minipage}}
+
+\pause
+\put(225,123){
+\begin{tikzpicture}[-]
+\draw[draw=blue,solid,line width=0.2mm] (0,0) -- (2.5,0) -- (2.5,1.05) -- (0,1.05) -- (0,0);
+\end{tikzpicture}}
+
+\put(247,198){
+\begin{tikzpicture}[-]
+\draw[draw=blue,solid,line width=0.2mm] (0,0) -- (1.9,0) -- (1.9,0.5) -- (0,0.5) -- (0,0);
+\end{tikzpicture}}
+
+\put(0,60){
+\begin{minipage}{1\linewidth}
+\textcolor{blue}{The aim of this study is to calculate the ratio between photon conversions and Dalitz decays in the 
+photonic background}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\subsection{ALICE}
+\begin{frame}
+ \frametitle{The ALICE detector}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 6/18}}
+\end{minipage}}
+
+\put(-10,50){\includegraphics[scale=0.45]{ALICE_detector.jpg}}
+\put(210,140){\includegraphics[scale=0.16]{ITS_TPC.jpg}}
+
+\put(0,210){
+\begin{minipage}{0.7\linewidth}
+\begin{itemize}
+\item ALICE is the experiment at LHC dedicated to heavy-ion collisions 
+\end{itemize}
+\end{minipage}}
+
+\put(160,100){
+\begin{minipage}{0.55\linewidth}
+\footnotesize
+\begin{itemize}
+\item \textbf{I}nner \textbf{T}racking \textbf{S}ystem: \\first sub detector reached by the particles originating in the primary vertex 
+\item \textbf{T}ime \textbf{P}rojection \textbf{C}hamber: \\the main tracking detector 
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\subsection{Tracks selection}
+\begin{frame}
+\frametitle{Data samples}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 7/18}}
+\end{minipage}}
+
+\put(0,150){
+\begin{minipage}{1\linewidth}
+\begin{itemize}
+\setlength{\itemsep}{7pt}
+\item Simulated proton-proton collision events at $\sqrt{s} = 7 TeV$
+\vspace{0.3cm}
+ \begin{itemize}
+   \setlength{\itemsep}{7pt}
+ \item decayed with \textit{Pythia 6}
+ \item propagation through detectors described with \textit{\textbf{GE}ometry \textbf{AN}d \textbf{T}racking} 3
+ \item tracks reconstructed with AliRoot
+\end{itemize}
+\item This study is focused on proton-proton collisions because they are the reference system for the Pb-Pb collisions
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{$e^{\pm}$ identification}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 8/18}}
+\end{minipage}}
+
+\put(240,175){\includegraphics[scale=0.12]{coord.jpg}}
+
+\put(155,70){\includegraphics[scale=0.3]{DCA.png}}
+
+\put(-115,140){
+\begin{minipage}{1\linewidth}
+\begin{table}[htpb]
+\center
+\fontsize{12}{3}
+\scalebox{0.55}{
+\begin{tabular}{|c|c|}
+  \hline
+  \raisebox{0pt}[12pt][6pt]{$\chi^{2}/$cluster} &
+  \raisebox{-6pt}[12pt][6pt]{$<$ 4} \\
+  \raisebox{0pt}[12pt][6pt]{in the TPC track fit} &
+  \raisebox{0pt}[12pt][6pt]{} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{ITS/TPC refit} &
+  \raisebox{0pt}[12pt][6pt]{yes} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{number of TPC clusters} &
+  \raisebox{0pt}[12pt][6pt]{$\geq$ 120} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{number of ITS clusters} &
+  \raisebox{0pt}[12pt][6pt]{$\geq$ 4} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{number of TPC cluster} &
+  \raisebox{-6pt}[12pt][6pt]{$\geq$ 80} \\
+  \raisebox{0pt}[12pt][6pt]{for PID} &
+  \raisebox{0pt}[12pt][6pt]{} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{TPC Ratio found/findable} &
+  \raisebox{-6pt}[12pt][6pt]{$>$ 0.6} \\
+  \raisebox{0pt}[12pt][6pt]{clusters} &
+  \raisebox{0pt}[12pt][6pt]{} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{Transverse momentum} &
+  \raisebox{0pt}[12pt][6pt]{0.1 $<p_{T}<$ 20} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{Pseudorapidity} &
+  \raisebox{0pt}[12pt][6pt]{$\mid\eta\mid<$ 0.8} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{Reject Kink daughter} &
+  \raisebox{0pt}[12pt][6pt]{yes} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{DCA in $\mid\vec{r}\mid$-direction [cm]} &
+  \raisebox{0pt}[12pt][6pt]{$<$ 1} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{DCA in z-direction [cm]} &
+  \raisebox{0pt}[12pt][6pt]{$<$ 2} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{ITS SPD layer hit} &
+  \raisebox{0pt}[12pt][6pt]{First} \\
+  \hline
+  \end{tabular}}
+\end{table}
+\end{minipage}}
+
+\put(-30,230){
+\begin{minipage}{0.6\linewidth}
+\begin{itemize}
+\footnotesize
+ \item Cuts for $e^{\pm}$ tracks
+\end{itemize}
+\end{minipage}}
+
+\put(105,58){
+\begin{minipage}{0.7\linewidth}
+\footnotesize
+Finally, using the MC truth information, only the tracks that really belong to $e^{\pm}$ are selected
+\end{minipage}}
+
+\put(250,195){
+\begin{minipage}{0.6\linewidth}
+\footnotesize
+$\phi$
+\end{minipage}}
+
+\put(280,205){
+\begin{minipage}{0.6\linewidth}
+\footnotesize
+$\theta$
+\end{minipage}}
+
+\put(310,200){
+\begin{minipage}{0.6\linewidth}
+\footnotesize
+z
+\end{minipage}}
+
+\put(270,240){
+\begin{minipage}{0.6\linewidth}
+\footnotesize
+y
+\end{minipage}}
+
+\put(235,180){
+\begin{minipage}{0.6\linewidth}
+\footnotesize
+x
+\end{minipage}}
+
+\put(275,188){
+\begin{minipage}{0.6\linewidth}
+\tiny{BEAM DIRECTION}
+\end{minipage}}
+
+\put(258,106){
+\begin{minipage}{0.6\linewidth}
+\fontsize{5}{3}\selectfont{$\pi^{0}$ reconstructed momentum}
+\end{minipage}}
+
+\put(170,106){
+\begin{minipage}{0.6\linewidth}
+\fontsize{5}{3}\selectfont{$\pi^{0}$ flight line}
+\end{minipage}}
+
+\put(270,135){
+\begin{minipage}{0.6\linewidth}
+\fontsize{7}{2}
+\textcolor{blue}{$e^{-}$}
+\end{minipage}}
+
+\put(275,86){
+\begin{minipage}{0.6\linewidth}
+\fontsize{7}{2}
+\textcolor{red}{$e^{+}$}
+\end{minipage}}
+
+\put(155,86){
+\begin{minipage}{0.6\linewidth}
+\fontsize{6}{3}\selectfont{\textcolor{green}{DCA}}
+\end{minipage}}
+
+\put(150,105){
+\begin{minipage}{0.6\linewidth}
+\fontsize{6}{3}\selectfont{\textcolor{green}{DCA}}
+\end{minipage}}
+
+\put(183,93){
+\begin{minipage}{0.6\linewidth}
+\fontsize{5}{3}\selectfont{primary vertex}
+\end{minipage}}
+
+\put(223,85){
+\begin{minipage}{0.6\linewidth}
+\fontsize{5}{3}\selectfont{secondary vertex}
+\end{minipage}}
+
+\put(100,180){
+\fontsize{8}{2}
+\begin{minipage}{0.45\linewidth}
+\begin{itemize}
+\item Tranverse momentum:
+\begin{equation*}
+p_{T} = \sqrt{p_{x}^{2}+p_{y}^{2}}
+\end{equation*}
+\item Pseudorapidity:
+\begin{equation*}
+\eta = -ln\bigg{[}tan\bigg{(}\frac{\theta}{2}\bigg{)}\bigg{]} = \frac{1}{2}ln\bigg{(}\frac{\mid \vec{p}\mid + \hspace{0.1cm} p_{L}}{\mid
+\vec{p} \mid - \hspace{0.1cm} p_{L}} \bigg{)}
+\end{equation*}
+\item \textbf{D}istance of \textbf{C}losest \textbf{A}pproach \\\vspace{0.1cm}(DCA)
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\subsection{Invariant mass distributions}
+
+\begin{frame}
+\frametitle{Correlation between $p_{T}$ and $m_{ee}$ from MC truth} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 9/18}}
+\end{minipage}}
+
+\put(-20,237){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.5, 0);
+\end{tikzpicture}}
+
+\put(17,231){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.5, 0);
+\end{tikzpicture}}
+
+\put(0,235){
+\footnotesize
+\begin{minipage}{1\linewidth}
+Using the MC truth it is possible to know the mother particle of every $e^{+}e^{-}$ pair
+\end{minipage}}
+
+\put(35,225){
+\footnotesize
+\begin{minipage}{0.9\linewidth}
+for each sources the correlation between the $p_{T}$ of the inclusive electron and the $m_{ee}$ of the $e^{+}e^{-}$ can be obtained 
+\end{minipage}}
+
+\put(0,50){\includegraphics[scale=0.5]{ptmee.pdf}}
+
+\put(40,202){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{blue}{\Large{$\gamma$}}
+\end{minipage}}
+
+\put(135,204){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{blue}{\Large{$\pi^{0}$}}
+\end{minipage}}
+
+\put(230,202){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{blue}{\Large{$\eta$}}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{Invariant mass distributions from MC truth} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 10/18}}
+\end{minipage}}
+
+\put(-20,237){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.8, 0);
+\end{tikzpicture}}
+
+\put(10,235){
+\footnotesize
+\begin{minipage}{1\linewidth}
+Knowing the mother particle of every $e^{+}e^{-}$ pair from MC truth, it is possible to obtain the invariant mass distribution for 
+each source
+\end{minipage}}
+
+\put(10,60){\includegraphics[scale=0.5]{sources.pdf}}
+
+\put(50,212){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{green}{\Large{$\gamma$}}
+\end{minipage}}
+
+\put(145,212){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{black}{\Large{$\pi^{0}$}}
+\end{minipage}}
+
+\put(240,212){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{blue}{\Large{$\eta$}}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\subsection{Fitting functions}
+\begin{frame}
+\frametitle{Distribution for photons} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 11/18}}
+\end{minipage}}
+
+\put(-10,40){\includegraphics[scale=0.38]{gamma_temp.pdf}}
+
+\put(111,231){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.8, 0);
+\end{tikzpicture}}
+
+\put(-20,230){
+\footnotesize
+\begin{minipage}{1.5\linewidth}
+\begin{itemize}
+ \item For the photon conversion \hspace{1 cm} exponentially modified Gaussian distribution:
+\end{itemize}
+\end{minipage}}
+
+\put(-20,205){
+\begin{minipage}{1\linewidth}
+\footnotesize
+\begin{equation*}
+\frac{dN}{dm_{ee}}=N_{\gamma}\cdot e^{-\frac{(m_{ee}-M_{\gamma})^{2}}{2\sigma^{2}}}+\Theta(m_{ee}-M_{\gamma})
+e^{\frac{m_{ee}-M_{\gamma}}{\tau}}
+\end{equation*}
+\end{minipage}}
+
+\put(200,120){
+\begin{minipage}{0.4\linewidth}
+\footnotesize
+Free parameters:
+\fontsize{7}{5}
+\begin{itemize}
+ \item $N_{\gamma} \rightarrow$ normalisation factor 
+ \item $M_{\gamma} \rightarrow$ ''pseudomass`` of the photon
+ \item $\sigma \rightarrow$ resolution of the detector
+ \item $\tau \rightarrow$ slope of the esponential
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{Kroll-Wada distribution}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 12/18}}
+\end{minipage}}
+
+\put(-10,40){\includegraphics[scale=0.38]{dalitz_temp.pdf}}
+
+\put(91,231){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.8, 0);
+\end{tikzpicture}}
+
+\put(-20,230){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\begin{itemize}
+ \item For the Dalitz decays \hspace{1 cm} Kroll-Wada distribution:
+\end{itemize}
+\end{minipage}}
+
+\put(-10,210){
+\begin{minipage}{1\linewidth}
+\fontsize{7}{2}
+\begin{equation*}
+ \frac{dN}{dm_{ee}} = N_{X}\cdot\frac{2}{m_{ee}}\Bigg\{(1+(m_{ee}/M_{X})^{2})^2-4(m_{ee}/M_{X})^{2}
+\Bigg\}^{3/2}\sqrt{1-\frac{4(m_{e}/M_{X})^{2}}{(m_{ee}/M_{X})^{2}}}\cdot
+ \Bigg\{1+\frac{2(m_{e}/M_{X})^{2}}{(m_{ee}/M_{X})^{2}}\Bigg\}\cdot F_{X}(m_{ee}^2)
+\end{equation*}
+\end{minipage}}
+
+\put(120,150){
+\begin{minipage}{1\linewidth}
+\footnotesize
+\begin{equation*}
+\Bigg \{
+\begin{array}{rl}
+F_{\pi^{0}}(m_{ee}^2) = \frac{1}{(1-5.5\cdot m_{ee}^2)^{2}}\\
+F_{\eta}(m_{ee}^2) = \frac{1}{(1-1.9\cdot m_{ee}^2)^{2}}
+\end{array}
+\end{equation*}
+\end{minipage}}
+
+\put(200,100){
+\begin{minipage}{0.4\linewidth}
+\footnotesize
+Free parameters:
+\fontsize{7}{5}
+\begin{itemize}
+ \item $N_{X} \rightarrow$ normalisation factor 
+ \item $M_{X} \rightarrow$ mass of the meson
+\end{itemize}
+\end{minipage}}
+
+\put(190,150){
+\footnotesize
+\begin{minipage}{1\linewidth}
+where
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\subsection{Fit of the photonic signal with MC information}
+\begin{frame}
+\frametitle{Fit template} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 13/18}}
+\end{minipage}}
+
+\put(-30,220){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\begin{itemize}
+ \item Select $e^{+}e^{-}$ pair with same $\gamma$, \space $\pi^{0}$ or $\eta$ mother particle from MC truth 
+ \item Calculate their invariant mass and obtain the relative distribution
+ \item Fit with the function which is the sum of the three contributions
+ \end{itemize}
+\end{minipage}}
+
+\put(-20,40){\includegraphics[scale=0.38]{Inv_mass_ESD.pdf}}
+
+\put(235,190){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{blue}{From MC truth}
+\end{minipage}}
+
+\put(110,162){
+\begin{minipage}{1\linewidth}
+\begin{table}[htpb]
+\center
+\fontsize{10}{3}
+\scalebox{0.48}{
+\begin{tabular}{|c|c|c|}
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of $\gamma$} &
+  \raisebox{0pt}[10pt][4pt]{418300 $\pm$ 600} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of $\pi^{0}$} &
+  \raisebox{0pt}[10pt][4pt]{362000 $\pm$ 600} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of $\eta$} &
+  \raisebox{0pt}[10pt][4pt]{42100 $\pm$ 200} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$n_{\gamma}/ n_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][4pt]{1.156 $\pm$ 0.003} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$n_{\gamma}/ n_{\eta}$} &
+  \raisebox{0pt}[10pt][4pt]{9.94 $\pm$ 0.05} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$n_{\gamma}/(n_{\pi^{0}}+n_{\eta})$} &
+  \raisebox{0pt}[10pt][4pt]{1.035 $\pm$ 0.002} \\
+  \hline
+  \end{tabular}}
+\end{table}
+\end{minipage}}
+
+\put(230,128){
+\footnotesize
+\begin{minipage}{1\linewidth}
+\textcolor{blue}{From the Fit}
+\end{minipage}}
+
+\put(100,90){
+\begin{minipage}{1\linewidth}
+\begin{table}[htpb]
+\center
+\fontsize{10}{3}
+\scalebox{0.48}{
+\begin{tabular}{|c|c|c|}
+   \hline
+  \raisebox{0pt}[10pt][4pt]{$M_{\gamma}$} &
+  \raisebox{0pt}[10pt][4pt]{0.01107 $\pm$ 0.00018 $GeV/c^{2}$} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$M_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][4pt]{0.1611 $\pm$ 0.0003 $GeV/c^{2}$} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$M_{\eta}$} &
+  \raisebox{0pt}[10pt][4pt]{0.558 $\pm$ 0.004 $GeV/c^{2}$} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\gamma$ } &
+  \raisebox{0pt}[10pt][4pt]{418300 $\pm$ 1100} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\pi^{0}$ } &
+  \raisebox{0pt}[10pt][4pt]{355000 $\pm$ 2000} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\eta$ } &
+  \raisebox{0pt}[10pt][4pt]{49200 $\pm$ 600} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/I_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][4pt]{1.179 $\pm$ 0.007} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/I_{\eta}$} &
+  \raisebox{0pt}[10pt][4pt]{8.50 $\pm$ 0.11} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/(I_{\pi^{0}}+I_{\eta})$} &
+  \raisebox{0pt}[10pt][4pt]{1.035 $\pm$ 0.006} \\
+  \hline
+  \end{tabular}}
+\end{table}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\subsection{Fit of the photonic signal without MC information}
+\begin{frame}
+\frametitle{Like-sign and Unlike-sign distributions} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 14/18}}
+\end{minipage}}
+
+\put(50,40){\includegraphics[scale=0.4]{like-unlike_norm.pdf}}
+
+\put(-30,235){
+\begin{minipage}{1\linewidth}
+\begin{itemize}
+ \item Unlike-sign distribution  
+ \end{itemize}
+\end{minipage}}
+
+\put(150,235){
+\begin{minipage}{1\linewidth}
+\begin{itemize}
+ \item Like-sign distribution  
+ \end{itemize}
+\end{minipage}}
+
+\put(-5,220){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.8, 0);
+\end{tikzpicture}}
+
+\put(175,220){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.8, 0);
+\end{tikzpicture}}
+
+\put(25,212){
+\begin{minipage}{1\linewidth}
+\footnotesize
+photonic signal + \\combinatorial background
+\end{minipage}}
+
+\put(205,218){
+\begin{minipage}{1\linewidth}
+\footnotesize
+combinatorial background
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit of the photonic background} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 15/18}}
+\end{minipage}}
+
+\put(-30,230){
+\begin{minipage}{1.2\linewidth}
+\begin{itemize}
+ \item The like-sign distribution is subtracted to the unlike-sign distribution 
+ \end{itemize}
+\end{minipage}}
+
+\put(-20,50){\includegraphics[scale=0.42]{esd_comb.pdf}}
+
+\put(200,180){
+\begin{minipage}{0.4\linewidth}
+\footnotesize
+\begin{itemize}
+ \item The resulting photonic signal is fitted with the template obtained from the MC truth
+ \end{itemize}
+\end{minipage}}
+
+\put(110,110){
+\begin{minipage}{1\linewidth}
+\begin{table}[htpb]
+\center
+\fontsize{10}{3}
+\scalebox{0.6}{
+\begin{tabular}{|c|c|c|}
+  \hline
+  \raisebox{0pt}[10pt][6pt]{Integral of $\gamma$ } &
+  \raisebox{0pt}[10pt][6pt]{423000 $\pm$ 6000} \\
+  \hline
+  \raisebox{0pt}[10pt][6pt]{Integral of $\pi^{0}$ } &
+  \raisebox{0pt}[10pt][6pt]{354000 $\pm$ 4000} \\
+  \hline
+  \raisebox{0pt}[10pt][6pt]{Integral of $\eta$ } &
+  \raisebox{0pt}[10pt][6pt]{42000 $\pm$ 3000} \\
+  \hline
+  \raisebox{0pt}[10pt][6pt]{$I_{\gamma}/I_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][6pt]{1.19 $\pm$ 0.02} \\
+  \hline
+  \raisebox{0pt}[10pt][6pt]{$I_{\gamma}/I_{\eta}$} &
+  \raisebox{0pt}[10pt][6pt]{10.0 $\pm$ 0.8} \\
+  \hline
+  \raisebox{0pt}[10pt][6pt]{$I_{\gamma}/(I_{\pi^{0}}+I_{\eta})$} &
+  \raisebox{0pt}[10pt][6pt]{1.07 $\pm$ 0.02} \\
+  \hline
+  \end{tabular}}
+\end{table}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\section{Results and outlook}
+\subsection{Results}
+\begin{frame}
+\frametitle{Results} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 16/18}}
+\end{minipage}}
+
+\put(-10,220){
+\footnotesize
+\begin{minipage}{1.1\linewidth}
+\textcolor{blue}{\textbf{RESULT:}} the amount of the three sources obtained with the fit of the photonic \\signal is consistent within 
+the statistical error with the numbers known from MC
+\end{minipage}}
+
+\put(-15,150){
+\begin{minipage}{1\linewidth}
+\begin{table}[htpb]
+\center
+\fontsize{15}{4}
+\scalebox{0.55}{
+\begin{tabular}{|c|c|c|c|c|}
+  \hline
+  \raisebox{-15pt}[15pt][12pt]{\large{\textbf{Particle}}} &
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{Number from}}} &
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{Relative statistical}}} &
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{Integral from}}} &
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{Relative statistical}}} \\
+  \raisebox{5pt}[15pt][12pt]{\large{\textbf{}}} &
+  \raisebox{5pt}[15pt][12pt]{\large{\textbf{MC truth}}} &
+  \raisebox{5pt}[15pt][12pt]{\large{\textbf{error}}} &
+  \raisebox{5pt}[15pt][12pt]{\large{\textbf{photonic signal fit}}} &
+  \raisebox{5pt}[15pt][12pt]{\large{\textbf{error}}}\\
+  \hline
+  \raisebox{-2pt}[12pt][12pt]{$\gamma$} &
+  \raisebox{-2pt}[12pt][12pt]{418300 $\pm$ 600} &
+  \raisebox{-2pt}[12pt][12pt]{0.14\%} &
+  \raisebox{-2pt}[12pt][12pt]{423000 $\pm$ 6000} &
+  \raisebox{-2pt}[12pt][12pt]{1.4\%} \\
+  \hline
+  \raisebox{-5pt}[12pt][12pt]{$\pi^{0}$} &
+  \raisebox{-2pt}[12pt][12pt]{362000 $\pm$ 600} &
+  \raisebox{-2pt}[12pt][12pt]{0.17\%} &
+  \raisebox{-2pt}[12pt][12pt]{354000 $\pm$ 4000} &
+  \raisebox{-2pt}[12pt][12pt]{1.1\%} \\
+  \hline
+  \raisebox{-2pt}[12pt][12pt]{$\eta$} &
+  \raisebox{-2pt}[12pt][12pt]{42100 $\pm$ 200} &
+  \raisebox{-2pt}[12pt][12pt]{0.48\%} &
+  \raisebox{-2pt}[12pt][12pt]{42000 $\pm$ 3000} &
+  \raisebox{-2pt}[12pt][12pt]{7.1\%} \\
+  \hline
+  \end{tabular}}
+\end{table}
+\end{minipage}}
+
+\put(-56,70){
+\begin{minipage}{1\linewidth}
+\begin{table}[htpb]
+\center
+\fontsize{15}{4}
+\scalebox{0.55}{
+\begin{tabular}{|c|c|c|c|}
+  \hline
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{Ratios}}} &
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{MC truth}}} &
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{Photonic signal fit}}} &
+  \raisebox{-5pt}[15pt][12pt]{\large{\textbf{Gaussian test (num of $\mathbold{\sigma}$)}}} \\
+  \hline
+  \raisebox{-5pt}[12pt][12pt]{$\gamma/\pi^{0}$} &
+  \raisebox{-2pt}[12pt][12pt]{1.156 $\pm$ 0.003} &
+  \raisebox{-2pt}[12pt][12pt]{1.19 $\pm$ 0.02} &
+  \raisebox{-2pt}[12pt][12pt]{1.68} \\
+  \hline
+  \raisebox{-3pt}[12pt][12pt]{$\gamma/\eta$} &
+  \raisebox{-2pt}[12pt][12pt]{9.94 $\pm$ 0.05} &
+  \raisebox{-2pt}[12pt][12pt]{10.0 $\pm$ 0.8} &
+  \raisebox{-2pt}[12pt][12pt]{0.07} \\
+  \hline
+  \raisebox{-5pt}[12pt][12pt]{$\gamma/(\pi^{0}+\eta)$} &
+  \raisebox{-2pt}[12pt][12pt]{1.035 $\pm$ 0.002} &
+  \raisebox{-2pt}[12pt][12pt]{1.07 $\pm$ 0.02} &
+  \raisebox{-2pt}[12pt][12pt]{1.73} \\
+  \hline
+  \end{tabular}}
+\end{table}
+\end{minipage}}
+
+\pause
+\put(210,117){
+\begin{tikzpicture}[-]
+\draw[draw=red,solid,line width=0.4mm] (0,0) -- (2.25,0) -- (2.25,0.48) -- (0,0.48) -- (0,0);
+\end{tikzpicture}}
+
+\put(134,58){
+\begin{tikzpicture}[-]
+\draw[draw=red,solid,line width=0.4mm] (0,0) -- (2.95,0) -- (2.95,0.48) -- (0,0.48) -- (0,0);
+\end{tikzpicture}}
+
+\put(223,65){
+\begin{tikzpicture}[->]
+\draw[draw=red,solid,line width=0.6mm] (1, 1) -- + (0.4, 0);
+\end{tikzpicture}}
+
+\put(260,80){
+\begin{tikzpicture}[->]
+\draw[draw=red,solid,line width=0.6mm] (0, 0) -- + (0, -1);
+\end{tikzpicture}}
+
+\put(240,65){
+\begin{minipage}{0.8\linewidth}
+\footnotesize
+\textcolor{red}{LARGE STATISTICAL \\ERROR}
+\end{minipage}}
+
+\put(-22,45){
+\begin{tikzpicture}[-]
+\draw[draw=blue,solid,line width=0.4mm] (0,0) -- (8.44,0) -- (8.44,0.47) -- (0,0.47) -- (0,0);
+\end{tikzpicture}}
+
+\end{picture}
+\end{frame}
+
+\subsection{Outlook}
+\begin{frame}
+\frametitle{Proton-proton and Pb-Pb data} 
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 17/18}}
+\end{minipage}}
+
+\put(-20,220){
+\begin{minipage}{1.1\linewidth}
+\begin{itemize}
+ \item Look into proton-proton real data and verify that the same ratios are found
+ \item Pb-Pb events : What would be different?
+\end{itemize}
+\end{minipage}}
+
+\put(-5,80){\includegraphics[scale=0.4]{thermal_photons.jpg}}
+
+\pause
+\put(27,92){
+\begin{tikzpicture}
+    \draw[draw=blue,solid,line width=0.05cm] (0,0) ellipse (0.7cm and 0.4cm);
+\end{tikzpicture}}
+
+\put(73,110){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.7mm] (0, 0) -- + (3.7, 2.2);
+\end{tikzpicture}}
+
+\put(190,160){
+\begin{minipage}{0.4\linewidth}
+An excess of $\gamma$, due to the thermal photons generated by the fireball, is expected
+\end{minipage}}
+
+\put(260,120){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.7mm] (0, 0) -- + (0, -0.7);
+\end{tikzpicture}}
+
+\put(190,90){
+\begin{minipage}{0.4\linewidth}
+the ratio between gamma conversion and Dalitz decays should be larger
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\section{Acknowledgements}
+\begin{frame}
+\frametitle{Acknowledgements}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa \hspace{0.2cm} 18/18}}
+\end{minipage}}
+
+\put(-10,180){
+\begin{minipage}{1\linewidth}
+\large{I would like to express my deep gratitude to all the \\\textcolor{blue}{ALICE group at GSI}, and in particular a special thank to:}
+\vspace{0.5cm}
+\normalsize
+\begin{itemize}
+ \item my tutor, Prof. Ralf Averbeck
+ \item Prof. Silvia Masciocchi
+ \item Dr. Jochen Th\"{a}der
+ \item Dr. Jan Wagner
+\end{itemize}
+\end{minipage}}
+
+\put(120,90){
+\begin{minipage}{0.6\linewidth}
+\Large{\textcolor{blue}{Thank you for your attention!!}}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{2\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa}}
+\end{minipage}}
+
+\put(85,180){
+\begin{minipage}[t]{0.4\linewidth}
+\begin{block}{}
+{\hspace{0.5cm}\textcolor{blue}{\Huge{BACKUP}}} 
+\end{block}
+\end{minipage}}
+ 
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{$e^{\pm}$ identification 2}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa}}
+\end{minipage}}
+
+\put(-10,35){\includegraphics[scale=0.45]{incl-ass.pdf}}
+
+\put(-30,230){
+\begin{minipage}{0.6\linewidth}
+\begin{itemize}
+\footnotesize
+ \item Inclusive $e^{\pm}$
+\end{itemize}
+\end{minipage}}
+
+\put(130,230){
+\begin{minipage}{0.6\linewidth}
+\begin{itemize}
+\footnotesize
+ \item Associated $e^{\pm}$
+\end{itemize}
+\end{minipage}}
+
+\put(42,230){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.5, 0);
+\draw[draw=blue,solid,line width=0.5mm] (7., 1) -- + (0.5, 0);
+\end{tikzpicture}}
+
+\put(62,223){
+\begin{minipage}{0.3\linewidth}
+\footnotesize
+{stringent cuts are \\required} 
+\end{minipage}}
+
+\put(235,207){
+\begin{minipage}{0.3\linewidth}
+\footnotesize
+{relaxed cuts are \\required:\\tracks resolution is lost,\\ but efficiency is maximised} 
+\end{minipage}}
+
+\put(230,115){
+\begin{minipage}{0.3\linewidth}
+\footnotesize
+Finally, using the MC truth information, only the tracks that really belong to $e^{\pm}$ are selected
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{Invariant mass analysis}
+\begin{picture}(320,250)
+
+\put(260,280){
+\begin{minipage}[t]{1.1\linewidth}
+\fontsize{6}{2}\selectfont{
+\textcolor{white}{Fabrizio Grosa}}
+\end{minipage}}
+
+\put(0,220){
+\begin{minipage}{1\linewidth}
+{According to Special Relativity the four-momentum \\$p = (E, \vec{p})$ of a physics system is always conserved, and 
+the mass of a particle is equal to:}
+\end{minipage}}
+
+\put(30,175){
+\begin{minipage}{1\linewidth}
+{\fcolorbox{blue}{white}{$m_{i}^{2} = E_{i}^{2}-\vec{p_{i}}^{2} 
+\equiv p_{i}^{2}$}}
+\end{minipage}}
+
+\put(0,138){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.5mm] (1, 1) -- + (0.8, 0);
+\end{tikzpicture}}
+
+\put(30,135){
+\begin{minipage}{0.8\linewidth}
+{we can calculate the invariant mass of a particle from its decay products}
+\end{minipage}}
+
+\put(50,100){
+\begin{minipage}{1\linewidth}
+{\fcolorbox{blue}{white}{
+$m_{ee} = \sqrt{(p_{1}+p_{2})^{2}} = \sqrt{(E_{1}+E_{2})^{2}-(\vec{p_{1}}+\vec{p_{2}})^{2}}$}} 
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\end{document}

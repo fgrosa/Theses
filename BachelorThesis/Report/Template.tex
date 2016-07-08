@@ -1,0 +1,303 @@
+% BEGIN Header
+\documentclass[twocolumn,gsifonts,twoside]{gsipaper}
+\usepackage{a4wide,gsiindex,helvet}
+\usepackage[english]{babel}
+\usepackage{amsmath,amsfonts,amssymb,verbatim,float}
+\usepackage[pdftex]{graphicx}
+
+\begin{document}
+\title{Measurement of $\gamma$, \space $\pi^{0}$ and $\eta$ ratios in the photonic background in pp collisions at $\sqrt{s} = 7 TeV$ with ALICE}
+
+\abstract{The heavy flavour production in pp collision is an important testing ground the QCD, the field theory for the strong 
+interaction. In this report the main sources of the background for the semileptonic decays is evaluated, for pp collisions at 
+$\sqrt{s} = 7$ $TeV$. For this purpose the photonic .}
+
+\shortauthor{Mustermann, Felix}
+\shorttitle{Sample file for reports using the gsipaper class}
+
+\author{Felix Mustermann}            % first author
+\address{University of Musterstadt, somewhere@nowhere.com}
+
+%\author{next author}                  % if you have more than one author,
+%\address{next address}                % use these lines for the next one.
+
+\maketitle
+%\thispagestyle{empty}
+
+% -= NOTA BENE =-
+% Start your text with the following command. 
+
+\section{Guidelines}
+\subsection{Writing your report}\label{ex:writing}
+
+If you unpacked the archive correctly, you should have a directory
+named \textsf{report} containing the following files\footnote{You
+  probably obtained these files from the web. And by the way this is
+  how you make a footnote.} 
+
+\noindent {\sf  gsipaper.cls}   ---  the class file that provides the  higher
+                     level \LaTeX\ commands for the reports. Don't change
+                     these parameters.
+
+\noindent {\sf  gsiindex.sty}   ---  a style file that also provides something,
+                               but you should not bother.
+
+
+\noindent {\sf  example.tex}  ---  the main text - this is what you
+are reading now. 
+
+\noindent {\sf  fig.pdf}  ---  a little plot in in the pdf format.
+
+You can delete my sample text and replace it with your own
+contribution to the volume, however we recommend keeping a copy of the
+initial version of the file for reference.  We work with
+\verb|pdflatex|, which implies that the format of figures is either
+\verb|pdf| or \verb|jpg|.  If you use an editor adapted to deal with
+\LaTeX , such as \verb|kile| or \verb|emacs| under \verb|LINUX| or the
+\verb|LEd| (Latex editor) together with the package
+\verb| "MiKTeX 2.8"| under Microsoft, care that the processing is done
+as \verb|pdflatex|; the \verb|TeXShop| editor under MacOS
+automatically works with \verb|pdflatex|.  On the commandline level,
+the command for latexing is \verb|pdflatex template.tex|, do this
+twice to sort out the cross-referencing.
+
+These files should work with standard pdf\LaTeX. Page numbers are
+included at the bottom of the page for your guidance. Do not worry
+about the final pagination of the volume which will be done after you
+have submitted the paper.
+
+
+\subsection{Headings and Text}
+
+Please preserve the style of the headings, text fonts and line spacing
+to provide a uniform style for the reports volume.  In a two column
+format there may arise difficulties when finding suitable line and
+page breaks. We would strongly recommend that you leave such problems
+until preparing the final draft and after you have checked the placing
+of the two-column wide tables etc.
+
+
+\subsection{Equations}
+
+You can use inline equations, like $1 = 2 \pm 1$, but you should make
+sure that equations should be confined to one column wherever
+possible. Use the equation environment to display equations that you
+would like to reference to
+\begin{equation}
+ a^2 + b^2 = c^2
+\label{ex:eqn:pythagoras}
+\end{equation}
+like this (see very important Eqn.\ref{ex:eqn:pythagoras}) or use the
+{\it eqnarray} environment to split equations into several lines,
+and/or to align several equations.
+
+
+If it's essential to have a two-column wide equation then use the
+method of Eqn.(\ref{ex:eq:murnf}).
+
+
+\begin{table}
+\center
+\caption{Small Table with some fancy input}\label{ex:tab:smtab}
+\begin{tabular}{|c|c|c|c|}
+  \hline
+  \raisebox{0pt}[12pt][6pt]{Title} &
+  \raisebox{0pt}[12pt][6pt]{$\epsilon^{\prime}$} &
+  \raisebox{0pt}[12pt][6pt]{$\lambda$} &
+  \raisebox{0pt}[12pt][6pt]{$\gamma$} \\
+  \hline
+  \raisebox{0pt}[12pt][6pt]{12} &
+  \raisebox{0pt}[12pt][6pt]{34} &
+  \raisebox{0pt}[12pt][6pt]{56} &
+  \raisebox{0pt}[12pt][6pt]{78} \\
+
+  \cline{1-2}
+  \multicolumn{2}{|c|}{\raisebox{0pt}[12pt][6pt]{and even more importantly}} & &\\\cline{1-2}
+  \raisebox{0pt}[12pt][6pt]{6.8977} &
+  \raisebox{0pt}[12pt][6pt]{8.9087} &
+  \raisebox{0pt}[12pt][6pt]{\textbf{42}} &
+  \raisebox{0pt}[12pt][6pt]{4.2928} \\\hline
+\end{tabular}
+\end{table}
+
+
+For problems of placement of a wide equation, see  Section
+\ref{ex:limits} below. 
+
+\begin{figure*}[tb]
+\begin{equation}
+U = D(\delta_1 , \delta_2 , \delta_3 , \delta_4)
+R_{12}(a,\delta_5)R_{13}(b,\delta_6)R_{14}(c,\delta_7)R_{23}(d,\delta_8)
+R_{24}(e,\delta_9)R_{34}(f,\delta_{10})
+\label{ex:eq:murnf}
+\end{equation}
+\end{figure*}
+
+
+\subsection{Tables}
+
+The tables are designed to have a uniform style throughout the reports
+volume. It doesn't matter how you choose to place the inner lines of
+the table, but we would prefer the border lines to be of the style
+shown in Tables \ref{ex:tab:smtab} and \ref{ex:tab:exp}. For either a
+single or a double column table, the top and bottom horizontal lines
+should be single (using {\it $\backslash$hline}), and there should be
+single vertical lines on the perimeter, (using {\it
+  $\backslash$begin\{tabular\}\{$|...|$\}}) as in Tables
+\ref{ex:tab:smtab} and \ref{ex:tab:exp}.  For the inner lines of the
+table, it looks better if they are kept to a minimum.
+
+The use of single column-wide tables is recommended wherever possible. For the
+page wide tables, use the environment given in the example of
+Table\ref{ex:tab:exp}. Do \textbf{not} change the latex commands from
+{\it $\backslash$begin\{table*\}} to
+{\it $\backslash$begin\{tabular\}}, or from
+{\it $\backslash$end\{tabular\}} to
+{\it $\backslash$end\{table*\}},
+apart from inserting your own caption heading and table label. The caption
+heading for a table should be placed at the top  of the table.
+
+
+\begin{figure}[tb]
+\center
+\includegraphics[scale = 0.3]{QCD_phase_diagram.jpg}
+\caption{Caption for the figure will come here.}
+\label{ex:fig:radk}
+\end{figure}
+
+\subsection{Figures}
+
+The same arguments apply as are given above for tables, i.e. it is
+preferable to have figures that fit into one column of the text. If
+this is not possible, then use the example of figure and use the
+commands {\it $\backslash$begin\{figure*\}} and {\it
+  $\backslash$end\{figure*\}}. The {\it $\backslash$includegraphics}
+command can take optional arguments as width and length of the
+picture, as can be seen in the examples given in this document.
+\LaTeX\ will scale the figure based on the width provided and adjust
+the height accordingly. You can use any form of the units of
+measurement described in the \LaTeX\ Book.
+
+As figures use \textit{pdf}- or \textit{jpg}-files. You will find this
+format amongst other output formats of most graphics software.  DO NOT
+- I repeat - DO NOT use the Unix command \verb|convert| unless you
+really know what you are doing!
+
+
+\begin{table*}[t]
+\caption{Nonsense Data. Note the difference between with(out)
+  \textit{raisebox} attribute in the code \label{ex:tab:exp}} 
+\begin{tabular}{|c|c|c|p{187pt}|}
+  \hline
+  \raisebox{0pt}[16pt][6pt]{Meson} &
+    $\Gamma(\pi^+\pi^-)\; s^{-1}$ &
+    $\Gamma(\pi^+\pi^-\gamma)\; s^{-1}$ &{} \\[3pt]
+  \hline
+  \hline
+  \raisebox{0pt}[16pt][6pt]{$K^0_S$}    & $0.769 \times 10^{10}$ &
+    $5.46 \times 10^7$ &
+    No DE observed, not even (IB)-E1
+      interference, despite large statistics, for $E^{\ast}_{\gamma} >
+      20$MeV.\\[6pt]
+  \hline
+
+  $K^0_L$ &
+    $3.93 \times 10^4$ &
+
+  $ (\rm{DE} = 0.62 \times 10^3)$ &
+    DE prominent, exceeding IB over the  range of measurement $20 <
+      E^{\ast}_{\gamma} < 160$MeV.\\[6pt]
+  \hline
+\end{tabular}
+\end{table*}
+
+
+\subsection{Limitations on the Placement of Equations, Tables
+and Figures}\label{ex:limits}
+
+In the final stages of preparing the document, try to declare the
+two-column wide figures, tables or equations at a point in {\it
+  example.tex} that is prior to the top of the column of text where
+you would like the item to appear.\footnote{By `declaring' I refer to
+  placing the chunk of material describing the table or whatever at a
+  particular point in the text file.} You should try to use {\it
+  $\backslash$begin\{figure\}$[$htb$]$} (which is the default) where
+ever you can. Only very large figures and tables should be placed on a
+page by themselves. One can use the instruction {\it
+  $\backslash$begin\{figure*\}$[$p$]$} or {\it
+  $\backslash$begin\{table*\}$[$p$]$} to position these, and they will
+appear on a separate page devoted to figures and tables. Again, we
+would recommend making any necessary adjustments to the layout of the
+figures and tables only in the final draft. It is also simplest to
+sort out line and page breaks in the last stages.
+
+
+\subsection{Footnotes, the Bibliography, and Acknowledgments} \label{ex:foot}
+
+Acknowledgments to tutors etc. may be placed in a separate section at
+the end of the text, before the bibliography.  This should not be
+numbered so use {\it $\backslash$section*\{Acknowledgements\}}.
+
+Footnotes are denoted by a letter superscript in the text, and
+references are denoted by a number in square brackets. We have used
+{\it $\backslash$bibitem} to produce the bibliography. Citations in
+the text use the labels defined in the bibitem declaration, for
+example, the first paper by Jarlskog\cite{ex:ja} is cited using the
+command {\it $\backslash$cite\{ex:ja\}}.
+
+
+\subsection{Your own packages}
+
+If you like to use other packages than the already provided ones ({\it
+  amsmath, amsfonts, verbatim, graphicx, float}) please use an extra
+{\it $\backslash$usepackage\{...\}} line, since we will cut off the
+marked lines at the top of the document as indicated in the comments.
+If you use non-standard packages please include them in your tarfile.
+
+\section{Happy \LaTeX{}ing and howto submit your manuscript}
+
+Once you finished writing your report, please print it out and check
+it once more for misspellings etc. If you have already done it, do it
+again. We won't be able to find typos in your formulas. So check them
+carefully! Also please check your bibliography items. See whether the
+figures and tables appear in the positions you would like to have
+them, otherwise move them.  If you think, everything that could be
+done is done, which means that you triple and quadruple checked
+everything, please save your \TeX file as \verb|report_yourname.tex|
+and `zip' your files (including the images and whatsoever) into one
+archive \verb|yourname.zip| (e.g. under LINUX: 
+\verb|zip -r yourname.zip yourdirectory|). Then send the
+resulting file to the Summer Student in charge of compiling the book.
+Please refrain from sending your file twice or more to avoid
+unecessary confusion on his side.
+
+
+\section*{Acknowledgments}
+
+This is where one places acknowledgments to your tutors, Albert
+Einstein etc.  Note that there are no section numbers for the
+Acknowledgments. The style file will automatically generate the
+heading for references.
+
+
+\begin{thebibliography}{99}
+
+\bibitem{ex:ja}
+C Jarlskog in {\it CP Violation}, ed. C Jarlskog
+(World Scientific, Singapore, 1988).
+
+\bibitem{ex:ma}
+L. Maiani, {\it Phys. Lett.} B {\bf 62}, 183 (1976).
+
+\bibitem{ex:bu}
+J.D. Bjorken and I. Dunietz, {\it Phys. Rev.} D {\bf 36}, 2109 (1987).
+
+\end{thebibliography}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Do NOT edit below this line
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
+% %%%%%%%%%%%%% END OF example.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

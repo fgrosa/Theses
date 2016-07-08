@@ -1,0 +1,459 @@
+\documentclass[twocolumn,gsifonts,twoside]{gsipaper}
+\usepackage{a4wide,gsiindex,helvet}
+\usepackage[english]{babel}
+\usepackage{amsmath,amsfonts,amssymb,verbatim,float}
+\usepackage[pdftex]{graphicx}
+\usepackage{textcomp}
+\usepackage{subfigure}
+\usepackage{ulem}
+\usepackage{soul} 
+\usepackage{footnote}
+\usepackage{cool}
+\usepackage{eulervm}
+
+\let\oldmb\mathbold
+\protected\def\mathbold{\oldmb}
+
+\begin{document}
+\title{Estimation of $\mathbold{\gamma}$, \space $\mathbold{\pi^{0}}$ and $\mathbold{\eta}$ ratios in the photonic background in 
+proton-proton collisions \\at $\mathbold{\sqrt{s} = 7}$ TeV with ALICE}
+
+\abstract{The heavy-flavour production in pp collisions is an important testing ground for perturbative QCD, the field theory for the 
+strong interaction. One way of measuring heavy-flavour hadrons is via the leptons originating from their decays. There are other sources 
+of leptons which represent the background for their measurement. In this report the main sources of the background for the semileptonic 
+decays are evaluated, for pp collisions at $\sqrt{s} = 7$ TeV. For this purpose the photonic method is used; it consists in calculating 
+the invariant mass of an "inclusive" $e^{\pm}$, for which stringent cuts are required to be sure that its track belongs to an $e^{\pm}$,  combined with an "associated" one, 
+for which only relaxed cuts are required to maximise the efficiency. Then the background is obtained subtracting the like-sign 
+($e^{\pm}e^{\pm}$) distribution from the unlike-sign ($e^{\pm}e^{\mp}$) distribution; finally the quantitative contribution of 
+the main sources are derived from a fit.}
+
+\shortauthor{Fabrizio, Grosa}
+\shorttitle{Sample file for reports using the gsipaper class}
+
+\author{Fabrizio Grosa}        
+\address{University of Turin, fabrizio.grosa@studenti.unito.it}
+
+\maketitle
+
+\section{Introduction}
+\subsection{The quark-gluon plasma}
+
+\begin{figure}[htb]
+\begin{center}
+\advance\leftskip-1cm
+\advance\rightskip-0.cm
+\includegraphics[scale = 0.45]{QCD_phase_diagram.jpg}
+\caption{Phase diagram of hadronic matter and the hadron gas - quark-gluon plasma phase transition}
+\label{diagram}
+\end{center}
+\end{figure}
+
+Quantum chromodynamics (QCD) predicts that under extreme conditions of very high temperature
+or baryo-chemical potential $\mu_{B}$, hadronic matter transits to a deconfined phase of matter called \textit{``quark-gluon plasma``}
+(QGP), in which quarks and gluons are not bound in hadrons.\\
+
+The QGP is thought to have permeated the universe for few $\mu s$ after the Big Bang. Experimentally, it can be created in 
+ultra-relativistic heavy-ion collisions.\\
+These collisions create a so called \textit{fireball} of interacting quarks and gluons above the critical temperature, 
+which first reaches the thermal equilibrium, and then quickly expands and cools down. During the cooling starts the \textit{hadronization}, 
+or rather quarks and gluons become again confined and form hadrons.\\
+The last phases are the \textit{chemical freeze-out} and the \textit{kinetic freeze-out}, where, 
+respectively, inelastic and elastic processes cease.
+
+\subsection{Heavy-flavour production}
+The production of hadrons which contain heavy quark (charm or beauty) is an important probe for the QGP. It happens exclusively 
+through initial hard partonic scattering processes when the medium is more dense, because of their higher mass. Heavy quarks lose 
+energy differently than the light quarks in the QGP. They are therefore a signature of the deconfinement, 
+and their behaviour in the medium is useful to characterise the medium itself.\\
+Hadrons carrying heavy-flavour can decay by weak interaction, through a \textit{''semileptonic decay``}, in which one lepton (and the 
+corresponding neutrino) is produced in addition to one or more hadrons.\\
+It is therefore important to estimate the background for these decays to quantify the heavy-flavour production. \\
+
+The main sources for the photonic background are the photon conversions ($\gamma\rightarrow e^{+}e^{-}$) and the $\pi^{0}$ and $\eta$
+Dalitz decays ($X \rightarrow e^{+}e^{-}\gamma$)\footnote{X stands for $\pi^{0}$ or $\eta$ mesons}, which are the major contribution
+for the low $p_{T}$ region (80\%\textdiv \space 95\%). \\
+The aim of this study is to quantify the relative amount of those three sources, especially the ratio between photons and $\pi_{0}$ 
+and $\eta$ mesons.
+
+\section{Tracks selection}
+\subsection{$e^{\pm}$ identification}
+For this analysis MC data for pp collisions at $\sqrt{s} = 7$ $TeV$ (LHC10f6a) have been used: they are generated with PYTHIA 6
+and their behaviour in the detectors (ITS, TPC and TOF) has been simulated with GEANT 3\footnote{\textbf{GE}ometry \textbf{AN}d 
+\textbf{T}racking package}.\\
+
+The idea of this analysis method is to combine an "inclusive" $e^{\pm}$, whose track is surely related to an electron, 
+with an "associated" $e^{\pm}$, for which less stringent cuts are required to maximise the efficiency.\\
+The cuts applied to the reconstructed tracks, for "inclusive" and "associated" $e^{\pm}$, are shown in the following table:
+
+\begin{table}[htpb]
+\center
+\caption{Cuts applied for "inclusive" and "associated" $e^{\pm}$}\label{cuts}
+\fontsize{10}{3}
+\scalebox{0.8}{
+\begin{tabular}{|c|c|c|}
+  \hline
+  \raisebox{0pt}[10pt][4pt]{} &
+  \raisebox{0pt}[12pt][4pt]{\textbf{inc e$^{\pm}$}} &
+  \raisebox{0pt}[12pt][4pt]{\textbf{ass e$^{\pm}$}} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$\chi^{2}/$cluster} &
+  \raisebox{-8pt}[10pt][4pt]{$<$ 4} &
+  \raisebox{-8pt}[10pt][4pt]{$<$ 4} \\
+  \raisebox{0pt}[10pt][4pt]{in the TPC track fit} &
+  \raisebox{0pt}[10pt][4pt]{} &
+  \raisebox{0pt}[10pt][4pt]{} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{ITS/TPC refit} &
+  \raisebox{0pt}[10pt][4pt]{yes} &
+  \raisebox{0pt}[10pt][4pt]{yes} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of TPC clusters} &
+  \raisebox{0pt}[10pt][4pt]{$\geq$ 120} &
+  \raisebox{0pt}[10pt][4pt]{$\geq$ 100} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of ITS clusters} &
+  \raisebox{0pt}[10pt][4pt]{$\geq$ 4} &
+  \raisebox{0pt}[10pt][4pt]{$\geq$ 2} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of TPC cluster} &
+  \raisebox{-8pt}[10pt][4pt]{$\geq$ 80} &
+  \raisebox{-8pt}[10pt][4pt]{$\geq$ 80} \\
+  \raisebox{0pt}[10pt][4pt]{for PID} &
+  \raisebox{0pt}[10pt][4pt]{} &
+  \raisebox{0pt}[10pt][4pt]{} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{TPC Ratio found/findable} &
+  \raisebox{-8pt}[10pt][4pt]{$>$ 0.6} &
+  \raisebox{-8pt}[10pt][4pt]{-} \\
+  \raisebox{0pt}[10pt][4pt]{clusters} &
+  \raisebox{0pt}[10pt][4pt]{} &
+  \raisebox{0pt}[10pt][4pt]{} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Transverse momentum} &
+  \raisebox{0pt}[10pt][4pt]{0.1 $<p_{T}<$ 20} &
+  \raisebox{0pt}[10pt][4pt]{-} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Pseudorapidity} &
+  \raisebox{0pt}[10pt][4pt]{$\mid\eta\mid<$ 0.8} &
+  \raisebox{0pt}[10pt][4pt]{$\mid\eta\mid<$ 0.8} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Reject Kink daughter} &
+  \raisebox{0pt}[10pt][4pt]{yes} &
+  \raisebox{0pt}[10pt][4pt]{yes} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{DCA in $\mid\vec{r}\mid$-direction [cm]} &
+  \raisebox{0pt}[10pt][4pt]{$<$ 1} &
+  \raisebox{0pt}[10pt][4pt]{$<$ 1} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{DCA in z-direction [cm]} &
+  \raisebox{0pt}[10pt][4pt]{$<$ 2} &
+  \raisebox{0pt}[10pt][4pt]{$<$ 2} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{ITS SPD layer hit} &
+  \raisebox{0pt}[10pt][4pt]{First} &
+  \raisebox{0pt}[10pt][4pt]{-} \\
+  \hline
+  \end{tabular}}
+\end{table}
+Finally, using the MC truth information, only the tracks that really belong to $e^{\pm}$ are selected for both "inclusive" 
+and "associated" $e^{\pm}$.
+
+\subsection{Invariant mass analysis}
+
+It is possible to reconstruct the mass of a particle from its decay products \\(in our case they will be $e^{\pm}e^{\mp}$, 
+or equivalently $e^{\pm}e^{\pm}$), using the following relation:
+
+\begin{align} 
+\setlength{\jot}{12pt} 
+m_{ee} &= \sqrt{(p_{1}+p_{2})^{2}} \\ \nonumber
+&= \sqrt{(E_{1}+E_{2})^{2}-(\vec{p_{1}}+\vec{p_{2}})^{2}}. 
+\label{mee}
+\end{align}
+
+The indices 1 and 2 stand for the two candidates and the energy is calculated from the mass of the daughter particles (in this case
+\\$m_{e} =$ 0.511 MeV), because $E_{i}$ is not directly measured.
+
+\section{Photonic background with MC truth information}
+Using the MC truth it is possible to select every $e^{+}e^{-}$ pair which comes from one of the sources listed before, and then to 
+obtain their invariant mass distributions.\\
+
+The numbers of $\gamma$ conversions, \space $\pi^{0}$ and $\eta$ Dalitz decays, known from MC truth, are shown in the following table:
+
+\begin{table}[htb]
+\center
+\caption{Amount of $e^{+}e^{-}$ pairs from the three sources, obtained from the MC truth distributions}\label{amount_MC}
+\begin{tabular}{|c|c|}
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of $\gamma$} &
+  \raisebox{0pt}[10pt][4pt]{418300 $\pm$ 600} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of $\pi^{0}$} &
+  \raisebox{0pt}[10pt][4pt]{362000 $\pm$ 600} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{number of $\eta$} &
+  \raisebox{0pt}[10pt][4pt]{42100 $\pm$ 200} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$n_{\gamma}/ n_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][4pt]{1.156 $\pm$ 0.003} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$n_{\gamma}/ n_{\eta}$} &
+  \raisebox{0pt}[10pt][4pt]{9.94 $\pm$ 0.05} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$n_{\gamma}/(n_{\pi^{0}}+n_{\eta})$} &
+  \raisebox{0pt}[10pt][4pt]{1.035 $\pm$ 0.002} \\
+  \hline
+  \end{tabular}
+\end{table}
+
+\subsection{Invariant mass distributions}
+Every measured particle is described by several parameters which determine its kinematic and track.\\
+The initial observables, which describe the particle how it was originally created, are known from the MC truth.
+From ESD\footnote{\textbf{E}vent \textbf{S}ummary \textbf{D}ata} it is possible to obtain the parameters after the interaction
+of the particle with the material of the detectors,  and its track has been reconstructed from the measured information. 
+The invariant mass distributions have been generated first with MC truth, then with ESD observables.\\ 
+Thus we can notice how the distributions obtained with the reconstructed tracks of the particles are wider than the others,
+due to the finite resolution of the detectors.\\
+It is finally possible to put together the three contributions, that should represent the majority of the background (at least for 
+$m_{ee} < m_{\eta}$), and fit the result with a parametric distribution, which summarises the three contributions.\\
+
+\subsection{Fit functions}
+\label{subsec:fit}
+
+The parameterization is different for photon conversions and Dalitz decays.\\
+For the first source an exponentially modified Gaussian distribution has been chosen, 
+\begin{equation}
+\frac{dN}{dm_{ee}}=N_{\gamma}\cdot e^{-\frac{(m_{ee}-M_{\gamma})^{2}}{2\sigma^{2}}}+\Theta(m_{ee}-M_{\gamma})
+e^{\frac{m_{ee}-M_{\gamma}}{\tau}}
+\label{gaussexp}
+\end{equation}
+
+where $\Theta$ is the Heaviside function, which is defined equal to zero for $m_{ee} < M_{\gamma}$ and equal to 1 for 
+$m_{ee} > M_{\gamma}$.\\
+
+This function fits reasonably well because the invariant mass of a photon is not exactly zero, in fact the conversion can only happen
+near to a nucleus, which transfers a fraction of his momentum. In addition for the reconstructed tracks it is necessary to take into 
+consideration the finite resolution of the detectors.\\
+
+For the Dalitz decays, instead, the \\Kroll-Wada distribution has been used
+\begin{equation}
+\begin{split}
+\frac{dN}{dm_{ee}} &=N_{X}\cdot\frac{2}{m_{ee}}B^{3/2}\sqrt{1-\frac{4(m_{e}/M_{X})^{2}}{(m_{ee}/M_{X})^{2}}}\times \\
+&\times \Bigg\{1+\frac{2(m_{e}/M_{X})^{2}}{(m_{ee}/M_{X})^{2}}\Bigg\}\cdot F_{X}(m_{ee}^2) 
+\label{kroll_wada}
+\end{split}
+\end{equation}
+
+where $N_{X}$ is a normalisation factor, $m_{e}$ is the mass of an electron or a positron, $M_{X}$ the mass of the mother particle 
+and 
+\begin{equation}
+B=(1+(m_{ee}/M_{X})^{2})^2-4(m_{ee}/M_{X})^{2}.
+\label{kroll_wada}
+\end{equation}
+The Form Factor $F_{X}$ is different for every Dalitz decay. For the $\pi^{0}$ and the $\eta$ the expressions are 
+\begin{equation}
+\Bigg\{
+\begin{array}{rl}
+F_{\pi^{0}}(m_{ee}^2) = \frac{1}{(1-5.5\cdot m_{ee}^2)^{2}}\\
+F_{\eta}(m_{ee}^2) = \frac{1}{(1-1.9\cdot m_{ee}^2)^{2}}
+\label{formfactors}
+\end{array}
+\end{equation}
+
+\begin{figure}[tb]
+\center
+\includegraphics[scale = 0.4]{Inv_mass_ESD.pdf}
+\caption{Invariant mass distribution for $\gamma$ conversion, $\pi^{0}$ and $\eta$ Dalitz decays from MC truth with 
+observables from ESD reconstructed tracks}
+\label{ESDdist}
+\end{figure}
+
+In this analysis the parameters which should represent the mass of the mothers are not the real ones, but they have been fixed from the
+fit performed to the distribution with all the three sources (selected with MC truth), with the observables calculated from the 
+reconstructed tracks (Fig.\ref{ESDdist}). \\
+In fact the distributions of the Dalitz decays cannot be properly described by the Kroll-Wada, due to the fact that some counts for 
+low transverse momentum and low invariant mass are lost, because particles with low $p_{T}$ and $m_{ee}$ cannot reach the detectors.\\
+This problem affects more the $\pi^{0}$ distribution than the $\eta$ one, because the $\pi^{0}$ meson has a lower mass (the real values 
+are $m_{\pi^{0}} = 139.57$ MeV and $m_{\eta} = 547.85$ MeV).\\ 
+
+The values of the parameters from the fit and the integrals of the single contributes are summarised in Tab.\ref{fit}.
+\begin{table}[htpb]
+\center
+\caption{Amount of $e^{+}e^{-}$ pairs from the three sources, obtained from the fit of the MC distribution}\label{fit}
+\fontsize{10}{3}
+\scalebox{0.9}{
+\begin{tabular}{|c|c|}
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$M_{\gamma}$} &
+  \raisebox{0pt}[10pt][4pt]{0.01107 $\pm$ 0.00018 $GeV/c^{2}$} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$M_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][4pt]{0.1611 $\pm$ 0.0003 $GeV/c^{2}$} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$M_{\eta}$} &
+  \raisebox{0pt}[10pt][4pt]{0.558 $\pm$ 0.004 $GeV/c^{2}$} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\gamma$ } &
+  \raisebox{0pt}[10pt][4pt]{418300 $\pm$ 1100} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\pi^{0}$ } &
+  \raisebox{0pt}[10pt][4pt]{355000 $\pm$ 2000} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\eta$ } &
+  \raisebox{0pt}[10pt][4pt]{49200 $\pm$ 600} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/I_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][4pt]{1.179 $\pm$ 0.007} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/I_{\eta}$} &
+  \raisebox{0pt}[10pt][4pt]{8.50 $\pm$ 0.11} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/(I_{\pi^{0}}+I_{\eta})$} &
+  \raisebox{0pt}[10pt][4pt]{1.035 $\pm$ 0.006} \\
+  \hline
+  \end{tabular}}
+\end{table}
+
+\newpage
+\section{Photonic background without MC truth information}
+In order to approach a realistic analysis strategy to be performed with real data, the MC truth information is ignored in this section.\\
+Therefore every "inclusive" $e^{\pm}$ is combined to an "associated" $e^{\mp}$ and for each pair the invariant mass $m_{ee}$ is 
+calculated to create the unlike-sign distribution, that contains both the photonic signal, and the combinatorial background. \\
+Then every "inclusive" $e^{\pm}$ is paired to an "associated" $e^{\pm}$ for the like-sign invariant mass distribution. 
+This one represents only the combinatorial background, that will be then subtracted from the unlike-sign distribution to obtain only 
+the signal which we are interested in.\\In Fig.\ref{LSUS} the two distributions are shown: the red points belong to the 
+unlike-sign distribution, the black ones to the like-sign.\\
+For the like-sign distribution a normalisation was necessary, in fact not all the combinatorial background was subtracted.
+
+\begin{figure}[htb]
+\center
+\includegraphics[scale = 0.4]{like-unlike_norm.pdf}
+\caption{The invariant mass distribution of like-sign ($e^{\pm}e^{\pm}$) and unlike-sign ($e^{\pm}e^{\mp}$) combination.}
+\label{LSUS}
+\end{figure}
+
+\newpage
+
+\begin{figure}[tb]
+\center
+\includegraphics[scale=0.4]{esd_comb.pdf}
+\caption{The photonic background fitted with the template obtained from the MC truth}
+\label{photonic}
+\end{figure}
+
+For every bin the ratio between the unlike-sign and the like-sign distribution has been calculated, and then linearly fitted starting 
+from $m_{ee} >$ 0.3 $GeV/c^{2}$.
+Every bin of the like-sign distribution has been then multiplied for the value of the line in the centre of the bin, to obtain the 
+normalised distribution.\\
+
+Once subtracted the like-sign distribution from the unlike-sign, the resulting photonic background has been fitted with the templates 
+extrapolated from the MC truth in section \ref{subsec:fit}, as represented in Fig.\ref{photonic}.
+The values of the parameters that should represent the masses have been fixed from the ones obtained from the previous fit (Tab. 
+\ref{fit}).\\
+The purpose of this method is therefore to obtain the same amount of $\gamma$, \space $\pi^{0}$ and $\eta$, as known from the MC truth.
+The integral of the three contributions and the relative ratios are shown in the following table:
+
+\begin{table}[htpb]
+\center
+\caption{Amount of $e^{+}e^{-}$ pairs from the three sources, obtained from the fit of the photonic background}\label{fit2}
+\begin{tabular}{|c|c|}
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\gamma$ } &
+  \raisebox{0pt}[10pt][4pt]{423000 $\pm$ 6000} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\pi^{0}$ } &
+  \raisebox{0pt}[10pt][4pt]{354000 $\pm$ 4000} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{Integral of $\eta$ } &
+  \raisebox{0pt}[10pt][4pt]{42000 $\pm$ 3000} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/I_{\pi^{0}}$} &
+  \raisebox{0pt}[10pt][4pt]{1.19 $\pm$ 0.02} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/I_{\eta}$} &
+  \raisebox{0pt}[10pt][4pt]{10.0 $\pm$ 0.8} \\
+  \hline
+  \raisebox{0pt}[10pt][4pt]{$I_{\gamma}/(I_{\pi^{0}}+I_{\eta})$} &
+  \raisebox{0pt}[10pt][4pt]{1.07 $\pm$ 0.02} \\
+  \hline
+  \end{tabular}
+\end{table}
+
+As we can see the values obtained from the fit are comparable to the real ones known from the MC truth, within the statistical error.
+
+\section{Conclusions and Outlook}
+The goal was to determine the ratio between the contribution from photon conversions and from $\pi^{0}$ and $\eta$ Dalitz decays 
+to the photonic background to the electrons from heavy-flavor hadron decays.\\ 
+It has been reached, although more precise results could be obtained fixing some details (for example the problem of higher masses).
+The ratio between $\gamma$ and $\eta$ seems to be the best one to be considered, but it is only due to the large statistical error.
+In fact the relative error for the number of $\eta$ is of 7.1\%, while for $\pi^{0}$ is 1.1\% and for $\gamma$ 1.4\%.\\ 
+Therefore the ratio between photon conversions and all the contributes from Dalitz decays should be used.
+Moreover we can notice that some counts from $\pi^{0}$ could be misidentified and contribute to the $\eta$ integral, as it is possible 
+to observe from the fit performed to the MC truth distribution (Tab.\ref{fit}). The total number of Dalitz decays has not changed 
+anyway.\\
+
+The next step would be look into real proton-proton data, to see if the same ratio is found.
+Finally the same study can be applied to Pb-Pb data, to verify that there is an excess of $\gamma$, which are supposed to be 
+thermal photons originated by the fireball, which is only created in heavy ions ultra-relativistic collision.  
+More information about this phenomenon can be found in the article \cite{Masciocchi:2011fu}.
+
+\section*{Acknowledgements}
+I would like to thank all the ALICE group at GSI, for their support, their kindness and their availability at any time.
+Working with them has been always pleasant and enjoyable.\\
+I am especially grateful to Ralph Averbeck, my supervisor, Silvia Masciocchi, Jochen Th\"{a}der, Maria Nicassio, Jan Wagner, Ana Marin,
+Dariusz Miskowiec and Lukas Kreis; they were always present and they always helped me when needed.
+I want also to thank J\"{o}rn Knoll, Marina Verentsova and all the other organizers of the Summer Student for the chance that they gave 
+me to participate in it. 
+
+\begin{thebibliography}{99}
+
+\bibitem{Averbeck:2013oga}
+  R.~Averbeck,
+  %``Heavy-flavor production in heavy-ion collisions and implications for the properties of hot QCD matter,''
+  Prog.\ Part.\ Nucl.\ Phys.\  {\bf 70} (2013) 159.
+  %%CITATION = PPNPD,70,159;%%
+  %3 citations counted in INSPIRE as of 02 Sep 2014
+
+\bibitem{Abelev:2012xe}
+  B.~Abelev {\it et al.}  [ALICE Collaboration],
+  %``Measurement of electrons from semileptonic heavy-flavour hadron decays in pp collisions at \sqrt{s} = 7 TeV,''
+  Phys.\ Rev.\ D {\bf 86} (2012) 112007
+  [arXiv:1205.5423 [hep-ex]].
+  %%CITATION = ARXIV:1205.5423;%%
+  %48 citations counted in INSPIRE as of 02 Sep 2014
+
+\bibitem{Andronic:2014zha}
+  A.~Andronic,
+  %``An overview of the experimental study of quark-gluon matter in high-energy nucleus-nucleus collisions,''
+  arXiv:1407.5003 [nucl-ex].
+  %%CITATION = ARXIV:1407.5003;%%
+  
+\bibitem{Schukraft:2011na}
+  J.~Schukraft [ALICE Collaboration],
+  %``Heavy Ion physics with the ALICE experiment at the CERN LHC,''
+  Phil.\ Trans.\ Roy.\ Soc.\ Lond.\ A {\bf 370} (2012) 917
+  [arXiv:1109.4291 [hep-ex]].
+  %%CITATION = ARXIV:1109.4291;%%
+  %3 citations counted in INSPIRE as of 02 Sep 2014
+
+\bibitem{Landsberg:1986fd}
+  L.~G.~Landsberg,
+  %``Electromagnetic Decays of Light Mesons,''
+  Phys.\ Rept.\  {\bf 128} (1985) 301.
+  %%CITATION = PRPLC,128,301;%%
+  %243 citations counted in INSPIRE as of 02 Sep 2014
+  
+\bibitem{Masciocchi:2011fu}
+  S.~Masciocchi [ALICE Collaboration],
+  %``Investigation of charm and beauty production via semileptonic decays of heavy-flavour hadrons in pp at 7 TeV and Pb--Pb at 2.76 TeV with ALICE,''
+  J.\ Phys.\ G {\bf 38} (2011) 124069
+  [arXiv:1109.6436 [nucl-ex]].
+  %%CITATION = ARXIV:1109.6436;%%
+  %15 citations counted in INSPIRE as of 04 Sep 2014
+  
+\bibitem{ex:schm} C.A. Schmidt, Photonic background measurement for electrons from semileptonic heavy-flavour decays with ALICE at the 
+LHC, {\it Master thesis}, 2013 
+
+\end{thebibliography}
+
+
+\end{document}

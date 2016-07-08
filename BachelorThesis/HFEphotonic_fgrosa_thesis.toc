@@ -1,0 +1,18 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {english}
+\beamer@sectionintoc {1}{GSI}{2}{0}{1}
+\beamer@sectionintoc {2}{Heavy-flavour production in heavy-ion collisions}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Quark-gluon plasma}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Heavy-flavour production}{5}{0}{2}
+\beamer@sectionintoc {3}{Photonic background}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Main sources}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{ALICE}{9}{0}{3}
+\beamer@subsectionintoc {3}{3}{Tracks selection}{10}{0}{3}
+\beamer@subsectionintoc {3}{4}{Invariant mass distributions}{12}{0}{3}
+\beamer@subsectionintoc {3}{5}{Fitting functions}{14}{0}{3}
+\beamer@subsectionintoc {3}{6}{Fit of the photonic signal with MC information}{16}{0}{3}
+\beamer@subsectionintoc {3}{7}{Fit of the photonic signal without MC information}{17}{0}{3}
+\beamer@sectionintoc {4}{Results and outlook}{19}{0}{4}
+\beamer@subsectionintoc {4}{1}{Results}{19}{0}{4}
+\beamer@subsectionintoc {4}{2}{Outlook}{21}{0}{4}
+\beamer@sectionintoc {5}{Acknowledgements}{23}{0}{5}
