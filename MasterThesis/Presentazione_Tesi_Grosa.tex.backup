@@ -1000,7 +1000,7 @@ $\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni su
 \frametitle{}
 \begin{picture}(320,250)
 
-\put(70,120){
+\put(73,120){
 \begin{minipage}[t]{0.55\linewidth}
 \begin{center}
 \fontsize{1.5cm}{1.75cm}\selectfont{\textcolor{blue}{BACKUP}}
@@ -1033,6 +1033,47 @@ Le sezioni d'urto per adroni contenenti $charm$ e $beauty$ misurate in collision
 \frametitle{Set di tagli nell'analisi standard}
 \begin{picture}(320,250)
 
+\put(190,145){\includegraphics[scale=0.18]{Dplus_sketch.png}}
+
+\put(35,240){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{block}{\centering $L_{xy}$ normalizzata}
+\setlength\abovedisplayskip{-1pt}
+\[\text{Norm. }L_{xy} = L_{xy}/\sigma_{L_{xy}}\]
+\end{block}
+\end{minipage}}
+
+\put(35,185){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{block}{\centering \textit{Sigma vertex}}
+\setlength\abovedisplayskip{-1pt}
+\[\sigma_{vertex} = \sqrt{d_K^2+d_{\pi_1}^2+d_{\pi_2}^2}\]
+\end{block}
+\end{minipage}}
+
+\put(5,70){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.5} 
+\fontsize{6}{8.5}\selectfont
+\begin{tabular}{c|c|c|c|c|c|c|c|c|c}
+$\pt$ (GeV/c) & [1,2] & [2,8] & [8,9] & [9,10] & [10,11] & [11,12] & [12,14] & [14,16] & [16,24]\\
+\hline
+$\pt^K$ (GeV/c) >& 0.3 & 0.3 & 0.3 & 0.3 & 0.3 & 0.3 & 0.3 & 0.3 & 0.3\\
+\hline
+$\pt^\pi$ (GeV/c) >& 0.3 & 0.35 & 0.35 & 0.35 & 0.35 & 0.35 & 0.35 & 0.35 & 0.35\\
+\hline
+Decay length (cm) >& 0.02 & 0.04 & 0.04 & 0.04 & 0.04 & 0.04 & 0.10 & 0.10 & 0.15\\
+\hline
+Norm. $L_{xy}$ >& 9 & 8 & 8 & 8 & 8 & 6 & 6 & 9 & 5\\
+\hline
+$cos(\theta_P)$ >& 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990\\
+\hline
+$cos(\theta_P^{xy})$ >& 0.995 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990\\
+\hline
+$\sigma_{vertex}$ (cm) <& 0.030 & 0.030 & 0.035 & 0.035 & 0.035 & 0.070 & 0.070 & 0.090 & 0.030\\
+\end{tabular}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
@@ -1040,6 +1081,50 @@ Le sezioni d'urto per adroni contenenti $charm$ e $beauty$ misurate in collision
 \begin{frame}
 \frametitle{Fit unbinned}
 \begin{picture}(320,250)
+
+\put(0,230){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{1.\linewidth}
+La tecnica scelta per effettuare il fit sulla distribuzione del parametro di impatto dei dati è il \textit{\textcolor{blue} {fit unbinned}}
+\end{minipage}}
+
+\put(0,210){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.47\linewidth}
+ \begin{block}{\centering Fit unbinned}
+\setlength\abovedisplayskip{0pt}
+ \[\ln{L(\vec{\theta},\pmb{x})} = \sum_{i=1}^{N} \ln{f(x_i,\vec{\theta)}}\]
+  \begin{center}
+  $N \rightarrow $ numero totale di misure\\
+  $f(x_i,\vec{\theta})\rightarrow$  densità di probabilità di $x_i$ 
+  \end{center}
+\end{block}
+\end{minipage}}
+
+\put(177,210){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.47\linewidth}
+ \begin{block}{\centering Fit binned}
+\setlength\abovedisplayskip{0pt}
+\[\ln{L(\vec{\theta})} = \sum_{i=1}^{N_{bins}} n_i\ln{\nu_i(\vec{\theta})}\]
+\begin{center}
+$N_{bins} \rightarrow$ numero di bin dell'istogramma \\
+$n_i \rightarrow$ numero di entrate nel bin  $i$-esimo\\
+$\nu_i(\vec{\theta}) = N\int_{x_i^{min}}^{x_i^{max}}f(x,\vec{\theta})dx$\\
+\end{center}
+\end{block}
+\end{minipage}}
+
+\put(0,85){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{1.\linewidth}
+\begin{center}
+Il \textit{fit unbinned} permette di eliminare l'incertezza dovuta alla dimensione finita delle celle di un istogramma e di avere una migliore precisione nelle regioni in cui si hanno pochi conteggi
+\end{center}
+\end{minipage}}
+
+\put(0,45){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{1.\linewidth}
+\begin{center}
+$\Rightarrow$ il fit non è perciò eseguito su un istogramma, ma su un \textit{\textcolor{blue}{tree}}, in cui i dati sono immagazzinati senza essere messi in bin, e che quindi permette di utilizzare il \textit{fit unbinned} 
+\end{center}
+\end{minipage}}
 
 \end{picture} 
 \end{frame}
@@ -1194,6 +1279,17 @@ Le sezioni d'urto per adroni contenenti $charm$ e $beauty$ misurate in collision
 \put(10,25){\includegraphics[scale=0.2]{Pulls_bkg_freesigma.eps}}
 \put(130,25){\includegraphics[scale=0.2]{Sigma_bkg_freesigma.eps}}
 
+\put(235,195){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{itemize}
+ \item Distribuzioni del parametro di impatto simulate a partire dalle distribuzioni usate nella fase di prefit
+ \item Quattro diversi valori di $f_{prompt}$ utilizzati in input
+ \item Quantità di segnale e fondo uguali ai dati 
+ \item Generazione e fit delle distribuzioni ripetuti 50 volte
+\end{itemize}
+
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
@@ -1202,7 +1298,9 @@ Le sezioni d'urto per adroni contenenti $charm$ e $beauty$ misurate in collision
 \frametitle{Metodo della variazione dei tagli - Efficienze set 1}
 \begin{picture}(320,250)
 
-\put(20,60){\captionsetup{labelformat=empty}
+\put(80,100){\includegraphics[scale=0.33]{Eff_Set1.eps}}
+
+\put(20,55){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.9\linewidth}
 \renewcommand\arraystretch{1.4} 
 \begin{tabular}{c|c|c|c|c|c}
@@ -1215,16 +1313,6 @@ Norm. $L_{xy}$ & $[7,14]$ & $[4,16]$ & $[4,16]$ & $[4,16]$ & $[4,22]$ \\
 $Cos(\theta_P^{xy})$ & >0.998 & >0.998 & >0.998 & >0.998 & >0.998 \\
 \hline
 $max\text{ }n\sigma_{res}$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-2.0,2.0]$\\
-% \hline
-% \multirow{3}{*}{Set 2}& $L_{xy}$ (cm)& >0.05 & >0.05 & >0.05 & >0.10 & >0.10 \\
-% & Norm. $L_{XY}$ & >9 & >9 & >9 & >6 & >6 \\
-% & $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
-% \hline
-% \multirow{4}{*}{Set 3}& $L_{xy}$ (cm)& >0.08 & >0.12 & >0.20 & >0.20 & >0.20 \\
-% & Norm. $L_{xy}$ & >9 & >12 & >20 & >20 & >20 \\
-% & $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
-% & $max\text{ }n\sigma_{res}$ & <-1.5 & <-1.5 & <-1.5 & <-1.5 & <-1.0\\
-% \hline
 \end{tabular}
 \end{minipage}}
 
@@ -1235,7 +1323,9 @@ $max\text{ }n\sigma_{res}$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-1.5,1.5]$ & $[-1.5
 \frametitle{Metodo della variazione dei tagli - Efficienze set 2}
 \begin{picture}(320,250)
 
-\put(55,60){\captionsetup{labelformat=empty}
+\put(80,100){\includegraphics[scale=0.33]{Eff_Set2.eps}}
+
+\put(55,55){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.9\linewidth}
 \renewcommand\arraystretch{1.4} 
 \begin{tabular}{c|c|c|c|c|c}
@@ -1256,12 +1346,39 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Metodo della variazione dei tagli - Efficienze set 3}
 \begin{picture}(320,250)
 
+\put(80,100){\includegraphics[scale=0.33]{Eff_Set3.eps}}
+
+\put(55,55){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.4} 
+\begin{tabular}{c|c|c|c|c|c}
+$\pt$ (GeV/c) & [2,4] & [4,6] & [6,8] & [8,12] & [12,16] \\
+\hline
+$L_{xy}$ (cm)& >0.08 & >0.12 & >0.20 & >0.20 & >0.20 \\
+\hline
+Norm. $L_{xy}$ & >9 & >12 & >20 & >20 & >20 \\
+\hline
+$Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
+\hline
+$max\text{ }n\sigma_{res}$ & <-1.5 & <-1.5 & <-1.5 & <-1.5 & <-1.0\\
+\end{tabular}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
 \begin{frame}
 \frametitle{Metodo della variazione dei tagli - Estrazione del segnale}
 \begin{picture}(320,250)
+
+\put(15,80){\includegraphics[scale=0.55]{Mass3Set_4-5.eps}}
+
+\put(15,55){
+\begin{minipage}[t]{0.9\linewidth}
+\begin{center}
+Per il primo e terzo set di tagli la riduzione di uno dei due contributi (feed-down o prompt) determina una significatività più bassa nell'estrazione del segnale ($signif. \approx 3-10$) rispetto al set centrale ($signif. \approx 15-25$)    
+\end{center}
+\end{minipage}}
 
 \end{picture} 
 \end{frame}
@@ -1272,6 +1389,23 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Metodo della variazione dei tagli - Errori sistematici \\Estrazione del segnale}
 \begin{picture}(320,250)
 
+\put(10,140){\includegraphics[scale=0.18]{CorrYieldsVsTrialPromptInc_Pt1.eps}}
+\put(120,140){\includegraphics[scale=0.18]{CorrYieldsDispPromptInc_Pt1.eps}}
+\put(120,35){\includegraphics[scale=0.18]{CorrYieldsDispFDMin_Pt3.eps}}
+\put(10,35){\includegraphics[scale=0.18]{CorrYieldsVsTrialFDMin_Pt3.eps}}
+
+\put(225,240){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.33\linewidth}
+I fit delle distribuzioni di massa invariante sono stati ripetuti applicando tutte le combinazioni delle seguenti configurazioni:
+\begin{itemize}
+ \item $\sigma$ della Gaussiana fissata al valore ottenuto dal fit delle distribuzioni simulate e variando di $\pm 15\%$
+ \item valor medio della Gaussiana fissato al valore ottenuto dal fit delle distribuzioni simulate e lasciato come parametro libero
+ \item $4\times4$ range di massa invariante diversi 
+ \item $5$ diverse larghezze dei bin
+ \item Due diverse funzioni per descrivere il fondo (esponenziale e parabolica)
+\end{itemize}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
@@ -1279,12 +1413,29 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Metodo della variazione dei tagli - Errori sistematici \\Variazione dei tagli}
 \begin{picture}(320,250)
 
+\put(10,140){\includegraphics[scale=0.18]{CutVarSet1_Prompt_Min_syst_cutsets_ratioonly.eps}}
+\put(120,140){\includegraphics[scale=0.18]{DispPromptMin3.eps}}
+\put(10,35){\includegraphics[scale=0.18]{CutVarSet3_FD_Inc_syst_cutsets_ratioonly.eps}}
+\put(120,35){\includegraphics[scale=0.18]{DispFDInc4.eps}}
+
+\put(225,220){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.33\linewidth}
+\begin{itemize}
+ \item La selezione applicata su ogni variabile è stato variata, impostando il valore del taglio più e meno ``stretto'' 
+ \item Le variazioni sono state eseguite indipendentemente per ogni variabile e per ogni set di tagli
+ \item Per valutare l'errore sistematico sulla sezione durto differenziale in $\pt$ di produzione dei mesoni D$^+$ \textit{prompt} le variazioni relative al secondo set di tagli non sono state considerate
+ \end{itemize}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
 \begin{frame}
 \frametitle{Metodo della variazione dei tagli - Errori sistematici \\Forma degli spettri in $\pt$ di mesoni D$^+$ e B generati}
 \begin{picture}(320,250)
+
+\put(30,110){\includegraphics[scale=0.22]{EffRatioCombined_Set_1-3.eps}}
+\put(190,110){\includegraphics[scale=0.22]{CorrYieldsMin_syst_eff_onlyratio.eps}}
 
 \end{picture} 
 \end{frame}
@@ -1294,6 +1445,57 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e topological constraint}
 \begin{picture}(320,250)
 
+\put(10,245){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.52\linewidth}
+\begin{block}{\centering Filtro di Kalman}
+\begin{center}
+Algoritmo che permette di stimare un vettore di stato $\pmb{r}$ e la sua matrice delle covarianze $\pmb{C}$ a partire da $n$ misure $\pmb{m}_k$ ($k=1,..,n$) contenenti rumore statistico \\[2mm]$\Downarrow$\\[-4mm] \[\pmb{m}_k = H_k\pmb{r}^t+\pmb{\eta}_k, \text{ dove } \begin{cases}
+ \pmb{\eta}_k \rightarrow \text{errore statistico} \\                                                                                                                                                                                                                                                     
+ V_k = \langle \pmb{\eta}_k\pmb{\eta}^T_k \rangle                                                                                                                                                                                                                                                         \end{cases}\]
+ \\$\Downarrow$\\[-4mm]
+\[
+ \begin{split}
+   S_k &= (V_k+H_k\pmb{C}_{k-1}H_k^T)^{-1} \\
+   K_k &= \pmb{C}_{k-1}H_k^TS_k \\
+   \zeta_k &= \pmb{m}_k - H_k\pmb{r}_{k-1} \\
+   \pmb{r}_k &= \pmb{r}_{k-1}+K_k\zeta_k \\
+   \pmb{C}_k &= \pmb{C}_{k-1}-K_kH_k\pmb{C}_{k-1} \\
+   \chi^2_k &= \chi^2_{k-1}+\zeta^T_kS_k\zeta_k
+   \end{split}
+\]
+\end{center}
+\end{block} 
+\end{minipage}}
+
+\put(230,245){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{block}{\centering KFParticle package}
+\begin{center}
+Pacchetto per la ricostruzione di vertici di decadimento sviluppato per l'esperimento CBM basato sul filtro di Kalman \\$\Downarrow$\\ vettore di stato:\\ $\pmb{r} = (x,y,z,p_x,p_y,p_z,E,s)$
+\end{center}
+\end{block} 
+\end{minipage}}
+
+\put(225,115){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.32\linewidth}
+\begin{block}{\centering Topological constraint}
+\begin{center}
+Forza la traiettoria della particella a passare dal vertice di produzione noto $\pmb{v}_{pv}$:\\
+$\pmb{v}-s\cdot \pmb{p} = \pmb{v}_{pv}$
+\end{center}
+\end{block} 
+\end{minipage}}
+
+\put(202,185){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.3mm] (0, 0) -- + (0.6,0);
+\end{tikzpicture}}
+
+\put(285,115){
+\begin{tikzpicture}[->]
+\draw[draw=blue,solid,line width=0.3mm] (0, 0) -- + (0,-0.6);
+\end{tikzpicture}}
+
 \end{picture} 
 \end{frame}
 
@@ -1302,12 +1504,42 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Risoluzione e pulls}
 \begin{picture}(320,250)
 
+\put(10,50){\includegraphics[scale=0.28]{ResExKF.eps}}
+\put(170,50){\includegraphics[scale=0.28]{PullExKF.eps}}
+
+\put(25,240){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.35\linewidth}
+\begin{block}{\centering Risoluzione}
+\setlength\abovedisplayskip{-1pt}
+\[Res(\pt) = \sigma(X_{reco}-X_{MC})(\pt)\]
+\end{block}
+\end{minipage}}
+
+\put(185,240){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.35\linewidth}
+\begin{block}{\centering Pull}
+\setlength\abovedisplayskip{-1pt}
+\[Pull(\pt) = \sigma(\frac{X_{reco}-X_{MC}}{\sigma_{X_{reco}}})(\pt)\]
+\end{block}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
 \begin{frame}
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Vertice di decadimento}
 \begin{picture}(320,250)
+
+\put(20,100){\includegraphics[scale=0.26]{ResSVXZ.eps}}
+\put(180,100){\includegraphics[scale=0.26]{PullsSVXZ.eps}}
+
+\put(0,85){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+\begin{itemize}
+ \item La risoluzione ottenuta con usando il pacchetto KFParticle è simile a quella ottenuta con l'algoritmo standard se nessun vincolo è fissato, mentre è migliore nel caso in cui il topological constraint è applicato
+ \item I pull indicano una buona stima dell'errore nel caso di KFParticle senza vincoli, una sottostima nel caso dell'algoritmo standard (fino a $\sim$40\% per la coordinata $z$) e sovrastima nel caso di topological constraint (fino a $\sim$80\%)
+ \end{itemize}
+\end{minipage}}
 
 \end{picture} 
 \end{frame}
@@ -1316,12 +1548,34 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Vertice di produzione}
 \begin{picture}(320,250)
 
+\put(20,100){\includegraphics[scale=0.26]{ResPVXZ.eps}}
+\put(180,100){\includegraphics[scale=0.26]{PullsPVXZ.eps}}
+
+\put(0,85){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+\begin{itemize}
+ \item La risoluzione ottenuta con usando il pacchetto KFParticle è simile a quella ottenuta con l'algoritmo standard se nessun vincolo è fissato, mentre è migliore nel caso in cui il topological constraint è applicato come atteso
+ \item In entrambi i casi i pull indicano una buona stima dell'errore per la coordinata $z$ e una sovrastima di $\sim20\%$ per la coordinata $x$ 
+ \end{itemize}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
 \begin{frame}
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Parametro di impatto}
 \begin{picture}(320,250)
+
+\put(20,100){\includegraphics[scale=0.26]{ResImpPar.eps}}
+\put(180,100){\includegraphics[scale=0.26]{PullsImpPar.eps}}
+
+\put(0,85){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+\begin{itemize}
+ \item Come atteso, la risoluzione ottenuta applicando il topological constraint è migliore rispetto al caso in cui nessun vincolo è applicato
+ \item I pull indicano una buona stima dell'errore nel caso di KFParticle senza vincoli e una sovrastima (fino a $\sim$80\%) nel caso in cui il topological constraint è applicato 
+ \end{itemize}
+\end{minipage}}
 
 \end{picture} 
 \end{frame}
@@ -1330,12 +1584,37 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Lunghezza di decadimento}
 \begin{picture}(320,250)
 
+\put(20,108){\includegraphics[scale=0.26]{ResDecL.eps}}
+\put(180,108){\includegraphics[scale=0.26]{PullsDecL.eps}}
+
+\put(0,98){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+\begin{itemize}
+ \item La lunghezza di decadimento valutata con l'algoritmo standard è calcolata come la distanza tra vertice primario e secondario, mentre con il KFParticle corrisponde al \textit{signed path} $s$
+ \item La risoluzione è migliore nel caso dell'algoritmo standard \\\textcolor{red}{CAVEAT: il valore MC è valutato con la distanza tra vertice primario e secondario} 
+ \item I pull indicano una sovrstima dell'errore (circa $\sim$10\%) nel caso di KFParticle con topological constraint e una sottostima (fino a $\sim$20\%) nel caso dell'algoritmo standard
+ \end{itemize}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
 \begin{frame}
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Vertice primario}
 \begin{picture}(320,250)
+
+\put(20,105){\includegraphics[scale=0.26]{cPVresXZ.eps}}
+\put(180,105){\includegraphics[scale=0.26]{cPVmeanXZ.eps}}
+
+\put(10,95){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+Risoluzione del vertice primario valutata in funzione del numero di tracce usate per la determinazione del vertice:
+\begin{itemize}
+ \item utilizzando l'algoritmo standard, per eventi con almeno un mesone D$^+$
+ \item utilizzando l'algoritmo standard, per eventi con almeno un mesone D$^+$, rimuovendo le tracce delle figlie del mesone D$^+$  
+ \item utilizzando il KFParticle, per eventi con almeno un mesone D$^+$, rimuovendo le figlie e aggiungendo il mesone D$^+$
+ \end{itemize}
+\end{minipage}}
 
 \end{picture} 
 \end{frame}
@@ -1345,12 +1624,57 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Set di tagli}
 \begin{picture}(320,250)
 
+\put(190,135){\includegraphics[scale=0.18]{Dplus_sketch.png}}
+
+\put(35,240){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{block}{\centering $L_{xy}$ normalizzata}
+\setlength\abovedisplayskip{-1pt}
+\[\text{Norm. }L_{xy} = L_{xy}/\sigma_{L_{xy}}\]
+\end{block}
+\end{minipage}}
+
+\put(35,185){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{block}{\centering \textit{Sigma vertex}}
+\setlength\abovedisplayskip{-1pt}
+\[\sigma_{vertex} = \sqrt{d_K^2+d_{\pi_1}^2+d_{\pi_2}^2}\]
+\end{block}
+\end{minipage}}
+
+\put(38,70){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\renewcommand\arraystretch{1.5} 
+\begin{tabular}{c|c|c|c|c|c|c}
+$\pt$ (GeV/c) & [1,2] & [2,3] & [3,8] & [8,12] & [12,16] & [16,24]\\
+\hline
+$\pt^{dau}$ (GeV/c) >& 0.3 & 0.3 & 0.3 & 0.3 & 0.3 & 0.3 \\
+\hline
+Norm. $L_{xy}$ >& 6 & 5 & 5 & 5 & 6 & 6 \\
+\hline
+$cos(\theta_P)$ >& 0.985 & 0.985 & 0.985 & 0.985 & 0.985 & 0.985 \\
+\hline
+$\sigma_{vertex}$ (cm) <& 0.030 & 0.030 & 0.034 & 0.050 & 0.050 & 0.050 \\
+\hline
+$\chi^2/ndf$ <& 2.5 & 3.0 & 3.0 & 3.5 & 3.5 & 4.0 \\
+\end{tabular}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
 
 \begin{frame}
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Estrazione del segnale}
 \begin{picture}(320,250)
+
+\put(15,80){\includegraphics[scale=0.55]{MassFits_KF_Pt_0_4_9.eps}}
+
+\put(15,55){
+\begin{minipage}[t]{0.9\linewidth}
+\begin{center}
+Per il primo e terzo set di tagli la riduzione di uno dei due contributi (feed-down o prompt) determina una significatività più bassa nell'estrazione del segnale ($signif. \approx 3-10$) rispetto al set centrale ($signif. \approx 15-25$)    
+\end{center}
+\end{minipage}}
 
 \end{picture} 
 \end{frame}
@@ -1360,23 +1684,82 @@ $Cos(\theta_P^{xy})$ & >0.990 & >0.990 & >0.990 & >0.990 & >0.990 \\
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Estrazione del segnale}
 \begin{picture}(320,250)
 
+\put(20,90){\includegraphics[scale=0.26]{RawVsTrial_Pt4.eps}}
+\put(180,90){\includegraphics[scale=0.26]{SigmaVsTrial_Pt4.eps}}
+
+\put(0,65){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\fontsize{7}{8}\selectfont
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[1,2]$ & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,7]$ & $[7,8]$ & $[8,12]$ & $[12,16]$ & $[16,24]$ \\
+    \hline
+    segnale & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\%\\
+    \end{tabular}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
+
 \begin{frame}
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Variazione dei tagli}
 \begin{picture}(320,250)
 
+\put(20,90){\includegraphics[scale=0.26]{KF_CutVarSyst_ratioonly_chiS.eps}}
+\put(180,90){\includegraphics[scale=0.26]{KF_CutVarSyst_ratioonly_nDecLXY.eps}}
+
+\put(-4,65){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\fontsize{7}{8}\selectfont
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[1,2]$ & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,7]$ & $[7,8]$ & $[8,12]$ & $[12,16]$ & $[16,24]$ \\
+    \hline
+    variazione tagli & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\%\\
+    \end{tabular}
+\end{minipage}}
+
 \end{picture} 
 \end{frame}
+
+\begin{frame}
+\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Efficienza di selezione della PID}
+\begin{picture}(320,250)
+
+\put(20,90){\includegraphics[scale=0.26]{KFMassComp_Pt3.eps}}
+\put(180,90){\includegraphics[scale=0.26]{Ratio_KF_noPID.eps}}
+
+\put(3,65){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\fontsize{7}{8}\selectfont
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[1,2]$ & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,7]$ & $[7,8]$ & $[8,12]$ & $[12,16]$ & $[16,24]$ \\
+    \hline
+    PID & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\%\\
+    \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
 \begin{frame}
 \frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Forma degli spettri in $\pt$ di mesoni D$^+$ e B generati}
 \begin{picture}(320,250)
 
-\end{picture} 
-\end{frame}
-\begin{frame}
-\frametitle{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici\\Efficienza di selezione della PID}
-\begin{picture}(320,250)
+\put(20,90){\includegraphics[scale=0.26]{RatioEffPrompt_KF.eps}}
+\put(180,90){\includegraphics[scale=0.26]{KF_ratio_fprompt.eps}}
+
+\put(-4,65){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.9\linewidth}
+\fontsize{7}{8}\selectfont
+\renewcommand\arraystretch{1.4} 
+  \begin{tabular}{c|c|c|c|c|c|c|c|c|c|c}
+    $\pt$ (GeV/c) & $[1,2]$ & $[2,3]$ & $[3,4]$ & $[4,5]$ & $[5,6]$ & $[6,7]$ & $[7,8]$ & $[8,12]$ & $[12,16]$ & $[16,24]$ \\
+    \hline
+    distribuzione $\pt$ & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\% & 10\%\\
+    \end{tabular}
+\end{minipage}}
 
 \end{picture} 
 \end{frame}

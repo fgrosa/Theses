@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.24)  6 JUL 2016 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.24)  8 JUL 2016 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1720,10 +1720,10 @@ File: PDF_nuclear_2.png Graphic file (type png)
 Package pdftex.def Info: PDF_nuclear_2.png used on input line 165.
 (pdftex.def)             Requested size: 168.14095pt x 70.94199pt.
 Package epstopdf Info: Source file: <pPbWithModels.eps>
-(epstopdf)                    date: 2016-05-30 17:12:52
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 14430 bytes
 (epstopdf)             Output file: <pPbWithModels-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-30 17:13:24
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 13060 bytes
 (epstopdf)             Command: <repstopdf --outfile=pPbWithModels-eps-converte
 d-to.pdf pPbWithModels.eps>
@@ -1861,10 +1861,10 @@ LaTeX Info: Redefining \HepProcess on input line 327.
 
  <./Prompt_sketch.png> <./FD_sketch.png>]
 Package epstopdf Info: Source file: <Fprompt_fc_Nb_comp.eps>
-(epstopdf)                    date: 2016-06-04 12:14:55
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 11947 bytes
 (epstopdf)             Output file: <Fprompt_fc_Nb_comp-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-04 12:15:00
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 10471 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fprompt_fc_Nb_comp-eps-con
 verted-to.pdf Fprompt_fc_Nb_comp.eps>
@@ -1907,10 +1907,10 @@ LaTeX Info: Redefining \HepProcess on input line 396.
 
 ]
 Package epstopdf Info: Source file: <ImpParPrompt_5-6.eps>
-(epstopdf)                    date: 2016-05-24 19:48:02
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 19710 bytes
 (epstopdf)             Output file: <ImpParPrompt_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-24 19:49:38
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 15747 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_5-6-eps-conve
 rted-to.pdf ImpParPrompt_5-6.eps>
@@ -1924,10 +1924,10 @@ Package pdftex.def Info: ImpParPrompt_5-6-eps-converted-to.pdf used on input li
 ne 429.
 (pdftex.def)             Requested size: 142.2812pt x 115.6819pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_5-6.eps>
-(epstopdf)                    date: 2016-05-25 10:58:22
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 28557 bytes
 (epstopdf)             Output file: <ImpParTrueFD_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-25 11:02:19
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 21304 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_5-6-eps-conve
 rted-to.pdf ImpParTrueFD_5-6.eps>
@@ -1942,10 +1942,10 @@ Package pdftex.def Info: ImpParTrueFD_5-6-eps-converted-to.pdf used on input li
 ne 429.
 (pdftex.def)             Requested size: 142.2812pt x 115.6819pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_5-6.eps>
-(epstopdf)                    date: 2016-05-25 10:58:23
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 23211 bytes
 (epstopdf)             Output file: <ImpParRecoFD_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-25 11:02:20
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 19639 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_5-6-eps-conve
 rted-to.pdf ImpParRecoFD_5-6.eps>
@@ -1979,11 +1979,11 @@ File: Mass_5-6.pdf Graphic file (type pdf)
 Package pdftex.def Info: Mass_5-6.pdf used on input line 457.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <Sidebands_Pt_5-6_NoFit.eps>
-(epstopdf)                    date: 2016-07-01 09:47:57
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 41374 bytes
 (epstopdf)             Output file: <Sidebands_Pt_5-6_NoFit-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-07-01 09:48:11
+(epstopdf)                    date: 2016-07-07 09:19:49
 (epstopdf)                    size: 33921 bytes
 (epstopdf)             Command: <repstopdf --outfile=Sidebands_Pt_5-6_NoFit-eps
 -converted-to.pdf Sidebands_Pt_5-6_NoFit.eps>
@@ -1998,10 +1998,10 @@ Package pdftex.def Info: Sidebands_Pt_5-6_NoFit-eps-converted-to.pdf used on in
 put line 457.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <ImpParBkg_5-6.eps>
-(epstopdf)                    date: 2016-05-24 19:49:18
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 32087 bytes
 (epstopdf)             Output file: <ImpParBkg_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-24 19:49:42
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 22715 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_5-6-eps-converte
 d-to.pdf ImpParBkg_5-6.eps>
@@ -2030,11 +2030,11 @@ File: Mass_5-6_fit.pdf Graphic file (type pdf)
 Package pdftex.def Info: Mass_5-6_fit.pdf used on input line 497.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <FitUnbinned_5-6_bkg_plot.eps>
-(epstopdf)                    date: 2016-06-17 15:35:23
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 32315 bytes
 (epstopdf)             Output file: <FitUnbinned_5-6_bkg_plot-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-06-17 15:35:40
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 28237 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_5-6_bkg_plot-e
 ps-converted-to.pdf FitUnbinned_5-6_bkg_plot.eps>
@@ -2058,11 +2058,11 @@ LaTeX Info: Redefining \HepProcess on input line 497.
  <./Mass_5-6_fit.pdf, page is rotated 90 degrees> <./FitUnbinned_5-6_bkg_plot-e
 ps-converted-to.pdf>]
 Package epstopdf Info: Source file: <promptfraction_syst_SBtot_ratioonly.eps>
-(epstopdf)                    date: 2016-06-22 22:19:05
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 12389 bytes
 (epstopdf)             Output file: <promptfraction_syst_SBtot_ratioonly-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2016-06-22 22:19:41
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 11098 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_SBtot_
 ratioonly-eps-converted-to.pdf promptfraction_syst_SBtot_ratioonly.eps>
@@ -2078,11 +2078,11 @@ Package pdftex.def Info: promptfraction_syst_SBtot_ratioonly-eps-converted-to.p
 df used on input line 545.
 (pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
 Package epstopdf Info: Source file: <promptfraction_syst_SoverT_onlyratio.eps>
-(epstopdf)                    date: 2016-05-26 15:45:13
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 9832 bytes
 (epstopdf)             Output file: <promptfraction_syst_SoverT_onlyratio-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-05-26 15:45:19
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 9636 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_SoverT
 _onlyratio-eps-converted-to.pdf promptfraction_syst_SoverT_onlyratio.eps>
@@ -2098,10 +2098,10 @@ Package pdftex.def Info: promptfraction_syst_SoverT_onlyratio-eps-converted-to.
 pdf used on input line 545.
 (pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
 Package epstopdf Info: Source file: <Bias_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-05-29 17:15:19
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 13950 bytes
 (epstopdf)             Output file: <Bias_bkg_freesigma-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-29 17:15:28
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 11385 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bias_bkg_freesigma-eps-con
 verted-to.pdf Bias_bkg_freesigma.eps>
@@ -2126,10 +2126,10 @@ LaTeX Info: Redefining \HepProcess on input line 545.
 _syst_SoverT_onlyratio-eps-converted-to.pdf> <./Bias_bkg_freesigma-eps-converte
 d-to.pdf>]
 Package epstopdf Info: Source file: <ImpParFitAndRes.eps>
-(epstopdf)                    date: 2016-05-28 18:50:09
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 93481 bytes
 (epstopdf)             Output file: <ImpParFitAndRes-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-28 18:50:46
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 49142 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParFitAndRes-eps-conver
 ted-to.pdf ImpParFitAndRes.eps>
@@ -2172,10 +2172,10 @@ LaTeX Info: Redefining \HepProcess on input line 624.
 
  <./cutvar_sketch.pdf>]
 Package epstopdf Info: Source file: <LinesDisp_6-8.eps>
-(epstopdf)                    date: 2016-06-19 14:57:12
+(epstopdf)                    date: 2016-07-07 09:19:48
 (epstopdf)                    size: 115449 bytes
 (epstopdf)             Output file: <LinesDisp_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-19 14:58:25
+(epstopdf)                    date: 2016-07-07 10:06:21
 (epstopdf)                    size: 416709 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_6-8-eps-converte
 d-to.pdf LinesDisp_6-8.eps>
@@ -2198,11 +2198,11 @@ LaTeX Info: Redefining \HepProcess on input line 714.
 
  <./LinesDisp_6-8-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <CompPromptFD_DLXY_6-8.eps>
-(epstopdf)                    date: 2016-06-17 17:02:01
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 8851 bytes
 (epstopdf)             Output file: <CompPromptFD_DLXY_6-8-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-06-17 17:05:46
+(epstopdf)                    date: 2016-07-07 10:06:22
 (epstopdf)                    size: 11494 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_DLXY_6-8-eps-
 converted-to.pdf CompPromptFD_DLXY_6-8.eps>
@@ -2217,11 +2217,11 @@ Package pdftex.def Info: CompPromptFD_DLXY_6-8-eps-converted-to.pdf used on inp
 ut line 772.
 (pdftex.def)             Requested size: 91.06206pt x 88.3318pt.
 Package epstopdf Info: Source file: <CompPromptFD_NDLXY_2-3.eps>
-(epstopdf)                    date: 2016-06-17 17:02:03
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 7968 bytes
 (epstopdf)             Output file: <CompPromptFD_NDLXY_2-3-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-17 17:05:46
+(epstopdf)                    date: 2016-07-07 10:06:22
 (epstopdf)                    size: 10707 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_NDLXY_2-3-eps
 -converted-to.pdf CompPromptFD_NDLXY_2-3.eps>
@@ -2235,11 +2235,11 @@ Package pdftex.def Info: CompPromptFD_NDLXY_2-3-eps-converted-to.pdf used on in
 put line 772.
 (pdftex.def)             Requested size: 91.06206pt x 88.3318pt.
 Package epstopdf Info: Source file: <CompPromptFD_CospXY_12-16.eps>
-(epstopdf)                    date: 2016-06-17 17:02:16
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 8173 bytes
 (epstopdf)             Output file: <CompPromptFD_CospXY_12-16-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2016-06-17 17:05:47
+(epstopdf)                    date: 2016-07-07 10:06:22
 (epstopdf)                    size: 11119 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_CospXY_12-16-
 eps-converted-to.pdf CompPromptFD_CospXY_12-16.eps>
@@ -2254,11 +2254,11 @@ Package pdftex.def Info: CompPromptFD_CospXY_12-16-eps-converted-to.pdf used on
  input line 772.
 (pdftex.def)             Requested size: 91.06206pt x 88.3318pt.
 Package epstopdf Info: Source file: <CompPromptFD_d0d0exp_5-6.eps>
-(epstopdf)                    date: 2016-06-17 17:02:30
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 8429 bytes
 (epstopdf)             Output file: <CompPromptFD_d0d0exp_5-6-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-06-17 17:05:47
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 10520 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_d0d0exp_5-6-e
 ps-converted-to.pdf CompPromptFD_d0d0exp_5-6.eps>
@@ -2283,11 +2283,11 @@ LaTeX Info: Redefining \HepProcess on input line 772.
 onverted-to.pdf> <./CompPromptFD_CospXY_12-16-eps-converted-to.pdf> <./CompProm
 ptFD_d0d0exp_5-6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <CrossSectionPromptpPb.eps>
-(epstopdf)                    date: 2016-06-26 17:49:15
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 25007 bytes
 (epstopdf)             Output file: <CrossSectionPromptpPb-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-06-26 17:49:23
+(epstopdf)                    date: 2016-07-07 10:06:23
 (epstopdf)                    size: 19747 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSectionPromptpPb-eps-
 converted-to.pdf CrossSectionPromptpPb.eps>
@@ -2301,10 +2301,10 @@ Package pdftex.def Info: CrossSectionPromptpPb-eps-converted-to.pdf used on inp
 ut line 820.
 (pdftex.def)             Requested size: 142.2812pt x 154.32617pt.
 Package epstopdf Info: Source file: <CrossSectionFDpPb.eps>
-(epstopdf)                    date: 2016-06-10 17:47:34
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 17640 bytes
 (epstopdf)             Output file: <CrossSectionFDpPb-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-10 17:47:55
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 16851 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSectionFDpPb-eps-conv
 erted-to.pdf CrossSectionFDpPb.eps>
@@ -2342,10 +2342,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 822.
 
 Package epstopdf Info: Source file: <ResSVXZ.eps>
-(epstopdf)                    date: 2016-06-30 10:44:15
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 13996 bytes
 (epstopdf)             Output file: <ResSVXZ-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-30 10:45:08
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 13215 bytes
 (epstopdf)             Command: <repstopdf --outfile=ResSVXZ-eps-converted-to.p
 df ResSVXZ.eps>
@@ -2358,10 +2358,10 @@ File: ResSVXZ-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: ResSVXZ-eps-converted-to.pdf used on input line 870.
 (pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
 Package epstopdf Info: Source file: <ResImpPar.eps>
-(epstopdf)                    date: 2016-06-30 10:44:41
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 10374 bytes
 (epstopdf)             Output file: <ResImpPar-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-30 10:45:09
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 10802 bytes
 (epstopdf)             Command: <repstopdf --outfile=ResImpPar-eps-converted-to
 .pdf ResImpPar.eps>
@@ -2394,10 +2394,10 @@ LaTeX Info: Redefining \HepProcess on input line 870.
 
  <./ResSVXZ-eps-converted-to.pdf> <./ResImpPar-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <KFchi_Dplus_pT1.eps>
-(epstopdf)                    date: 2016-06-30 14:57:10
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 14941 bytes
 (epstopdf)             Output file: <KFchi_Dplus_pT1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-30 14:57:18
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 15274 bytes
 (epstopdf)             Command: <repstopdf --outfile=KFchi_Dplus_pT1-eps-conver
 ted-to.pdf KFchi_Dplus_pT1.eps>
@@ -2412,10 +2412,10 @@ Package pdftex.def Info: KFchi_Dplus_pT1-eps-converted-to.pdf used on input lin
 e 901.
 (pdftex.def)             Requested size: 125.20816pt x 121.45412pt.
 Package epstopdf Info: Source file: <KFchi_Dplus_pT8.eps>
-(epstopdf)                    date: 2016-06-30 14:57:12
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 15410 bytes
 (epstopdf)             Output file: <KFchi_Dplus_pT8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-30 14:57:18
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 15638 bytes
 (epstopdf)             Command: <repstopdf --outfile=KFchi_Dplus_pT8-eps-conver
 ted-to.pdf KFchi_Dplus_pT8.eps>
@@ -2439,11 +2439,11 @@ LaTeX Info: Redefining \HepProcess on input line 901.
  <./KFchi_Dplus_pT1-eps-converted-to.pdf> <./KFchi_Dplus_pT8-eps-converted-to.p
 df>]
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioraw_chiS.eps>
-(epstopdf)                    date: 2016-06-23 16:20:42
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 16684 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioraw_chiS-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2016-06-23 16:20:50
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 13464 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioraw_chi
 S-eps-converted-to.pdf KF_CutVarSyst_ratioraw_chiS.eps>
@@ -2458,11 +2458,11 @@ Package pdftex.def Info: KF_CutVarSyst_ratioraw_chiS-eps-converted-to.pdf used
 on input line 922.
 (pdftex.def)             Requested size: 113.82323pt x 110.41054pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioeffFD_chiS.eps>
-(epstopdf)                    date: 2016-06-23 16:20:05
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 16996 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioeffFD_chiS-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2016-06-23 16:20:50
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 14015 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioeffFD_c
 hiS-eps-converted-to.pdf KF_CutVarSyst_ratioeffFD_chiS.eps>
@@ -2478,11 +2478,11 @@ Package pdftex.def Info: KF_CutVarSyst_ratioeffFD_chiS-eps-converted-to.pdf use
 d on input line 922.
 (pdftex.def)             Requested size: 113.82323pt x 110.41054pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioeffprompt_chiS.eps>
-(epstopdf)                    date: 2016-06-23 16:20:00
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 16394 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioeffprompt_chiS-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2016-06-23 16:20:50
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 13657 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioeffprom
 pt_chiS-eps-converted-to.pdf KF_CutVarSyst_ratioeffprompt_chiS.eps>
@@ -2498,11 +2498,11 @@ Package pdftex.def Info: KF_CutVarSyst_ratioeffprompt_chiS-eps-converted-to.pdf
  used on input line 922.
 (pdftex.def)             Requested size: 113.82323pt x 110.41054pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioonly_chiS.eps>
-(epstopdf)                    date: 2016-06-23 16:20:24
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 17368 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioonly_chiS-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2016-06-23 16:20:51
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 13661 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioonly_ch
 iS-eps-converted-to.pdf KF_CutVarSyst_ratioonly_chiS.eps>
@@ -2528,10 +2528,10 @@ LaTeX Info: Redefining \HepProcess on input line 922.
 FD_chiS-eps-converted-to.pdf> <./KF_CutVarSyst_ratioeffprompt_chiS-eps-converte
 d-to.pdf> <./KF_CutVarSyst_ratioonly_chiS-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <PromptFrac_KF.eps>
-(epstopdf)                    date: 2016-06-26 10:56:31
+(epstopdf)                    date: 2016-07-07 09:19:48
 (epstopdf)                    size: 10589 bytes
 (epstopdf)             Output file: <PromptFrac_KF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-26 10:56:38
+(epstopdf)                    date: 2016-07-07 09:19:48
 (epstopdf)                    size: 9708 bytes
 (epstopdf)             Command: <repstopdf --outfile=PromptFrac_KF-eps-converte
 d-to.pdf PromptFrac_KF.eps>
@@ -2546,10 +2546,10 @@ Package pdftex.def Info: PromptFrac_KF-eps-converted-to.pdf used on input line
 959.
 (pdftex.def)             Requested size: 136.59308pt x 98.0483pt.
 Package epstopdf Info: Source file: <CrossSection_KF.eps>
-(epstopdf)                    date: 2016-06-27 10:14:00
+(epstopdf)                    date: 2016-07-07 09:19:48
 (epstopdf)                    size: 16945 bytes
 (epstopdf)             Output file: <CrossSection_KF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-27 10:14:06
+(epstopdf)                    date: 2016-07-07 09:19:49
 (epstopdf)                    size: 16440 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSection_KF-eps-conver
 ted-to.pdf CrossSection_KF.eps>
@@ -2574,10 +2574,10 @@ LaTeX Info: Redefining \HepProcess on input line 959.
 >]
 LaTeX Info: Redefining \HepProcess on input line 996.
 Package epstopdf Info: Source file: <CrossSecComp.eps>
-(epstopdf)                    date: 2016-06-26 16:22:26
+(epstopdf)                    date: 2016-07-07 09:19:48
 (epstopdf)                    size: 13676 bytes
 (epstopdf)             Output file: <CrossSecComp-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-26 16:24:14
+(epstopdf)                    date: 2016-07-07 09:19:48
 (epstopdf)                    size: 16554 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSecComp-eps-converted
 -to.pdf CrossSecComp.eps>
@@ -2617,11 +2617,11 @@ LaTeX Info: Redefining \HepProcess on input line 1011.
 ]
 LaTeX Info: Redefining \HepProcess on input line 1029.
 Package epstopdf Info: Source file: <2012-Jun-06-DplusCrossSection_pp7TeV.eps>
-(epstopdf)                    date: 2016-03-26 21:17:35
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 28985 bytes
 (epstopdf)             Output file: <2012-Jun-06-DplusCrossSection_pp7TeV-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-03-26 21:17:52
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 17468 bytes
 (epstopdf)             Command: <repstopdf --outfile=2012-Jun-06-DplusCrossSect
 ion_pp7TeV-eps-converted-to.pdf 2012-Jun-06-DplusCrossSection_pp7TeV.eps>
@@ -2653,694 +2653,1319 @@ LaTeX Info: Redefining \HepProcess on input line 1029.
  <./2012-Jun-06-DplusCrossSection_pp7TeV-eps-converted-to.pdf> <./jpsi_nonpromp
 t_LHCb.png>]
 LaTeX Info: Redefining \HepProcess on input line 1031.
+File: Dplus_sketch.png Graphic file (type png)
+ <use Dplus_sketch.png>
+Package pdftex.def Info: Dplus_sketch.png used on input line 1078.
+(pdftex.def)             Requested size: 129.16982pt x 98.731pt.
 
-Overfull \vbox (6.03433pt too high) detected at line 1037
+Overfull \hbox (16.57697pt too wide) in paragraph at lines 1078--1078
+[][] 
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1037.
+
+Overfull \vbox (6.03433pt too high) detected at line 1078
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1078.
 [26
 
 ]
-LaTeX Info: Redefining \HepProcess on input line 1039.
+LaTeX Info: Redefining \HepProcess on input line 1080.
 
-Overfull \vbox (6.03433pt too high) detected at line 1045
+Overfull \vbox (6.03433pt too high) detected at line 1130
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1045.
+LaTeX Info: Redefining \HepProcess on input line 1130.
 [27
 
 ]
-LaTeX Info: Redefining \HepProcess on input line 1047.
+LaTeX Info: Redefining \HepProcess on input line 1132.
 Package epstopdf Info: Source file: <promptfraction_syst_sigma_onlyratio.eps>
-(epstopdf)                    date: 2016-06-22 22:00:26
+(epstopdf)                    date: 2016-07-07 09:19:44
 (epstopdf)                    size: 8217 bytes
 (epstopdf)             Output file: <promptfraction_syst_sigma_onlyratio-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2016-06-22 22:01:01
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 8846 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_sigma_
 onlyratio-eps-converted-to.pdf promptfraction_syst_sigma_onlyratio.eps>
-(epstopdf)             \includegraphics on input line 1066.
+(epstopdf)             \includegraphics on input line 1151.
 Package epstopdf Info: Output file is already uptodate.
 
-<promptfraction_syst_sigma_onlyratio-eps-converted-to.pdf, id=1425, 569.12625pt
+<promptfraction_syst_sigma_onlyratio-eps-converted-to.pdf, id=1426, 569.12625pt
  x 552.0625pt>
 File: promptfraction_syst_sigma_onlyratio-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use promptfraction_syst_sigma_onlyratio-eps-converted-to.pdf>
 Package pdftex.def Info: promptfraction_syst_sigma_onlyratio-eps-converted-to.p
-df used on input line 1066.
+df used on input line 1151.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 Package epstopdf Info: Source file: <sigmaprompt.eps>
-(epstopdf)                    date: 2016-06-06 14:29:19
+(epstopdf)                    date: 2016-07-07 09:19:44
 (epstopdf)                    size: 10094 bytes
 (epstopdf)             Output file: <sigmaprompt-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-06 14:29:25
+(epstopdf)                    date: 2016-07-07 09:19:44
 (epstopdf)                    size: 10342 bytes
 (epstopdf)             Command: <repstopdf --outfile=sigmaprompt-eps-converted-
 to.pdf sigmaprompt.eps>
-(epstopdf)             \includegraphics on input line 1066.
+(epstopdf)             \includegraphics on input line 1151.
 Package epstopdf Info: Output file is already uptodate.
 
-<sigmaprompt-eps-converted-to.pdf, id=1426, 569.12625pt x 552.0625pt>
+<sigmaprompt-eps-converted-to.pdf, id=1427, 569.12625pt x 552.0625pt>
 File: sigmaprompt-eps-converted-to.pdf Graphic file (type pdf)
 
 <use sigmaprompt-eps-converted-to.pdf>
-Package pdftex.def Info: sigmaprompt-eps-converted-to.pdf used on input line 10
-66.
+Package pdftex.def Info: sigmaprompt-eps-converted-to.pdf used on input line 11
+51.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 
-Overfull \vbox (18.59464pt too high) detected at line 1066
+Overfull \vbox (18.59464pt too high) detected at line 1151
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1066.
+LaTeX Info: Redefining \HepProcess on input line 1151.
 [28
 
  <./promptfraction_syst_sigma_onlyratio-eps-converted-to.pdf> <./sigmaprompt-ep
 s-converted-to.pdf>]
 Package epstopdf Info: Source file: <promptfraction_syst_range_onlyratio.eps>
-(epstopdf)                    date: 2016-06-22 22:11:25
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 14168 bytes
 (epstopdf)             Output file: <promptfraction_syst_range_onlyratio-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2016-06-22 22:12:52
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 12567 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_range_
 onlyratio-eps-converted-to.pdf promptfraction_syst_range_onlyratio.eps>
-(epstopdf)             \includegraphics on input line 1086.
+(epstopdf)             \includegraphics on input line 1171.
 Package epstopdf Info: Output file is already uptodate.
 
-<promptfraction_syst_range_onlyratio-eps-converted-to.pdf, id=1480, 569.12625pt
+<promptfraction_syst_range_onlyratio-eps-converted-to.pdf, id=1481, 569.12625pt
  x 552.0625pt>
 File: promptfraction_syst_range_onlyratio-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use promptfraction_syst_range_onlyratio-eps-converted-to.pdf>
 Package pdftex.def Info: promptfraction_syst_range_onlyratio-eps-converted-to.p
-df used on input line 1086.
+df used on input line 1171.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 Package epstopdf Info: Source file: <promptfraction_syst_range_onlyratio_SBfix.
 eps>
-(epstopdf)                    date: 2016-06-22 22:11:34
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 14348 bytes
 (epstopdf)             Output file: <promptfraction_syst_range_onlyratio_SBfix-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-22 22:12:52
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 12555 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_range_
 onlyratio_SBfix-eps-converted-to.pdf promptfraction_syst_range_onlyratio_SBfix.
 eps>
-(epstopdf)             \includegraphics on input line 1086.
+(epstopdf)             \includegraphics on input line 1171.
 Package epstopdf Info: Output file is already uptodate.
 
-<promptfraction_syst_range_onlyratio_SBfix-eps-converted-to.pdf, id=1481, 569.1
+<promptfraction_syst_range_onlyratio_SBfix-eps-converted-to.pdf, id=1482, 569.1
 2625pt x 552.0625pt>
 File: promptfraction_syst_range_onlyratio_SBfix-eps-converted-to.pdf Graphic fi
 le (type pdf)
 
 <use promptfraction_syst_range_onlyratio_SBfix-eps-converted-to.pdf>
 Package pdftex.def Info: promptfraction_syst_range_onlyratio_SBfix-eps-converte
-d-to.pdf used on input line 1086.
+d-to.pdf used on input line 1171.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 
-Overfull \vbox (18.03433pt too high) detected at line 1086
+Overfull \vbox (18.03433pt too high) detected at line 1171
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1086.
+LaTeX Info: Redefining \HepProcess on input line 1171.
 [29
 
  <./promptfraction_syst_range_onlyratio-eps-converted-to.pdf> <./promptfraction
 _syst_range_onlyratio_SBfix-eps-converted-to.pdf>]
-<Mass_4-5_SBranges.pdf, id=1532, 569.12625pt x 552.0625pt>
+<Mass_4-5_SBranges.pdf, id=1533, 569.12625pt x 552.0625pt>
 File: Mass_4-5_SBranges.pdf Graphic file (type pdf)
 
 <use Mass_4-5_SBranges.pdf>
-Package pdftex.def Info: Mass_4-5_SBranges.pdf used on input line 1106.
+Package pdftex.def Info: Mass_4-5_SBranges.pdf used on input line 1191.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 Package epstopdf Info: Source file: <promptfraction_syst_SBtot_ratioonly.eps>
-(epstopdf)                    date: 2016-06-22 22:19:05
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 12389 bytes
 (epstopdf)             Output file: <promptfraction_syst_SBtot_ratioonly-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2016-06-22 22:19:41
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 11098 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_SBtot_
 ratioonly-eps-converted-to.pdf promptfraction_syst_SBtot_ratioonly.eps>
-(epstopdf)             \includegraphics on input line 1106.
+(epstopdf)             \includegraphics on input line 1191.
 Package epstopdf Info: Output file is already uptodate.
 File: promptfraction_syst_SBtot_ratioonly-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use promptfraction_syst_SBtot_ratioonly-eps-converted-to.pdf>
 Package pdftex.def Info: promptfraction_syst_SBtot_ratioonly-eps-converted-to.p
-df used on input line 1106.
+df used on input line 1191.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 
-Overfull \vbox (18.03433pt too high) detected at line 1106
+Overfull \vbox (18.03433pt too high) detected at line 1191
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1106.
+LaTeX Info: Redefining \HepProcess on input line 1191.
 [30
 
  <./Mass_4-5_SBranges.pdf, page is rotated 90 degrees>]
 Package epstopdf Info: Source file: <BkgFitFuncComp.eps>
-(epstopdf)                    date: 2016-07-06 14:51:00
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 30296 bytes
 (epstopdf)             Output file: <BkgFitFuncComp-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-06 14:51:06
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 23480 bytes
 (epstopdf)             Command: <repstopdf --outfile=BkgFitFuncComp-eps-convert
 ed-to.pdf BkgFitFuncComp.eps>
-(epstopdf)             \includegraphics on input line 1126.
+(epstopdf)             \includegraphics on input line 1211.
 Package epstopdf Info: Output file is already uptodate.
 
-<BkgFitFuncComp-eps-converted-to.pdf, id=1603, 569.12625pt x 552.0625pt>
+<BkgFitFuncComp-eps-converted-to.pdf, id=1604, 569.12625pt x 552.0625pt>
 File: BkgFitFuncComp-eps-converted-to.pdf Graphic file (type pdf)
 
 <use BkgFitFuncComp-eps-converted-to.pdf>
 Package pdftex.def Info: BkgFitFuncComp-eps-converted-to.pdf used on input line
- 1126.
+ 1211.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 Package epstopdf Info: Source file: <promptfraction_syst_prefit_onlyratio.eps>
-(epstopdf)                    date: 2016-06-22 22:15:51
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 8076 bytes
 (epstopdf)             Output file: <promptfraction_syst_prefit_onlyratio-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-06-22 22:16:18
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 8409 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_prefit
 _onlyratio-eps-converted-to.pdf promptfraction_syst_prefit_onlyratio.eps>
-(epstopdf)             \includegraphics on input line 1126.
+(epstopdf)             \includegraphics on input line 1211.
 Package epstopdf Info: Output file is already uptodate.
 
-<promptfraction_syst_prefit_onlyratio-eps-converted-to.pdf, id=1604, 569.12625p
+<promptfraction_syst_prefit_onlyratio-eps-converted-to.pdf, id=1605, 569.12625p
 t x 552.0625pt>
 File: promptfraction_syst_prefit_onlyratio-eps-converted-to.pdf Graphic file (t
 ype pdf)
 
 <use promptfraction_syst_prefit_onlyratio-eps-converted-to.pdf>
 Package pdftex.def Info: promptfraction_syst_prefit_onlyratio-eps-converted-to.
-pdf used on input line 1126.
+pdf used on input line 1211.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 
-Overfull \vbox (18.03433pt too high) detected at line 1126
+Overfull \vbox (18.03433pt too high) detected at line 1211
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1126.
+LaTeX Info: Redefining \HepProcess on input line 1211.
 [31
 
  <./BkgFitFuncComp-eps-converted-to.pdf> <./promptfraction_syst_prefit_onlyrati
 o-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <DplusPrompt_PtSpectrum.eps>
-(epstopdf)                    date: 2016-06-30 15:04:50
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 54003 bytes
 (epstopdf)             Output file: <DplusPrompt_PtSpectrum-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-06-30 15:04:56
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 33964 bytes
 (epstopdf)             Command: <repstopdf --outfile=DplusPrompt_PtSpectrum-eps
 -converted-to.pdf DplusPrompt_PtSpectrum.eps>
-(epstopdf)             \includegraphics on input line 1146.
+(epstopdf)             \includegraphics on input line 1231.
 Package epstopdf Info: Output file is already uptodate.
 
-<DplusPrompt_PtSpectrum-eps-converted-to.pdf, id=1655, 569.12625pt x 623.32875p
+<DplusPrompt_PtSpectrum-eps-converted-to.pdf, id=1656, 569.12625pt x 623.32875p
 t>
 File: DplusPrompt_PtSpectrum-eps-converted-to.pdf Graphic file (type pdf)
  <use DplusPrompt_PtSpectrum-eps-converted-to.pdf>
 Package pdftex.def Info: DplusPrompt_PtSpectrum-eps-converted-to.pdf used on in
-put line 1146.
+put line 1231.
 (pdftex.def)             Requested size: 136.59308pt x 149.60194pt.
 Package epstopdf Info: Source file: <Bmesons_PtSpetrum.eps>
-(epstopdf)                    date: 2016-06-30 15:07:01
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 52858 bytes
 (epstopdf)             Output file: <Bmesons_PtSpetrum-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-06-30 15:07:07
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 34489 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bmesons_PtSpetrum-eps-conv
 erted-to.pdf Bmesons_PtSpetrum.eps>
-(epstopdf)             \includegraphics on input line 1146.
+(epstopdf)             \includegraphics on input line 1231.
 Package epstopdf Info: Output file is already uptodate.
 
-<Bmesons_PtSpetrum-eps-converted-to.pdf, id=1656, 569.12625pt x 623.32875pt>
+<Bmesons_PtSpetrum-eps-converted-to.pdf, id=1657, 569.12625pt x 623.32875pt>
 File: Bmesons_PtSpetrum-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bmesons_PtSpetrum-eps-converted-to.pdf>
 Package pdftex.def Info: Bmesons_PtSpetrum-eps-converted-to.pdf used on input l
-ine 1146.
+ine 1231.
 (pdftex.def)             Requested size: 136.59308pt x 149.60194pt.
 
-Overfull \vbox (20.58589pt too high) detected at line 1146
+Overfull \vbox (20.58589pt too high) detected at line 1231
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1146.
+LaTeX Info: Redefining \HepProcess on input line 1231.
 [32
 
  <./DplusPrompt_PtSpectrum-eps-converted-to.pdf> <./Bmesons_PtSpetrum-eps-conve
 rted-to.pdf>]
 Package epstopdf Info: Source file: <promptfraction_syst_SoverT_onlyratio.eps>
-(epstopdf)                    date: 2016-05-26 15:45:13
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 9832 bytes
 (epstopdf)             Output file: <promptfraction_syst_SoverT_onlyratio-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-05-26 15:45:19
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 9636 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_SoverT
 _onlyratio-eps-converted-to.pdf promptfraction_syst_SoverT_onlyratio.eps>
-(epstopdf)             \includegraphics on input line 1166.
+(epstopdf)             \includegraphics on input line 1251.
 Package epstopdf Info: Output file is already uptodate.
 File: promptfraction_syst_SoverT_onlyratio-eps-converted-to.pdf Graphic file (t
 ype pdf)
 
 <use promptfraction_syst_SoverT_onlyratio-eps-converted-to.pdf>
 Package pdftex.def Info: promptfraction_syst_SoverT_onlyratio-eps-converted-to.
-pdf used on input line 1166.
+pdf used on input line 1251.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 Package epstopdf Info: Source file: <promptcrosssection_syst_SoverT_ratioonly.e
 ps>
-(epstopdf)                    date: 2016-05-26 15:41:15
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 9749 bytes
 (epstopdf)             Output file: <promptcrosssection_syst_SoverT_ratioonly-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-26 15:42:35
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 9525 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptcrosssection_syst_So
 verT_ratioonly-eps-converted-to.pdf promptcrosssection_syst_SoverT_ratioonly.ep
 s>
-(epstopdf)             \includegraphics on input line 1166.
+(epstopdf)             \includegraphics on input line 1251.
 Package epstopdf Info: Output file is already uptodate.
 
-<promptcrosssection_syst_SoverT_ratioonly-eps-converted-to.pdf, id=1714, 569.12
+<promptcrosssection_syst_SoverT_ratioonly-eps-converted-to.pdf, id=1715, 569.12
 625pt x 552.0625pt>
 File: promptcrosssection_syst_SoverT_ratioonly-eps-converted-to.pdf Graphic fil
 e (type pdf)
 
 <use promptcrosssection_syst_SoverT_ratioonly-eps-converted-to.pdf>
 Package pdftex.def Info: promptcrosssection_syst_SoverT_ratioonly-eps-converted
--to.pdf used on input line 1166.
+-to.pdf used on input line 1251.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 
-Overfull \vbox (18.03433pt too high) detected at line 1166
+Overfull \vbox (18.03433pt too high) detected at line 1251
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1166.
+LaTeX Info: Redefining \HepProcess on input line 1251.
 [33
 
  <./promptcrosssection_syst_SoverT_ratioonly-eps-converted-to.pdf>]
-<Mass_4-5_ranges.pdf, id=1753, 569.12625pt x 552.0625pt>
+<Mass_4-5_ranges.pdf, id=1754, 569.12625pt x 552.0625pt>
 File: Mass_4-5_ranges.pdf Graphic file (type pdf)
 
 <use Mass_4-5_ranges.pdf>
-Package pdftex.def Info: Mass_4-5_ranges.pdf used on input line 1186.
+Package pdftex.def Info: Mass_4-5_ranges.pdf used on input line 1271.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 Package epstopdf Info: Source file: <promptfraction_syst_MassRange_onlyratio.ep
 s>
-(epstopdf)                    date: 2016-06-22 22:22:29
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 10225 bytes
 (epstopdf)             Output file: <promptfraction_syst_MassRange_onlyratio-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2016-06-22 22:23:14
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 10254 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_MassRa
 nge_onlyratio-eps-converted-to.pdf promptfraction_syst_MassRange_onlyratio.eps>
 
-(epstopdf)             \includegraphics on input line 1186.
+(epstopdf)             \includegraphics on input line 1271.
 Package epstopdf Info: Output file is already uptodate.
 
-<promptfraction_syst_MassRange_onlyratio-eps-converted-to.pdf, id=1754, 569.126
+<promptfraction_syst_MassRange_onlyratio-eps-converted-to.pdf, id=1755, 569.126
 25pt x 552.0625pt>
 File: promptfraction_syst_MassRange_onlyratio-eps-converted-to.pdf Graphic file
  (type pdf)
 
 <use promptfraction_syst_MassRange_onlyratio-eps-converted-to.pdf>
 Package pdftex.def Info: promptfraction_syst_MassRange_onlyratio-eps-converted-
-to.pdf used on input line 1186.
+to.pdf used on input line 1271.
 (pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
 
-Overfull \vbox (18.03433pt too high) detected at line 1186
+Overfull \vbox (18.03433pt too high) detected at line 1271
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1186.
+LaTeX Info: Redefining \HepProcess on input line 1271.
 [34
 
  <./Mass_4-5_ranges.pdf, page is rotated 90 degrees> <./promptfraction_syst_Mas
 sRange_onlyratio-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Bias_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-05-29 17:15:19
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 13950 bytes
 (epstopdf)             Output file: <Bias_bkg_freesigma-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-29 17:15:28
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 11385 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bias_bkg_freesigma-eps-con
 verted-to.pdf Bias_bkg_freesigma.eps>
-(epstopdf)             \includegraphics on input line 1198.
+(epstopdf)             \includegraphics on input line 1294.
 Package epstopdf Info: Output file is already uptodate.
 File: Bias_bkg_freesigma-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Bias_bkg_freesigma-eps-converted-to.pdf>
 Package pdftex.def Info: Bias_bkg_freesigma-eps-converted-to.pdf used on input 
-line 1198.
+line 1294.
 (pdftex.def)             Requested size: 113.82323pt x 110.41054pt.
 Package epstopdf Info: Source file: <BiasRMS_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-05-29 16:15:25
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 14826 bytes
 (epstopdf)             Output file: <BiasRMS_bkg_freesigma-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-05-29 16:16:00
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 11611 bytes
 (epstopdf)             Command: <repstopdf --outfile=BiasRMS_bkg_freesigma-eps-
 converted-to.pdf BiasRMS_bkg_freesigma.eps>
-(epstopdf)             \includegraphics on input line 1198.
+(epstopdf)             \includegraphics on input line 1294.
 Package epstopdf Info: Output file is already uptodate.
 
-<BiasRMS_bkg_freesigma-eps-converted-to.pdf, id=1835, 569.12625pt x 552.0625pt>
+<BiasRMS_bkg_freesigma-eps-converted-to.pdf, id=1836, 569.12625pt x 552.0625pt>
 File: BiasRMS_bkg_freesigma-eps-converted-to.pdf Graphic file (type pdf)
 <use BiasRMS_bkg_freesigma-eps-converted-to.pdf>
 Package pdftex.def Info: BiasRMS_bkg_freesigma-eps-converted-to.pdf used on inp
-ut line 1198.
+ut line 1294.
 (pdftex.def)             Requested size: 113.82323pt x 110.41054pt.
 Package epstopdf Info: Source file: <Pulls_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-05-29 16:15:22
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 14832 bytes
 (epstopdf)             Output file: <Pulls_bkg_freesigma-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-29 16:16:01
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 11601 bytes
 (epstopdf)             Command: <repstopdf --outfile=Pulls_bkg_freesigma-eps-co
 nverted-to.pdf Pulls_bkg_freesigma.eps>
-(epstopdf)             \includegraphics on input line 1198.
+(epstopdf)             \includegraphics on input line 1294.
 Package epstopdf Info: Output file is already uptodate.
 
-<Pulls_bkg_freesigma-eps-converted-to.pdf, id=1836, 569.12625pt x 552.0625pt>
+<Pulls_bkg_freesigma-eps-converted-to.pdf, id=1837, 569.12625pt x 552.0625pt>
 File: Pulls_bkg_freesigma-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Pulls_bkg_freesigma-eps-converted-to.pdf>
 Package pdftex.def Info: Pulls_bkg_freesigma-eps-converted-to.pdf used on input
- line 1198.
+ line 1294.
 (pdftex.def)             Requested size: 113.82323pt x 110.41054pt.
 Package epstopdf Info: Source file: <Sigma_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-05-29 17:15:23
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 13404 bytes
 (epstopdf)             Output file: <Sigma_bkg_freesigma-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-05-29 17:15:29
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 11488 bytes
 (epstopdf)             Command: <repstopdf --outfile=Sigma_bkg_freesigma-eps-co
 nverted-to.pdf Sigma_bkg_freesigma.eps>
-(epstopdf)             \includegraphics on input line 1198.
+(epstopdf)             \includegraphics on input line 1294.
 Package epstopdf Info: Output file is already uptodate.
 
-<Sigma_bkg_freesigma-eps-converted-to.pdf, id=1837, 569.12625pt x 552.0625pt>
+<Sigma_bkg_freesigma-eps-converted-to.pdf, id=1838, 569.12625pt x 552.0625pt>
 File: Sigma_bkg_freesigma-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Sigma_bkg_freesigma-eps-converted-to.pdf>
 Package pdftex.def Info: Sigma_bkg_freesigma-eps-converted-to.pdf used on input
- line 1198.
+ line 1294.
 (pdftex.def)             Requested size: 113.82323pt x 110.41054pt.
 
-Overfull \vbox (18.03433pt too high) detected at line 1198
+Overfull \vbox (18.03433pt too high) detected at line 1294
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1198.
+LaTeX Info: Redefining \HepProcess on input line 1294.
 [35
 
  <./BiasRMS_bkg_freesigma-eps-converted-to.pdf> <./Pulls_bkg_freesigma-eps-conv
 erted-to.pdf> <./Sigma_bkg_freesigma-eps-converted-to.pdf>]
-LaTeX Info: Redefining \HepProcess on input line 1200.
+LaTeX Info: Redefining \HepProcess on input line 1296.
 Package epstopdf Info: Source file: <Eff_Set1.eps>
-(epstopdf)                    date: 2016-07-06 17:19:01
+(epstopdf)                    date: 2016-07-07 09:19:45
 (epstopdf)                    size: 8795 bytes
 (epstopdf)             Output file: <Eff_Set1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-06 17:20:11
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 9783 bytes
 (epstopdf)             Command: <repstopdf --outfile=Eff_Set1-eps-converted-to.
 pdf Eff_Set1.eps>
-(epstopdf)             \includegraphics on input line 1224.
+(epstopdf)             \includegraphics on input line 1320.
 Package epstopdf Info: Output file is already uptodate.
 
-<Eff_Set1-eps-converted-to.pdf, id=1900, 569.12625pt x 414.54875pt>
+<Eff_Set1-eps-converted-to.pdf, id=1901, 569.12625pt x 414.54875pt>
 File: Eff_Set1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Eff_Set1-eps-converted-to.pdf>
-Package pdftex.def Info: Eff_Set1-eps-converted-to.pdf used on input line 1224.
+Package pdftex.def Info: Eff_Set1-eps-converted-to.pdf used on input line 1320.
 
 (pdftex.def)             Requested size: 187.81224pt x 136.8015pt.
 
-Overfull \vbox (6.03433pt too high) detected at line 1224
+Overfull \vbox (6.03433pt too high) detected at line 1320
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1224.
+LaTeX Info: Redefining \HepProcess on input line 1320.
 [36
 
  <./Eff_Set1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Eff_Set2.eps>
-(epstopdf)                    date: 2016-07-06 17:19:04
+(epstopdf)                    date: 2016-07-07 09:19:46
 (epstopdf)                    size: 8794 bytes
 (epstopdf)             Output file: <Eff_Set2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-06 17:22:29
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 9697 bytes
 (epstopdf)             Command: <repstopdf --outfile=Eff_Set2-eps-converted-to.
 pdf Eff_Set2.eps>
-(epstopdf)             \includegraphics on input line 1247.
+(epstopdf)             \includegraphics on input line 1343.
 Package epstopdf Info: Output file is already uptodate.
 
-<Eff_Set2-eps-converted-to.pdf, id=1941, 569.12625pt x 414.54875pt>
+<Eff_Set2-eps-converted-to.pdf, id=1942, 569.12625pt x 414.54875pt>
 File: Eff_Set2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Eff_Set2-eps-converted-to.pdf>
-Package pdftex.def Info: Eff_Set2-eps-converted-to.pdf used on input line 1247.
+Package pdftex.def Info: Eff_Set2-eps-converted-to.pdf used on input line 1343.
 
 (pdftex.def)             Requested size: 187.81224pt x 136.8015pt.
 
-Overfull \vbox (6.03433pt too high) detected at line 1247
+Overfull \vbox (6.03433pt too high) detected at line 1343
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1247.
+LaTeX Info: Redefining \HepProcess on input line 1343.
 [37
 
  <./Eff_Set2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Eff_Set3.eps>
-(epstopdf)                    date: 2016-07-06 17:19:06
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 9245 bytes
 (epstopdf)             Output file: <Eff_Set3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-06 17:23:19
+(epstopdf)                    date: 2016-07-07 09:19:49
 (epstopdf)                    size: 9975 bytes
 (epstopdf)             Command: <repstopdf --outfile=Eff_Set3-eps-converted-to.
 pdf Eff_Set3.eps>
-(epstopdf)             \includegraphics on input line 1272.
+(epstopdf)             \includegraphics on input line 1368.
 Package epstopdf Info: Output file is already uptodate.
 
-<Eff_Set3-eps-converted-to.pdf, id=1982, 569.12625pt x 414.54875pt>
+<Eff_Set3-eps-converted-to.pdf, id=1983, 569.12625pt x 414.54875pt>
 File: Eff_Set3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Eff_Set3-eps-converted-to.pdf>
-Package pdftex.def Info: Eff_Set3-eps-converted-to.pdf used on input line 1272.
+Package pdftex.def Info: Eff_Set3-eps-converted-to.pdf used on input line 1368.
 
 (pdftex.def)             Requested size: 187.81224pt x 136.8015pt.
 
-Overfull \vbox (6.03433pt too high) detected at line 1272
+Overfull \vbox (6.03433pt too high) detected at line 1368
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1272.
+LaTeX Info: Redefining \HepProcess on input line 1368.
 [38
 
  <./Eff_Set3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Mass3Set_4-5.eps>
-(epstopdf)                    date: 2016-07-06 17:16:42
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 36160 bytes
 (epstopdf)             Output file: <Mass3Set_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-06 17:16:48
+(epstopdf)                    date: 2016-07-07 09:19:47
 (epstopdf)                    size: 26000 bytes
 (epstopdf)             Command: <repstopdf --outfile=Mass3Set_4-5-eps-converted
 -to.pdf Mass3Set_4-5.eps>
-(epstopdf)             \includegraphics on input line 1281.
+(epstopdf)             \includegraphics on input line 1384.
 Package epstopdf Info: Output file is already uptodate.
 
-<Mass3Set_4-5-eps-converted-to.pdf, id=2020, 569.12625pt x 272.01625pt>
+<Mass3Set_4-5-eps-converted-to.pdf, id=2021, 569.12625pt x 272.01625pt>
 File: Mass3Set_4-5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Mass3Set_4-5-eps-converted-to.pdf>
 Package pdftex.def Info: Mass3Set_4-5-eps-converted-to.pdf used on input line 1
-281.
+384.
 (pdftex.def)             Requested size: 313.0204pt x 149.60939pt.
 
-Overfull \vbox (6.03433pt too high) detected at line 1281
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1281.
-[39
-
- <./Mass3Set_4-5-eps-converted-to.pdf>]
-LaTeX Info: Redefining \HepProcess on input line 1283.
-
-Overfull \vbox (18.03433pt too high) detected at line 1290
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1290.
-[40
-
-]
-Overfull \vbox (18.03433pt too high) detected at line 1297
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1297.
-[41
-
-]
-Overfull \vbox (20.58589pt too high) detected at line 1304
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1304.
-[42
-
-]
-LaTeX Info: Redefining \HepProcess on input line 1306.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1306.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 1306.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1306.
-
-
-Overfull \vbox (18.03433pt too high) detected at line 1312
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1312.
-[43
-
-]
-LaTeX Info: Redefining \HepProcess on input line 1314.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1314.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 1314.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1314.
-
-
-Overfull \vbox (18.03433pt too high) detected at line 1320
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1320.
-[44
-
-]
-Overfull \vbox (18.03433pt too high) detected at line 1327
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1327.
-[45
-
-]
-Overfull \vbox (18.03433pt too high) detected at line 1334
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1334.
-[46
-
-]
-Overfull \vbox (18.03433pt too high) detected at line 1341
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1341.
-[47
-
-]
-Overfull \vbox (18.03433pt too high) detected at line 1348
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1348.
-[48
-
-]
-Overfull \vbox (18.03433pt too high) detected at line 1355
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1355.
-[49
-
-]
-LaTeX Info: Redefining \HepProcess on input line 1357.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1357.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 1357.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1357.
-
-
-Overfull \vbox (6.03433pt too high) detected at line 1363
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1363.
-[50
-
-]
-Overfull \vbox (18.03433pt too high) detected at line 1370
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1370.
-[51
-
-]
-LaTeX Info: Redefining \HepProcess on input line 1372.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1372.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 1372.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1372.
-
-
-Overfull \vbox (30.03433pt too high) detected at line 1378
- []
-
-LaTeX Info: Redefining \HepProcess on input line 1378.
-[52
-
-]
-Overfull \vbox (30.03433pt too high) detected at line 1384
+Overfull \vbox (6.03433pt too high) detected at line 1384
  []
 
 LaTeX Info: Redefining \HepProcess on input line 1384.
+[39
+
+ <./Mass3Set_4-5-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1386.
+Package epstopdf Info: Source file: <CorrYieldsVsTrialPromptInc_Pt1.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 105410 bytes
+(epstopdf)             Output file: <CorrYieldsVsTrialPromptInc_Pt1-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 68068 bytes
+(epstopdf)             Command: <repstopdf --outfile=CorrYieldsVsTrialPromptInc
+_Pt1-eps-converted-to.pdf CorrYieldsVsTrialPromptInc_Pt1.eps>
+(epstopdf)             \includegraphics on input line 1410.
+Package epstopdf Info: Output file is already uptodate.
+
+<CorrYieldsVsTrialPromptInc_Pt1-eps-converted-to.pdf, id=2062, 569.12625pt x 55
+2.0625pt>
+File: CorrYieldsVsTrialPromptInc_Pt1-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use CorrYieldsVsTrialPromptInc_Pt1-eps-converted-to.pdf>
+Package pdftex.def Info: CorrYieldsVsTrialPromptInc_Pt1-eps-converted-to.pdf us
+ed on input line 1410.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+Package epstopdf Info: Source file: <CorrYieldsDispPromptInc_Pt1.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 7136 bytes
+(epstopdf)             Output file: <CorrYieldsDispPromptInc_Pt1-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11458 bytes
+(epstopdf)             Command: <repstopdf --outfile=CorrYieldsDispPromptInc_Pt
+1-eps-converted-to.pdf CorrYieldsDispPromptInc_Pt1.eps>
+(epstopdf)             \includegraphics on input line 1410.
+Package epstopdf Info: Output file is already uptodate.
+
+<CorrYieldsDispPromptInc_Pt1-eps-converted-to.pdf, id=2063, 569.12625pt x 552.0
+625pt>
+File: CorrYieldsDispPromptInc_Pt1-eps-converted-to.pdf Graphic file (type pdf)
+ <use CorrYieldsDispPromptInc_Pt1-eps-converted-to.pdf>
+Package pdftex.def Info: CorrYieldsDispPromptInc_Pt1-eps-converted-to.pdf used 
+on input line 1410.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+Package epstopdf Info: Source file: <CorrYieldsDispFDMin_Pt3.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 7067 bytes
+(epstopdf)             Output file: <CorrYieldsDispFDMin_Pt3-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10255 bytes
+(epstopdf)             Command: <repstopdf --outfile=CorrYieldsDispFDMin_Pt3-ep
+s-converted-to.pdf CorrYieldsDispFDMin_Pt3.eps>
+(epstopdf)             \includegraphics on input line 1410.
+Package epstopdf Info: Output file is already uptodate.
+
+<CorrYieldsDispFDMin_Pt3-eps-converted-to.pdf, id=2064, 569.12625pt x 552.0625p
+t>
+File: CorrYieldsDispFDMin_Pt3-eps-converted-to.pdf Graphic file (type pdf)
+ <use CorrYieldsDispFDMin_Pt3-eps-converted-to.pdf>
+Package pdftex.def Info: CorrYieldsDispFDMin_Pt3-eps-converted-to.pdf used on i
+nput line 1410.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+Package epstopdf Info: Source file: <CorrYieldsVsTrialFDMin_Pt3.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 102923 bytes
+(epstopdf)             Output file: <CorrYieldsVsTrialFDMin_Pt3-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 65396 bytes
+(epstopdf)             Command: <repstopdf --outfile=CorrYieldsVsTrialFDMin_Pt3
+-eps-converted-to.pdf CorrYieldsVsTrialFDMin_Pt3.eps>
+(epstopdf)             \includegraphics on input line 1410.
+Package epstopdf Info: Output file is already uptodate.
+
+<CorrYieldsVsTrialFDMin_Pt3-eps-converted-to.pdf, id=2065, 569.12625pt x 552.06
+25pt>
+File: CorrYieldsVsTrialFDMin_Pt3-eps-converted-to.pdf Graphic file (type pdf)
+ <use CorrYieldsVsTrialFDMin_Pt3-eps-converted-to.pdf>
+Package pdftex.def Info: CorrYieldsVsTrialFDMin_Pt3-eps-converted-to.pdf used o
+n input line 1410.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+
+Underfull \hbox (badness 1412) in paragraph at lines 1410--1410
+\T1/phv/m/n/8 pli-cando tutte le com-bi-nazioni
+ []
+
+
+Overfull \vbox (18.03433pt too high) detected at line 1410
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1410.
+[40
+
+ <./CorrYieldsVsTrialPromptInc_Pt1-eps-converted-to.pdf> <./CorrYieldsDispPromp
+tInc_Pt1-eps-converted-to.pdf> <./CorrYieldsDispFDMin_Pt3-eps-converted-to.pdf>
+ <./CorrYieldsVsTrialFDMin_Pt3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <CutVarSet1_Prompt_Min_syst_cutsets_ratioon
+ly.eps>
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 14383 bytes
+(epstopdf)             Output file: <CutVarSet1_Prompt_Min_syst_cutsets_ratioon
+ly-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 10:06:23
+(epstopdf)                    size: 12242 bytes
+(epstopdf)             Command: <repstopdf --outfile=CutVarSet1_Prompt_Min_syst
+_cutsets_ratioonly-eps-converted-to.pdf CutVarSet1_Prompt_Min_syst_cutsets_rati
+oonly.eps>
+(epstopdf)             \includegraphics on input line 1431.
+Package epstopdf Info: Output file is already uptodate.
+
+<CutVarSet1_Prompt_Min_syst_cutsets_ratioonly-eps-converted-to.pdf, id=2145, 56
+9.12625pt x 552.0625pt>
+File: CutVarSet1_Prompt_Min_syst_cutsets_ratioonly-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use CutVarSet1_Prompt_Min_syst_cutsets_ratioonly-eps-converted-to.pdf>
+Package pdftex.def Info: CutVarSet1_Prompt_Min_syst_cutsets_ratioonly-eps-conve
+rted-to.pdf used on input line 1431.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+Package epstopdf Info: Source file: <DispPromptMin3.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10352 bytes
+(epstopdf)             Output file: <DispPromptMin3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 12992 bytes
+(epstopdf)             Command: <repstopdf --outfile=DispPromptMin3-eps-convert
+ed-to.pdf DispPromptMin3.eps>
+(epstopdf)             \includegraphics on input line 1431.
+Package epstopdf Info: Output file is already uptodate.
+
+<DispPromptMin3-eps-converted-to.pdf, id=2146, 569.12625pt x 552.0625pt>
+File: DispPromptMin3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use DispPromptMin3-eps-converted-to.pdf>
+Package pdftex.def Info: DispPromptMin3-eps-converted-to.pdf used on input line
+ 1431.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+Package epstopdf Info: Source file: <CutVarSet3_FD_Inc_syst_cutsets_ratioonly.e
+ps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 12673 bytes
+(epstopdf)             Output file: <CutVarSet3_FD_Inc_syst_cutsets_ratioonly-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11386 bytes
+(epstopdf)             Command: <repstopdf --outfile=CutVarSet3_FD_Inc_syst_cut
+sets_ratioonly-eps-converted-to.pdf CutVarSet3_FD_Inc_syst_cutsets_ratioonly.ep
+s>
+(epstopdf)             \includegraphics on input line 1431.
+Package epstopdf Info: Output file is already uptodate.
+
+<CutVarSet3_FD_Inc_syst_cutsets_ratioonly-eps-converted-to.pdf, id=2147, 569.12
+625pt x 552.0625pt>
+File: CutVarSet3_FD_Inc_syst_cutsets_ratioonly-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use CutVarSet3_FD_Inc_syst_cutsets_ratioonly-eps-converted-to.pdf>
+Package pdftex.def Info: CutVarSet3_FD_Inc_syst_cutsets_ratioonly-eps-converted
+-to.pdf used on input line 1431.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+Package epstopdf Info: Source file: <DispFDInc4.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10394 bytes
+(epstopdf)             Output file: <DispFDInc4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 12996 bytes
+(epstopdf)             Command: <repstopdf --outfile=DispFDInc4-eps-converted-t
+o.pdf DispFDInc4.eps>
+(epstopdf)             \includegraphics on input line 1431.
+Package epstopdf Info: Output file is already uptodate.
+
+<DispFDInc4-eps-converted-to.pdf, id=2148, 569.12625pt x 552.0625pt>
+File: DispFDInc4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use DispFDInc4-eps-converted-to.pdf>
+Package pdftex.def Info: DispFDInc4-eps-converted-to.pdf used on input line 143
+1.
+(pdftex.def)             Requested size: 102.4383pt x 99.36696pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1431
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1431.
+[41
+
+ <./CutVarSet1_Prompt_Min_syst_cutsets_ratioonly-eps-converted-to.pdf> <./DispP
+romptMin3-eps-converted-to.pdf> <./CutVarSet3_FD_Inc_syst_cutsets_ratioonly-eps
+-converted-to.pdf> <./DispFDInc4-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <EffRatioCombined_Set_1-3.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 8364 bytes
+(epstopdf)             Output file: <EffRatioCombined_Set_1-3-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 8950 bytes
+(epstopdf)             Command: <repstopdf --outfile=EffRatioCombined_Set_1-3-e
+ps-converted-to.pdf EffRatioCombined_Set_1-3.eps>
+(epstopdf)             \includegraphics on input line 1450.
+Package epstopdf Info: Output file is already uptodate.
+
+<EffRatioCombined_Set_1-3-eps-converted-to.pdf, id=2217, 569.12625pt x 552.0625
+pt>
+File: EffRatioCombined_Set_1-3-eps-converted-to.pdf Graphic file (type pdf)
+ <use EffRatioCombined_Set_1-3-eps-converted-to.pdf>
+Package pdftex.def Info: EffRatioCombined_Set_1-3-eps-converted-to.pdf used on 
+input line 1450.
+(pdftex.def)             Requested size: 125.20816pt x 121.45412pt.
+Package epstopdf Info: Source file: <CorrYieldsMin_syst_eff_onlyratio.eps>
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 8768 bytes
+(epstopdf)             Output file: <CorrYieldsMin_syst_eff_onlyratio-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 9155 bytes
+(epstopdf)             Command: <repstopdf --outfile=CorrYieldsMin_syst_eff_onl
+yratio-eps-converted-to.pdf CorrYieldsMin_syst_eff_onlyratio.eps>
+(epstopdf)             \includegraphics on input line 1450.
+Package epstopdf Info: Output file is already uptodate.
+
+<CorrYieldsMin_syst_eff_onlyratio-eps-converted-to.pdf, id=2218, 569.12625pt x 
+552.0625pt>
+File: CorrYieldsMin_syst_eff_onlyratio-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use CorrYieldsMin_syst_eff_onlyratio-eps-converted-to.pdf>
+Package pdftex.def Info: CorrYieldsMin_syst_eff_onlyratio-eps-converted-to.pdf 
+used on input line 1450.
+(pdftex.def)             Requested size: 125.20816pt x 121.45412pt.
+
+Overfull \vbox (20.58589pt too high) detected at line 1450
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1450.
+[42
+
+ <./EffRatioCombined_Set_1-3-eps-converted-to.pdf> <./CorrYieldsMin_syst_eff_on
+lyratio-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1452.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1452.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1452.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1452.
+
+
+Overfull \vbox (18.03433pt too high) detected at line 1509
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1509.
+[43
+
+]
+LaTeX Info: Redefining \HepProcess on input line 1511.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1511.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1511.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1511.
+
+Package epstopdf Info: Source file: <ResExKF.eps>
+(epstopdf)                    date: 2016-07-07 09:19:49
+(epstopdf)                    size: 12787 bytes
+(epstopdf)             Output file: <ResExKF-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 10:06:23
+(epstopdf)                    size: 11442 bytes
+(epstopdf)             Command: <repstopdf --outfile=ResExKF-eps-converted-to.p
+df ResExKF.eps>
+(epstopdf)             \includegraphics on input line 1536.
+Package epstopdf Info: Output file is already uptodate.
+<ResExKF-eps-converted-to.pdf, id=2287, 569.12625pt x 440.64626pt>
+File: ResExKF-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ResExKF-eps-converted-to.pdf>
+Package pdftex.def Info: ResExKF-eps-converted-to.pdf used on input line 1536.
+(pdftex.def)             Requested size: 159.35426pt x 123.3801pt.
+Package epstopdf Info: Source file: <PullExKF.eps>
+(epstopdf)                    date: 2016-07-07 09:19:49
+(epstopdf)                    size: 12686 bytes
+(epstopdf)             Output file: <PullExKF-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 10:06:24
+(epstopdf)                    size: 11453 bytes
+(epstopdf)             Command: <repstopdf --outfile=PullExKF-eps-converted-to.
+pdf PullExKF.eps>
+(epstopdf)             \includegraphics on input line 1536.
+Package epstopdf Info: Output file is already uptodate.
+
+<PullExKF-eps-converted-to.pdf, id=2288, 569.12625pt x 440.64626pt>
+File: PullExKF-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PullExKF-eps-converted-to.pdf>
+Package pdftex.def Info: PullExKF-eps-converted-to.pdf used on input line 1536.
+
+(pdftex.def)             Requested size: 159.35426pt x 123.3801pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1536
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1536.
+[44
+
+ <./ResExKF-eps-converted-to.pdf> <./PullExKF-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ResSVXZ.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 13996 bytes
+(epstopdf)             Output file: <ResSVXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 13215 bytes
+(epstopdf)             Command: <repstopdf --outfile=ResSVXZ-eps-converted-to.p
+df ResSVXZ.eps>
+(epstopdf)             \includegraphics on input line 1554.
+Package epstopdf Info: Output file is already uptodate.
+File: ResSVXZ-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ResSVXZ-eps-converted-to.pdf>
+Package pdftex.def Info: ResSVXZ-eps-converted-to.pdf used on input line 1554.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <PullsSVXZ.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 13297 bytes
+(epstopdf)             Output file: <PullsSVXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 12976 bytes
+(epstopdf)             Command: <repstopdf --outfile=PullsSVXZ-eps-converted-to
+.pdf PullsSVXZ.eps>
+(epstopdf)             \includegraphics on input line 1554.
+Package epstopdf Info: Output file is already uptodate.
+
+<PullsSVXZ-eps-converted-to.pdf, id=2346, 569.12625pt x 552.0625pt>
+File: PullsSVXZ-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PullsSVXZ-eps-converted-to.pdf>
+Package pdftex.def Info: PullsSVXZ-eps-converted-to.pdf used on input line 1554
+.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1554
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1554.
+[45
+
+ <./PullsSVXZ-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ResPVXZ.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11313 bytes
+(epstopdf)             Output file: <ResPVXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11630 bytes
+(epstopdf)             Command: <repstopdf --outfile=ResPVXZ-eps-converted-to.p
+df ResPVXZ.eps>
+(epstopdf)             \includegraphics on input line 1572.
+Package epstopdf Info: Output file is already uptodate.
+
+<ResPVXZ-eps-converted-to.pdf, id=2385, 569.12625pt x 552.0625pt>
+File: ResPVXZ-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ResPVXZ-eps-converted-to.pdf>
+Package pdftex.def Info: ResPVXZ-eps-converted-to.pdf used on input line 1572.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <PullsPVXZ.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11558 bytes
+(epstopdf)             Output file: <PullsPVXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11503 bytes
+(epstopdf)             Command: <repstopdf --outfile=PullsPVXZ-eps-converted-to
+.pdf PullsPVXZ.eps>
+(epstopdf)             \includegraphics on input line 1572.
+Package epstopdf Info: Output file is already uptodate.
+
+<PullsPVXZ-eps-converted-to.pdf, id=2386, 569.12625pt x 552.0625pt>
+File: PullsPVXZ-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PullsPVXZ-eps-converted-to.pdf>
+Package pdftex.def Info: PullsPVXZ-eps-converted-to.pdf used on input line 1572
+.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1572
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1572.
+[46
+
+ <./ResPVXZ-eps-converted-to.pdf> <./PullsPVXZ-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ResImpPar.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10374 bytes
+(epstopdf)             Output file: <ResImpPar-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10802 bytes
+(epstopdf)             Command: <repstopdf --outfile=ResImpPar-eps-converted-to
+.pdf ResImpPar.eps>
+(epstopdf)             \includegraphics on input line 1590.
+Package epstopdf Info: Output file is already uptodate.
+File: ResImpPar-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ResImpPar-eps-converted-to.pdf>
+Package pdftex.def Info: ResImpPar-eps-converted-to.pdf used on input line 1590
+.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <PullsImpPar.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10120 bytes
+(epstopdf)             Output file: <PullsImpPar-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10261 bytes
+(epstopdf)             Command: <repstopdf --outfile=PullsImpPar-eps-converted-
+to.pdf PullsImpPar.eps>
+(epstopdf)             \includegraphics on input line 1590.
+Package epstopdf Info: Output file is already uptodate.
+
+<PullsImpPar-eps-converted-to.pdf, id=2437, 569.12625pt x 552.0625pt>
+File: PullsImpPar-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PullsImpPar-eps-converted-to.pdf>
+Package pdftex.def Info: PullsImpPar-eps-converted-to.pdf used on input line 15
+90.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1590
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1590.
+[47
+
+ <./PullsImpPar-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ResDecL.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 9977 bytes
+(epstopdf)             Output file: <ResDecL-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10632 bytes
+(epstopdf)             Command: <repstopdf --outfile=ResDecL-eps-converted-to.p
+df ResDecL.eps>
+(epstopdf)             \includegraphics on input line 1609.
+Package epstopdf Info: Output file is already uptodate.
+
+<ResDecL-eps-converted-to.pdf, id=2477, 569.12625pt x 552.0625pt>
+File: ResDecL-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ResDecL-eps-converted-to.pdf>
+Package pdftex.def Info: ResDecL-eps-converted-to.pdf used on input line 1609.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <PullsDecL.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 9950 bytes
+(epstopdf)             Output file: <PullsDecL-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 10334 bytes
+(epstopdf)             Command: <repstopdf --outfile=PullsDecL-eps-converted-to
+.pdf PullsDecL.eps>
+(epstopdf)             \includegraphics on input line 1609.
+Package epstopdf Info: Output file is already uptodate.
+
+<PullsDecL-eps-converted-to.pdf, id=2478, 569.12625pt x 552.0625pt>
+File: PullsDecL-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PullsDecL-eps-converted-to.pdf>
+Package pdftex.def Info: PullsDecL-eps-converted-to.pdf used on input line 1609
+.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1609
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1609.
+[48
+
+ <./ResDecL-eps-converted-to.pdf> <./PullsDecL-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <cPVresXZ.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 12901 bytes
+(epstopdf)             Output file: <cPVresXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11917 bytes
+(epstopdf)             Command: <repstopdf --outfile=cPVresXZ-eps-converted-to.
+pdf cPVresXZ.eps>
+(epstopdf)             \includegraphics on input line 1629.
+Package epstopdf Info: Output file is already uptodate.
+
+<cPVresXZ-eps-converted-to.pdf, id=2528, 569.12625pt x 552.0625pt>
+File: cPVresXZ-eps-converted-to.pdf Graphic file (type pdf)
+
+<use cPVresXZ-eps-converted-to.pdf>
+Package pdftex.def Info: cPVresXZ-eps-converted-to.pdf used on input line 1629.
+
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <cPVmeanXZ.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 14153 bytes
+(epstopdf)             Output file: <cPVmeanXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 11949 bytes
+(epstopdf)             Command: <repstopdf --outfile=cPVmeanXZ-eps-converted-to
+.pdf cPVmeanXZ.eps>
+(epstopdf)             \includegraphics on input line 1629.
+Package epstopdf Info: Output file is already uptodate.
+
+<cPVmeanXZ-eps-converted-to.pdf, id=2529, 569.12625pt x 552.0625pt>
+File: cPVmeanXZ-eps-converted-to.pdf Graphic file (type pdf)
+
+<use cPVmeanXZ-eps-converted-to.pdf>
+Package pdftex.def Info: cPVmeanXZ-eps-converted-to.pdf used on input line 1629
+.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1629
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1629.
+[49
+
+ <./cPVresXZ-eps-converted-to.pdf> <./cPVmeanXZ-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1631.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1631.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1631.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1631.
+
+File: Dplus_sketch.png Graphic file (type png)
+<use Dplus_sketch.png>
+Package pdftex.def Info: Dplus_sketch.png used on input line 1673.
+(pdftex.def)             Requested size: 129.16982pt x 98.731pt.
+
+Overfull \vbox (6.03433pt too high) detected at line 1673
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1673.
+[50
+
+]
+Package epstopdf Info: Source file: <MassFits_KF_Pt_0_4_9.eps>
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 35683 bytes
+(epstopdf)             Output file: <MassFits_KF_Pt_0_4_9-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 22945 bytes
+(epstopdf)             Command: <repstopdf --outfile=MassFits_KF_Pt_0_4_9-eps-c
+onverted-to.pdf MassFits_KF_Pt_0_4_9.eps>
+(epstopdf)             \includegraphics on input line 1689.
+Package epstopdf Info: Output file is already uptodate.
+
+<MassFits_KF_Pt_0_4_9-eps-converted-to.pdf, id=2602, 569.12625pt x 275.0275pt>
+File: MassFits_KF_Pt_0_4_9-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MassFits_KF_Pt_0_4_9-eps-converted-to.pdf>
+Package pdftex.def Info: MassFits_KF_Pt_0_4_9-eps-converted-to.pdf used on inpu
+t line 1689.
+(pdftex.def)             Requested size: 313.0204pt x 151.26558pt.
+
+Overfull \vbox (18.03433pt too high) detected at line 1689
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1689.
+[51
+
+ <./MassFits_KF_Pt_0_4_9-eps-converted-to.pdf>]
+LaTeX Info: Redefining \HepProcess on input line 1691.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1691.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1691.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1691.
+
+Package epstopdf Info: Source file: <RawVsTrial_Pt4.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 186709 bytes
+(epstopdf)             Output file: <RawVsTrial_Pt4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 116975 bytes
+(epstopdf)             Command: <repstopdf --outfile=RawVsTrial_Pt4-eps-convert
+ed-to.pdf RawVsTrial_Pt4.eps>
+(epstopdf)             \includegraphics on input line 1711.
+Package epstopdf Info: Output file is already uptodate.
+<RawVsTrial_Pt4-eps-converted-to.pdf, id=2643, 569.12625pt x 552.0625pt>
+File: RawVsTrial_Pt4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RawVsTrial_Pt4-eps-converted-to.pdf>
+Package pdftex.def Info: RawVsTrial_Pt4-eps-converted-to.pdf used on input line
+ 1711.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <SigmaVsTrial_Pt4.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 80626 bytes
+(epstopdf)             Output file: <SigmaVsTrial_Pt4-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 51712 bytes
+(epstopdf)             Command: <repstopdf --outfile=SigmaVsTrial_Pt4-eps-conve
+rted-to.pdf SigmaVsTrial_Pt4.eps>
+(epstopdf)             \includegraphics on input line 1711.
+Package epstopdf Info: Output file is already uptodate.
+
+<SigmaVsTrial_Pt4-eps-converted-to.pdf, id=2644, 569.12625pt x 552.0625pt>
+File: SigmaVsTrial_Pt4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SigmaVsTrial_Pt4-eps-converted-to.pdf>
+Package pdftex.def Info: SigmaVsTrial_Pt4-eps-converted-to.pdf used on input li
+ne 1711.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \hbox (25.5239pt too wide) in paragraph at lines 1711--1711
+[][] 
+ []
+
+
+Overfull \vbox (30.03433pt too high) detected at line 1711
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1711.
+[52
+
+ <./RawVsTrial_Pt4-eps-converted-to.pdf> <./SigmaVsTrial_Pt4-eps-converted-to.p
+df>]
+Package epstopdf Info: Source file: <KF_CutVarSyst_ratioonly_chiS.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 17368 bytes
+(epstopdf)             Output file: <KF_CutVarSyst_ratioonly_chiS-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 13661 bytes
+(epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioonly_ch
+iS-eps-converted-to.pdf KF_CutVarSyst_ratioonly_chiS.eps>
+(epstopdf)             \includegraphics on input line 1732.
+Package epstopdf Info: Output file is already uptodate.
+File: KF_CutVarSyst_ratioonly_chiS-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use KF_CutVarSyst_ratioonly_chiS-eps-converted-to.pdf>
+Package pdftex.def Info: KF_CutVarSyst_ratioonly_chiS-eps-converted-to.pdf used
+ on input line 1732.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <KF_CutVarSyst_ratioonly_nDecLXY.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 14783 bytes
+(epstopdf)             Output file: <KF_CutVarSyst_ratioonly_nDecLXY-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 13015 bytes
+(epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioonly_nD
+ecLXY-eps-converted-to.pdf KF_CutVarSyst_ratioonly_nDecLXY.eps>
+(epstopdf)             \includegraphics on input line 1732.
+Package epstopdf Info: Output file is already uptodate.
+
+<KF_CutVarSyst_ratioonly_nDecLXY-eps-converted-to.pdf, id=2699, 569.12625pt x 5
+52.0625pt>
+File: KF_CutVarSyst_ratioonly_nDecLXY-eps-converted-to.pdf Graphic file (type p
+df)
+ <use KF_CutVarSyst_ratioonly_nDecLXY-eps-converted-to.pdf>
+Package pdftex.def Info: KF_CutVarSyst_ratioonly_nDecLXY-eps-converted-to.pdf u
+sed on input line 1732.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \hbox (39.02058pt too wide) in paragraph at lines 1732--1732
+[][] 
+ []
+
+
+Overfull \vbox (30.03433pt too high) detected at line 1732
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1732.
 [53
 
-]
-Overfull \vbox (30.03433pt too high) detected at line 1390
+ <./KF_CutVarSyst_ratioonly_nDecLXY-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <KFMassComp_Pt3.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 19110 bytes
+(epstopdf)             Output file: <KFMassComp_Pt3-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 19189 bytes
+(epstopdf)             Command: <repstopdf --outfile=KFMassComp_Pt3-eps-convert
+ed-to.pdf KFMassComp_Pt3.eps>
+(epstopdf)             \includegraphics on input line 1753.
+Package epstopdf Info: Output file is already uptodate.
+
+<KFMassComp_Pt3-eps-converted-to.pdf, id=2738, 569.12625pt x 552.0625pt>
+File: KFMassComp_Pt3-eps-converted-to.pdf Graphic file (type pdf)
+
+<use KFMassComp_Pt3-eps-converted-to.pdf>
+Package pdftex.def Info: KFMassComp_Pt3-eps-converted-to.pdf used on input line
+ 1753.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <Ratio_KF_noPID.eps>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 9377 bytes
+(epstopdf)             Output file: <Ratio_KF_noPID-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    size: 8984 bytes
+(epstopdf)             Command: <repstopdf --outfile=Ratio_KF_noPID-eps-convert
+ed-to.pdf Ratio_KF_noPID.eps>
+(epstopdf)             \includegraphics on input line 1753.
+Package epstopdf Info: Output file is already uptodate.
+
+<Ratio_KF_noPID-eps-converted-to.pdf, id=2739, 569.12625pt x 552.0625pt>
+File: Ratio_KF_noPID-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Ratio_KF_noPID-eps-converted-to.pdf>
+Package pdftex.def Info: Ratio_KF_noPID-eps-converted-to.pdf used on input line
+ 1753.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \hbox (25.78409pt too wide) in paragraph at lines 1753--1753
+[][] 
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1390.
+
+Overfull \vbox (30.03433pt too high) detected at line 1753
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1753.
 [54
 
-]
-Overfull \vbox (30.03433pt too high) detected at line 1396
+ <./KFMassComp_Pt3-eps-converted-to.pdf> <./Ratio_KF_noPID-eps-converted-to.pdf
+>]
+Package epstopdf Info: Source file: <RatioEffPrompt_KF.eps>
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 7628 bytes
+(epstopdf)             Output file: <RatioEffPrompt_KF-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    size: 9142 bytes
+(epstopdf)             Command: <repstopdf --outfile=RatioEffPrompt_KF-eps-conv
+erted-to.pdf RatioEffPrompt_KF.eps>
+(epstopdf)             \includegraphics on input line 1774.
+Package epstopdf Info: Output file is already uptodate.
+
+<RatioEffPrompt_KF-eps-converted-to.pdf, id=2792, 569.12625pt x 552.0625pt>
+File: RatioEffPrompt_KF-eps-converted-to.pdf Graphic file (type pdf)
+
+<use RatioEffPrompt_KF-eps-converted-to.pdf>
+Package pdftex.def Info: RatioEffPrompt_KF-eps-converted-to.pdf used on input l
+ine 1774.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+Package epstopdf Info: Source file: <KF_ratio_fprompt.eps>
+(epstopdf)                    date: 2016-07-07 09:19:49
+(epstopdf)                    size: 7452 bytes
+(epstopdf)             Output file: <KF_ratio_fprompt-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-07 09:19:49
+(epstopdf)                    size: 7733 bytes
+(epstopdf)             Command: <repstopdf --outfile=KF_ratio_fprompt-eps-conve
+rted-to.pdf KF_ratio_fprompt.eps>
+(epstopdf)             \includegraphics on input line 1774.
+Package epstopdf Info: Output file is already uptodate.
+
+<KF_ratio_fprompt-eps-converted-to.pdf, id=2793, 569.12625pt x 552.0625pt>
+File: KF_ratio_fprompt-eps-converted-to.pdf Graphic file (type pdf)
+
+<use KF_ratio_fprompt-eps-converted-to.pdf>
+Package pdftex.def Info: KF_ratio_fprompt-eps-converted-to.pdf used on input li
+ne 1774.
+(pdftex.def)             Requested size: 147.96933pt x 143.53285pt.
+
+Overfull \hbox (40.85054pt too wide) in paragraph at lines 1774--1774
+[][] 
  []
 
-LaTeX Info: Redefining \HepProcess on input line 1396.
+
+Overfull \vbox (30.03433pt too high) detected at line 1774
+ []
+
+LaTeX Info: Redefining \HepProcess on input line 1774.
 [55
 
-]
+ <./RatioEffPrompt_KF-eps-converted-to.pdf> <./KF_ratio_fprompt-eps-converted-t
+o.pdf>]
 \tf@nav=\write7
 \openout7 = `Presentazione_Tesi_Grosa.nav'.
 
@@ -3350,49 +3975,50 @@ LaTeX Info: Redefining \HepProcess on input line 1396.
 \tf@snm=\write9
 \openout9 = `Presentazione_Tesi_Grosa.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1398.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1398.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1776.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1776.
  (./Presentazione_Tesi_Grosa.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1398.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1398.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1776.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1776.
 
 Package rerunfilecheck Info: File `Presentazione_Tesi_Grosa.out' has not change
 d.
 (rerunfilecheck)             Checksum: 3123BE800CB74249094945DA8936BCBA;1697.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1398.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1776.
  ) 
 Here is how much of TeX's memory you used:
- 27658 strings out of 493085
- 550376 string characters out of 6136916
- 639515 words of memory out of 5000000
- 30234 multiletter control sequences out of 15000+600000
+ 27800 strings out of 493085
+ 555879 string characters out of 6136916
+ 647515 words of memory out of 5000000
+ 30348 multiletter control sequences out of 15000+600000
  106271 words of font info for 146 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,18n,69p,431b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,26n,69p,431b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/euler/euex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/euler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/euler/eufm5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/eu
-ler/eufm7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/
-eurm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eur
-m5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm5.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm7.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmri8a.pfb>
-Output written on Presentazione_Tesi_Grosa.pdf (55 pages, 9221522 bytes).
+fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/euler/euex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/eu
+ler/eufm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler
+/eufm5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/euf
+m7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm5.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm5.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eusm7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on Presentazione_Tesi_Grosa.pdf (55 pages, 9733304 bytes).
 PDF statistics:
- 2579 PDF objects out of 2984 (max. 8388607)
- 2117 compressed objects within 22 object streams
+ 2940 PDF objects out of 2984 (max. 8388607)
+ 2361 compressed objects within 24 object streams
  132 named destinations out of 1000 (max. 500000)
- 589 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 729 words of extra memory for PDF output out of 10000 (max. 10000000)
 
