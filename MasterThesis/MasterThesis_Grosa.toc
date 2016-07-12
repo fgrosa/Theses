@@ -23,131 +23,131 @@
 \contentsline {subsection}{\numberline {1.4.2}Hard probes}{21}{subsection.1.4.2}
 \contentsline {subsubsection}{High-$pt$ hadrons and jet quenching}{21}{section*.10}
 \contentsline {subsubsection}{Quarkonium production}{23}{section*.11}
-\contentsline {chapter}{\numberline {2}Open heavy-flavour physics}{27}{chapter.2}
-\contentsline {section}{\numberline {2.1}Heavy-quark production in pp collisions}{27}{section.2.1}
-\contentsline {section}{\numberline {2.2}Heavy-quark production in p-A and A-A collisions}{29}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Cold Nuclear Matter effects}{30}{subsection.2.2.1}
-\contentsline {subsubsection}{Nuclear modification of the Parton Distribution Functions}{30}{section*.12}
-\contentsline {subsubsection}{Cronin enhancement}{32}{section*.13}
-\contentsline {subsubsection}{Nuclear modification factor in p-A collisions}{32}{section*.14}
-\contentsline {subsection}{\numberline {2.2.2}Hot Medium effects}{33}{subsection.2.2.2}
-\contentsline {subsubsection}{In-medium energy loss}{34}{section*.15}
-\contentsline {subsubsection}{Heavy-quark thermalisation}{34}{section*.16}
-\contentsline {subsubsection}{Hadronisation via coalescence}{34}{section*.17}
-\contentsline {subsubsection}{Nuclear modification factor in A-A collisions}{35}{section*.18}
-\contentsline {chapter}{\numberline {3}A Large Ion Collider Experiment}{37}{chapter.3}
-\contentsline {section}{\numberline {3.1}The Large Hadron Collider}{37}{section.3.1}
-\contentsline {section}{\numberline {3.2}The ALICE detector}{39}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Inner Tracking System (ITS)}{40}{subsection.3.2.1}
-\contentsline {subsubsection}{Silicon Pixel Detectors (SPD)}{41}{section*.19}
-\contentsline {subsubsection}{Silicon Drift Detectors (SDD)}{42}{section*.20}
-\contentsline {subsubsection}{Silicon Strip Detectors (SSD)}{43}{section*.21}
-\contentsline {subsection}{\numberline {3.2.2}Time Projection Chamber (TPC)}{43}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Time of Flight (TOF)}{44}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}ALICE trigger and data acquisition}{45}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Central Trigger Processor}{45}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Data AcQuisition System and High-Level Trigger}{45}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}ALICE performance}{46}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Track and vertex reconstruction in the central barrel}{46}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Particle IDentification (PID)}{48}{subsection.3.4.2}
-\contentsline {subsubsection}{PID with the Time Projection Chamber}{48}{section*.22}
-\contentsline {subsubsection}{PID with the Time of Flight}{49}{section*.23}
-\contentsline {chapter}{\numberline {4}Prompt D$^+$-meson reconstruction strategy}{51}{chapter.4}
-\contentsline {section}{\numberline {4.1}D$^+$ candidate reconstruction and selection}{52}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}p-Pb data sample and event selection}{53}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Track selection}{53}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}D$^+$ reconstruction in the fiducial acceptance region}{54}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Topological selections}{55}{subsection.4.1.4}
-\contentsline {subsubsection}{Decay length}{56}{section*.24}
-\contentsline {subsubsection}{Cosine of the pointing angle}{57}{section*.25}
-\contentsline {subsubsection}{Daughter-track dispersion around the secondary vertex}{58}{section*.26}
-\contentsline {subsubsection}{Daughter transverse momentum}{58}{section*.27}
-\contentsline {subsubsection}{Topological cut values used in the published result}{58}{section*.28}
-\contentsline {subsection}{\numberline {4.1.5}Particle Identification}{59}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Raw yield extraction}{60}{subsection.4.1.6}
-\contentsline {section}{\numberline {4.2}Prompt and Feed-down D$^+$}{61}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Theory-driven methods for the D$^+$ prompt fraction evaluation}{61}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}The Monte Carlo simulation}{63}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Efficiency and Acceptance}{63}{subsection.4.3.1}
-\contentsline {section}{\numberline {4.4}Results from the standard analysis}{64}{section.4.4}
-\contentsline {chapter}{\numberline {5}Impact-parameter fit method for the prompt D$^+$ fraction determination}{67}{chapter.5}
-\contentsline {section}{\numberline {5.1}Analysis strategy}{68}{section.5.1}
-\contentsline {section}{\numberline {5.2}Prefit on the impact-parameter distributions}{69}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}MC impact-parameter distributions for prompt D$^+$}{69}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}MC impact-parameter distributions for feed-down D$^+$}{70}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Impact-parameter distributions for the background}{72}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Unbinned log-likelihood fits on data}{74}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Binned vs. unbinned fit}{74}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Impact-parameter fits}{75}{subsection.5.3.2}
-\contentsline {section}{\numberline {5.4}Systematic uncertainties}{77}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Systematic uncertainty due to the impact-parameter shapes}{79}{subsection.5.4.1}
-\contentsline {subsubsection}{Test on the degree of agreement between the resolution term in data and MC}{79}{section*.29}
-\contentsline {subsubsection}{Variation of the fitting range}{80}{section*.30}
-\contentsline {subsubsection}{Uncertainty on the determination of the background distribution}{81}{section*.31}
-\contentsline {subsection}{\numberline {5.4.2}Systematic uncertainty due to the assumed $p_\text {T}$ shape}{83}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Systematic uncertainty induced by the uncertainty on the signal yield $S$}{85}{subsection.5.4.3}
-\contentsline {subsection}{\numberline {5.4.4}Consistency of the fitting procedure}{86}{subsection.5.4.4}
-\contentsline {subsubsection}{Variation of the invariant-mass window}{86}{section*.32}
-\contentsline {subsubsection}{Monte Carlo closure test}{87}{section*.33}
-\contentsline {subsection}{\numberline {5.4.5}Summary of the systematic uncertainties}{90}{subsection.5.4.5}
-\contentsline {section}{\numberline {5.5}Results}{90}{section.5.5}
-\contentsline {section}{\numberline {5.6}Perspective of an improved measurement with the upgraded ITS}{93}{section.5.6}
-\contentsline {chapter}{\numberline {6}Data-driven cut-variation method for the D$^+$ measurement}{95}{chapter.6}
-\contentsline {section}{\numberline {6.1}Cut-variation feed-down subtraction method}{95}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Analytic minimisation}{97}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Incentre minimisation}{99}{subsection.6.1.2}
-\contentsline {subsubsection}{Estimation of the statistical uncertainty on the incentre coordinates}{100}{section*.34}
-\contentsline {section}{\numberline {6.2}Strategy for the selection of topological cuts}{101}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Topological variables}{102}{subsection.6.2.1}
-\contentsline {subsubsection}{Decay length in the $xy$-plane}{102}{section*.35}
-\contentsline {subsubsection}{Cosine of the pointing angle in the $xy$-plane}{103}{section*.36}
-\contentsline {subsubsection}{Normalised residual of the daughter impact parameter}{103}{section*.37}
-\contentsline {subsection}{\numberline {6.2.2}Sets of topological cuts}{104}{subsection.6.2.2}
-\contentsline {section}{\numberline {6.3}Efficiency}{106}{section.6.3}
-\contentsline {section}{\numberline {6.4}Raw yield extraction}{107}{section.6.4}
-\contentsline {section}{\numberline {6.5}Systematic uncertainties}{109}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Systematic uncertainty due to the selection efficiency}{110}{subsection.6.5.1}
-\contentsline {subsection}{\numberline {6.5.2}Systematic uncertainty due to the raw yield extraction}{114}{subsection.6.5.2}
-\contentsline {subsection}{\numberline {6.5.3}Systematic uncertainty due to the $p_\text {T}$ shape}{116}{subsection.6.5.3}
-\contentsline {section}{\numberline {6.6}Results}{117}{section.6.6}
-\contentsline {chapter}{\numberline {7}Prompt D$^+$ reconstruction with the Kalman filter vertexing package}{121}{chapter.7}
-\contentsline {section}{\numberline {7.1}The Kalman filter algorithm}{122}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Reconstruction of particle decays with the KFParticle package}{123}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Fit constraints}{123}{subsection.7.1.2}
-\contentsline {subsubsection}{Topological constraint}{123}{section*.38}
-\contentsline {section}{\numberline {7.2}Reconstruction performances of the KFParticle package for prompt D$^+$-mesons}{124}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Prompt D$^+$-mesons at the decay vertex}{125}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Prompt D$^+$-mesons at the production vertex}{126}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Prompt D$^+$-meson decay length}{128}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}Prompt D$^+$-meson $\chi ^2$ and probability}{129}{subsection.7.2.4}
-\contentsline {subsection}{\numberline {7.2.5}Primary vertex determination}{130}{subsection.7.2.5}
-\contentsline {section}{\numberline {7.3}Prompt D$^+$ production measurement with the KFParticle package}{131}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Topological selections}{131}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Tuning of the D$^+$-meson $\chi ^2/ndf$ selection}{133}{subsection.7.3.2}
-\contentsline {subsubsection}{Raw yield variation}{133}{section*.39}
-\contentsline {subsubsection}{Efficiency variation}{133}{section*.40}
-\contentsline {subsubsection}{D$^+$ prompt fraction variation}{135}{section*.41}
-\contentsline {subsubsection}{$p_\text {T}$-differential cross section variation}{136}{section*.42}
-\contentsline {subsection}{\numberline {7.3.3}Raw yield extraction}{137}{subsection.7.3.3}
-\contentsline {section}{\numberline {7.4}Systematic uncertainties}{138}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Systematic uncertainty due to the raw yield extraction}{139}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Systematic uncertainty due to the topological selection efficiency}{140}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Systematic uncertainty due to the PID efficiency}{141}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}Systematic uncertainty due to the generated $p_\text {T}$ shape}{142}{subsection.7.4.4}
-\contentsline {subsection}{\numberline {7.4.5}Systematic uncertainty due to the feed-down D$^+$-meson subtraction}{143}{subsection.7.4.5}
-\contentsline {subsubsection}{Comparison to the selection on the maximum difference between the measured and expected impact parameter of the daughter tracks}{144}{section*.43}
-\contentsline {section}{\numberline {7.5}Results}{146}{section.7.5}
-\contentsline {chapter}{\numberline {8}Conclusions}{149}{chapter.8}
-\contentsline {chapter}{\numberline {A}Additional figures}{151}{appendix.A}
-\contentsline {section}{\numberline {A.1}Fits to the MC impact-parameter distributions of prompt D$^+$-mesons}{152}{section.A.1}
-\contentsline {section}{\numberline {A.2}Fits to the MC true impact-parameter distributions of feed-down D$^+$-mesons}{153}{section.A.2}
-\contentsline {section}{\numberline {A.3}MC impact-parameter distributions of feed-down D$^+$-mesons}{154}{section.A.3}
-\contentsline {section}{\numberline {A.4}Fits to the impact-parameter distributions of the combinatorial background}{155}{section.A.4}
-\contentsline {section}{\numberline {A.5}Cut-variation analysis plots}{156}{section.A.5}
-\contentsline {subsection}{\numberline {A.5.1}Mass fits prompt-enhanced set}{156}{subsection.A.5.1}
-\contentsline {subsection}{\numberline {A.5.2}Mass fits mixed set}{157}{subsection.A.5.2}
-\contentsline {subsection}{\numberline {A.5.3}Mass fits feed-down-enhanced set}{158}{subsection.A.5.3}
-\contentsline {subsection}{\numberline {A.5.4}Incentre determination}{159}{subsection.A.5.4}
-\contentsline {section}{\numberline {A.6}Kalman filter analysis invariant-mass fits}{160}{section.A.6}
-\contentsline {chapter}{Bibliography}{163}{appendix*.44}
-\contentsline {chapter}{Acknowledgements}{169}{appendix*.45}
+\contentsline {chapter}{\numberline {2}Open heavy-flavour physics}{25}{chapter.2}
+\contentsline {section}{\numberline {2.1}Heavy-quark production in pp collisions}{25}{section.2.1}
+\contentsline {section}{\numberline {2.2}Heavy-quark production in p-A and A-A collisions}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Cold Nuclear Matter effects}{28}{subsection.2.2.1}
+\contentsline {subsubsection}{Nuclear modification of the Parton Distribution Functions}{28}{section*.12}
+\contentsline {subsubsection}{Cronin enhancement}{30}{section*.13}
+\contentsline {subsubsection}{Nuclear modification factor in p-A collisions}{30}{section*.14}
+\contentsline {subsection}{\numberline {2.2.2}Hot Medium effects}{31}{subsection.2.2.2}
+\contentsline {subsubsection}{In-medium energy loss}{32}{section*.15}
+\contentsline {subsubsection}{Heavy-quark thermalisation}{32}{section*.16}
+\contentsline {subsubsection}{Hadronisation via coalescence}{32}{section*.17}
+\contentsline {subsubsection}{Nuclear modification factor in A-A collisions}{33}{section*.18}
+\contentsline {chapter}{\numberline {3}A Large Ion Collider Experiment}{35}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Large Hadron Collider}{35}{section.3.1}
+\contentsline {section}{\numberline {3.2}The ALICE detector}{37}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Inner Tracking System (ITS)}{38}{subsection.3.2.1}
+\contentsline {subsubsection}{Silicon Pixel Detectors (SPD)}{39}{section*.19}
+\contentsline {subsubsection}{Silicon Drift Detectors (SDD)}{40}{section*.20}
+\contentsline {subsubsection}{Silicon Strip Detectors (SSD)}{41}{section*.21}
+\contentsline {subsection}{\numberline {3.2.2}Time Projection Chamber (TPC)}{41}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Time of Flight (TOF)}{42}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}ALICE trigger and data acquisition}{43}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Central Trigger Processor}{43}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Data AcQuisition System and High-Level Trigger}{43}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}ALICE performance}{44}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Track and vertex reconstruction in the central barrel}{44}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Particle IDentification (PID)}{46}{subsection.3.4.2}
+\contentsline {subsubsection}{PID with the Time Projection Chamber}{46}{section*.22}
+\contentsline {subsubsection}{PID with the Time of Flight}{47}{section*.23}
+\contentsline {chapter}{\numberline {4}Prompt D$^+$-meson reconstruction strategy}{49}{chapter.4}
+\contentsline {section}{\numberline {4.1}D$^+$ candidate reconstruction and selection}{50}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}p-Pb data sample and event selection}{51}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Track selection}{51}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}D$^+$ reconstruction in the fiducial acceptance region}{52}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Topological selections}{53}{subsection.4.1.4}
+\contentsline {subsubsection}{Decay length}{54}{section*.24}
+\contentsline {subsubsection}{Cosine of the pointing angle}{55}{section*.25}
+\contentsline {subsubsection}{Daughter-track dispersion around the secondary vertex}{56}{section*.26}
+\contentsline {subsubsection}{Daughter transverse momentum}{56}{section*.27}
+\contentsline {subsubsection}{Topological cut values used in the published result}{56}{section*.28}
+\contentsline {subsection}{\numberline {4.1.5}Particle Identification}{57}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Raw yield extraction}{58}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Prompt and Feed-down D$^+$}{59}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Theory-driven methods for the D$^+$ prompt fraction evaluation}{59}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}The Monte Carlo simulation}{61}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Efficiency and Acceptance}{61}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.4}Results from the standard analysis}{62}{section.4.4}
+\contentsline {chapter}{\numberline {5}Impact-parameter fit method for the prompt D$^+$ fraction determination}{65}{chapter.5}
+\contentsline {section}{\numberline {5.1}Analysis strategy}{66}{section.5.1}
+\contentsline {section}{\numberline {5.2}Prefit on the impact-parameter distributions}{67}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}MC impact-parameter distributions for prompt D$^+$}{67}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}MC impact-parameter distributions for feed-down D$^+$}{68}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Impact-parameter distributions for the background}{70}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Unbinned log-likelihood fits on data}{72}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Binned vs. unbinned fit}{72}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Impact-parameter fits}{73}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Systematic uncertainties}{75}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Systematic uncertainty due to the impact-parameter shapes}{77}{subsection.5.4.1}
+\contentsline {subsubsection}{Test on the degree of agreement between the resolution term in data and MC}{77}{section*.29}
+\contentsline {subsubsection}{Variation of the fitting range}{78}{section*.30}
+\contentsline {subsubsection}{Uncertainty on the determination of the background distribution}{79}{section*.31}
+\contentsline {subsection}{\numberline {5.4.2}Systematic uncertainty due to the assumed $p_\text {T}$ shape}{81}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Systematic uncertainty induced by the uncertainty on the signal yield $S$}{83}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Consistency of the fitting procedure}{84}{subsection.5.4.4}
+\contentsline {subsubsection}{Variation of the invariant-mass window}{84}{section*.32}
+\contentsline {subsubsection}{Monte Carlo closure test}{85}{section*.33}
+\contentsline {subsection}{\numberline {5.4.5}Summary of the systematic uncertainties}{88}{subsection.5.4.5}
+\contentsline {section}{\numberline {5.5}Results}{88}{section.5.5}
+\contentsline {section}{\numberline {5.6}Perspective of an improved measurement with the upgraded ITS}{91}{section.5.6}
+\contentsline {chapter}{\numberline {6}Data-driven cut-variation method for the D$^+$ measurement}{93}{chapter.6}
+\contentsline {section}{\numberline {6.1}Cut-variation feed-down subtraction method}{93}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Analytic minimisation}{95}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Incentre minimisation}{97}{subsection.6.1.2}
+\contentsline {subsubsection}{Estimation of the statistical uncertainty on the incentre coordinates}{98}{section*.34}
+\contentsline {section}{\numberline {6.2}Strategy for the selection of topological cuts}{99}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Topological variables}{100}{subsection.6.2.1}
+\contentsline {subsubsection}{Decay length in the $xy$-plane}{100}{section*.35}
+\contentsline {subsubsection}{Cosine of the pointing angle in the $xy$-plane}{101}{section*.36}
+\contentsline {subsubsection}{Normalised residual of the daughter impact parameter}{101}{section*.37}
+\contentsline {subsection}{\numberline {6.2.2}Sets of topological cuts}{102}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Efficiency}{104}{section.6.3}
+\contentsline {section}{\numberline {6.4}Raw yield extraction}{105}{section.6.4}
+\contentsline {section}{\numberline {6.5}Systematic uncertainties}{107}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Systematic uncertainty due to the selection efficiency}{108}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Systematic uncertainty due to the raw yield extraction}{112}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Systematic uncertainty due to the $p_\text {T}$ shape}{114}{subsection.6.5.3}
+\contentsline {section}{\numberline {6.6}Results}{115}{section.6.6}
+\contentsline {chapter}{\numberline {7}Prompt D$^+$ reconstruction with the Kalman filter vertexing package}{119}{chapter.7}
+\contentsline {section}{\numberline {7.1}The Kalman filter algorithm}{120}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Reconstruction of particle decays with the KFParticle package}{121}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Fit constraints}{121}{subsection.7.1.2}
+\contentsline {subsubsection}{Topological constraint}{121}{section*.38}
+\contentsline {section}{\numberline {7.2}Reconstruction performances of the KFParticle package for prompt D$^+$-mesons}{122}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Prompt D$^+$-mesons at the decay vertex}{123}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Prompt D$^+$-mesons at the production vertex}{124}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Prompt D$^+$-meson decay length}{126}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Prompt D$^+$-meson $\chi ^2$ and probability}{127}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Primary vertex determination}{128}{subsection.7.2.5}
+\contentsline {section}{\numberline {7.3}Prompt D$^+$ production measurement with the KFParticle package}{129}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Topological selections}{129}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Tuning of the D$^+$-meson $\chi ^2/ndf$ selection}{131}{subsection.7.3.2}
+\contentsline {subsubsection}{Raw yield variation}{131}{section*.39}
+\contentsline {subsubsection}{Efficiency variation}{131}{section*.40}
+\contentsline {subsubsection}{D$^+$ prompt fraction variation}{133}{section*.41}
+\contentsline {subsubsection}{$p_\text {T}$-differential cross section variation}{134}{section*.42}
+\contentsline {subsection}{\numberline {7.3.3}Raw yield extraction}{135}{subsection.7.3.3}
+\contentsline {section}{\numberline {7.4}Systematic uncertainties}{136}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Systematic uncertainty due to the raw yield extraction}{137}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Systematic uncertainty due to the topological selection efficiency}{138}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Systematic uncertainty due to the PID efficiency}{139}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.4}Systematic uncertainty due to the generated $p_\text {T}$ shape}{140}{subsection.7.4.4}
+\contentsline {subsection}{\numberline {7.4.5}Systematic uncertainty due to the feed-down D$^+$-meson subtraction}{141}{subsection.7.4.5}
+\contentsline {subsubsection}{Comparison to the selection on the maximum difference between the measured and expected impact parameter of the daughter tracks}{142}{section*.43}
+\contentsline {section}{\numberline {7.5}Results}{144}{section.7.5}
+\contentsline {chapter}{\numberline {8}Conclusions}{147}{chapter.8}
+\contentsline {chapter}{\numberline {A}Additional figures}{149}{appendix.A}
+\contentsline {section}{\numberline {A.1}Fits to the MC impact-parameter distributions of prompt D$^+$-mesons}{150}{section.A.1}
+\contentsline {section}{\numberline {A.2}Fits to the MC true impact-parameter distributions of feed-down D$^+$-mesons}{151}{section.A.2}
+\contentsline {section}{\numberline {A.3}MC impact-parameter distributions of feed-down D$^+$-mesons}{152}{section.A.3}
+\contentsline {section}{\numberline {A.4}Fits to the impact-parameter distributions of the combinatorial background}{153}{section.A.4}
+\contentsline {section}{\numberline {A.5}Cut-variation analysis plots}{154}{section.A.5}
+\contentsline {subsection}{\numberline {A.5.1}Mass fits prompt-enhanced set}{154}{subsection.A.5.1}
+\contentsline {subsection}{\numberline {A.5.2}Mass fits mixed set}{155}{subsection.A.5.2}
+\contentsline {subsection}{\numberline {A.5.3}Mass fits feed-down-enhanced set}{156}{subsection.A.5.3}
+\contentsline {subsection}{\numberline {A.5.4}Incentre determination}{157}{subsection.A.5.4}
+\contentsline {section}{\numberline {A.6}Kalman filter analysis invariant-mass fits}{158}{section.A.6}
+\contentsline {chapter}{Bibliography}{161}{appendix*.44}
+\contentsline {chapter}{Acknowledgements}{167}{appendix*.45}
