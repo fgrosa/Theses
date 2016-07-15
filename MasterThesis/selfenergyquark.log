@@ -1,4 +1,4 @@
-This is MetaPost, version 1.999 (TeX Live 2015/Debian) (kpathsea version 6.2.1)  3 JUN 2016 13:09
+This is MetaPost, version 1.999 (TeX Live 2015/Debian) (kpathsea version 6.2.1)  15 JUL 2016 11:58
 **selfenergyquark
 (/usr/share/texlive/texmf-dist/metapost/base/mpost.mp
 (/usr/share/texlive/texmf-dist/metapost/base/plain.mp
@@ -9,6 +9,6 @@ Here is how much of MetaPost's memory you used:
  303 strings using 4467 characters
  1494824 bytes of node memory
  924 symbolic tokens
- 14i,77n,28p,113b,3f stack positions out of 16i,96n,32p,200b,4f
+ 14i,77n,28p,114b,3f stack positions out of 16i,96n,32p,200b,4f
 1 output file written: selfenergyquark.1
 
