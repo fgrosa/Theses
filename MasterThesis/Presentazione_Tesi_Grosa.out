@@ -2,19 +2,22 @@
 \BOOKMARK [2][]{Outline0.2}{ALICE}{}% 2
 \BOOKMARK [2][]{Outline0.3}{Introduzione all'analisi}{}% 3
 \BOOKMARK [2][]{Outline0.4}{Ricostruzione di mesoni D+}{}% 4
-\BOOKMARK [2][]{Outline0.5}{Metodi theory-driven per la misura della frazione di D+ prompt}{}% 5
-\BOOKMARK [2][]{Outline0.6}{Metodo di fit del parametro di impatto}{}% 6
-\BOOKMARK [2][]{Outline0.7}{Metodo della variazione dei tagli}{}% 7
-\BOOKMARK [2][]{Outline0.8}{Ricostruzione dei mesoni D+ con il filtro di Kalman}{}% 8
-\BOOKMARK [2][]{Outline0.9}{Conclusioni}{}% 9
-\BOOKMARK [2][]{Outline0.10}{Backup}{}% 10
-\BOOKMARK [3][]{Outline0.10.1.25}{Confronto dati Vs. FONLL}{Outline0.10}% 11
-\BOOKMARK [3][]{Outline0.10.2.26}{Analisi standard - Set di tagli}{Outline0.10}% 12
-\BOOKMARK [3][]{Outline0.10.3.27}{Fit del parametro di impatto - Fit unbinned}{Outline0.10}% 13
-\BOOKMARK [3][]{Outline0.10.4.28}{Fit del parametro di impatto - Errori sistematici}{Outline0.10}% 14
-\BOOKMARK [3][]{Outline0.10.5.36}{Metodo della variazione dei tagli - Set di tagli}{Outline0.10}% 15
-\BOOKMARK [3][]{Outline0.10.6.40}{Metodo della variazione dei tagli - Errori sistematici}{Outline0.10}% 16
-\BOOKMARK [3][]{Outline0.10.7.43}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle e topological constraint}{Outline0.10}% 17
-\BOOKMARK [3][]{Outline0.10.8.44}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle - Performance}{Outline0.10}% 18
-\BOOKMARK [3][]{Outline0.10.9.50}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle - Set di tagli}{Outline0.10}% 19
-\BOOKMARK [3][]{Outline0.10.10.52}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle - Errori sistematici}{Outline0.10}% 20
+\BOOKMARK [2][]{Outline0.5}{Mesoni D+ primari e secondari}{}% 5
+\BOOKMARK [2][]{Outline0.6}{Metodi theory-driven per la misura della frazione di D+ prompt}{}% 6
+\BOOKMARK [2][]{Outline0.7}{Metodo di fit del parametro di impatto}{}% 7
+\BOOKMARK [2][]{Outline0.8}{Metodo della variazione dei tagli}{}% 8
+\BOOKMARK [2][]{Outline0.9}{Metodo di ricostruzione dei mesoni D+ con il filtro di Kalman}{}% 9
+\BOOKMARK [2][]{Outline0.10}{Conclusioni}{}% 10
+\BOOKMARK [2][]{Outline0.11}{Backup}{}% 11
+\BOOKMARK [3][]{Outline0.11.1.25}{Confronto dati Vs. FONLL}{Outline0.11}% 12
+\BOOKMARK [3][]{Outline0.11.2.26}{Analisi standard - Set di tagli}{Outline0.11}% 13
+\BOOKMARK [3][]{Outline0.11.3.27}{Fit del parametro di impatto - Template}{Outline0.11}% 14
+\BOOKMARK [3][]{Outline0.11.4.31}{Fit del parametro di impatto - Fit unbinned}{Outline0.11}% 15
+\BOOKMARK [3][]{Outline0.11.5.32}{Fit del parametro di impatto - Errori sistematici}{Outline0.11}% 16
+\BOOKMARK [3][]{Outline0.11.6.40}{Metodo della variazione dei tagli - Metodi di Minimizzazione}{Outline0.11}% 17
+\BOOKMARK [3][]{Outline0.11.7.44}{Metodo della variazione dei tagli - Set di tagli}{Outline0.11}% 18
+\BOOKMARK [3][]{Outline0.11.8.48}{Metodo della variazione dei tagli - Errori sistematici}{Outline0.11}% 19
+\BOOKMARK [3][]{Outline0.11.9.51}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle e topological constraint}{Outline0.11}% 20
+\BOOKMARK [3][]{Outline0.11.10.52}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle - Performance}{Outline0.11}% 21
+\BOOKMARK [3][]{Outline0.11.11.58}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle - Set di tagli}{Outline0.11}% 22
+\BOOKMARK [3][]{Outline0.11.12.60}{Ricostruzione dei mesoni D+ con il pacchetto KFParticle - Errori sistematici}{Outline0.11}% 23

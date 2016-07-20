@@ -1,4 +1,4 @@
-% 2gluoni1quark.mp -- do not edit, generated automatically by MasterThesis_Grosa_diff.tex
+% 2gluoni1quark.mp -- do not edit, generated automatically by MasterThesis_Grosa.tex
 input feynmp
 require_RCS_revision "1.30";
 beginchar(1, 80*1.0pt#, 60*1.0pt#, 0);

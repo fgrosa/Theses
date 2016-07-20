@@ -1,4 +1,4 @@
-% vertgluon.mp -- do not edit, generated automatically by MasterThesis_Grosa_diff.tex
+% vertgluon.mp -- do not edit, generated automatically by MasterThesis_Grosa.tex
 input feynmp
 require_RCS_revision "1.30";
 beginchar(1, 90*1.0pt#, 60*1.0pt#, 0);

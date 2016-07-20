@@ -4,19 +4,22 @@
 \beamer@sectionintoc {2}{ALICE}{4}{0}{2}
 \beamer@sectionintoc {3}{Introduzione all'analisi}{5}{0}{3}
 \beamer@sectionintoc {4}{Ricostruzione di mesoni D$^+$}{6}{0}{4}
-\beamer@sectionintoc {5}{Metodi theory-driven per la misura della frazione di D$^+$ prompt}{7}{0}{5}
-\beamer@sectionintoc {6}{Metodo di fit del parametro di impatto}{9}{0}{6}
-\beamer@sectionintoc {7}{Metodo della variazione dei tagli}{15}{0}{7}
-\beamer@sectionintoc {8}{Ricostruzione dei mesoni D$^+$ con il filtro di Kalman}{19}{0}{8}
-\beamer@sectionintoc {9}{Conclusioni}{23}{0}{9}
-\beamer@sectionintoc {10}{Backup}{24}{0}{10}
-\beamer@subsectionintoc {10}{1}{Confronto dati Vs. FONLL}{25}{0}{10}
-\beamer@subsectionintoc {10}{2}{Analisi standard - Set di tagli}{26}{0}{10}
-\beamer@subsectionintoc {10}{3}{Fit del parametro di impatto - Fit unbinned}{27}{0}{10}
-\beamer@subsectionintoc {10}{4}{Fit del parametro di impatto - Errori sistematici}{28}{0}{10}
-\beamer@subsectionintoc {10}{5}{Metodo della variazione dei tagli - Set di tagli}{36}{0}{10}
-\beamer@subsectionintoc {10}{6}{Metodo della variazione dei tagli - Errori sistematici}{40}{0}{10}
-\beamer@subsectionintoc {10}{7}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e topological constraint}{43}{0}{10}
-\beamer@subsectionintoc {10}{8}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Performance}{44}{0}{10}
-\beamer@subsectionintoc {10}{9}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Set di tagli}{50}{0}{10}
-\beamer@subsectionintoc {10}{10}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici}{52}{0}{10}
+\beamer@sectionintoc {5}{Mesoni D$^+$ primari e secondari}{7}{0}{5}
+\beamer@sectionintoc {6}{Metodi theory-driven per la misura della frazione di D$^+$ prompt}{8}{0}{6}
+\beamer@sectionintoc {7}{Metodo di fit del parametro di impatto}{9}{0}{7}
+\beamer@sectionintoc {8}{Metodo della variazione dei tagli}{15}{0}{8}
+\beamer@sectionintoc {9}{Metodo di ricostruzione dei mesoni D$^+$ con il filtro di Kalman}{19}{0}{9}
+\beamer@sectionintoc {10}{Conclusioni}{23}{0}{10}
+\beamer@sectionintoc {11}{Backup}{24}{0}{11}
+\beamer@subsectionintoc {11}{1}{Confronto dati Vs. FONLL}{25}{0}{11}
+\beamer@subsectionintoc {11}{2}{Analisi standard - Set di tagli}{26}{0}{11}
+\beamer@subsectionintoc {11}{3}{Fit del parametro di impatto - Template}{27}{0}{11}
+\beamer@subsectionintoc {11}{4}{Fit del parametro di impatto - Fit unbinned}{31}{0}{11}
+\beamer@subsectionintoc {11}{5}{Fit del parametro di impatto - Errori sistematici}{32}{0}{11}
+\beamer@subsectionintoc {11}{6}{Metodo della variazione dei tagli - Metodi di Minimizzazione}{40}{0}{11}
+\beamer@subsectionintoc {11}{7}{Metodo della variazione dei tagli - Set di tagli}{44}{0}{11}
+\beamer@subsectionintoc {11}{8}{Metodo della variazione dei tagli - Errori sistematici}{48}{0}{11}
+\beamer@subsectionintoc {11}{9}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e topological constraint}{51}{0}{11}
+\beamer@subsectionintoc {11}{10}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Performance}{52}{0}{11}
+\beamer@subsectionintoc {11}{11}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Set di tagli}{58}{0}{11}
+\beamer@subsectionintoc {11}{12}{Ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle - Errori sistematici}{60}{0}{11}

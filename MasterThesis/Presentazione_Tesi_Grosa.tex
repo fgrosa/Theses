@@ -62,6 +62,15 @@
 
 \title[Misura dei mesoni D$^+$]{\huge{Misura dei contributi primario e secondario nella produzione di mesoni D$^+$ con l'esperimento ALICE a LHC}}
 
+\newcommand{\backupbegin}{
+   \newcounter{framenumberappendix}
+   \setcounter{framenumberappendix}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+   \addtocounter{framenumberappendix}{-\value{framenumber}}
+   \addtocounter{framenumber}{\value{framenumberappendix}} 
+}
+
 \begin{document}
 
 \begin{frame}
@@ -116,7 +125,7 @@ Relatore: Prof. Stefania Beolè\\ [1mm] Primo correlatore: Dott. Francesco Prino
 \begin{minipage}[t]{0.44\linewidth}
 \begin{block}{}
 \begin{center}
-Gli \textit{heavy flavours} (quark $c$ e $b$) a causa dell'elevata massa 
+Gli \textit{heavy flavours} (quark pesanti $c$ e $b$) \\a causa dell'elevata massa 
 \[m_c \simeq 1.5 \text{ GeV/c}^2, \text{ } m_b \simeq 4.5 \text{ GeV/c}^2\]
 vengono prodotti nella fase iniziale della collisione (\textit{fase di pre-equilibrio}) 
 \[\tau_{prod} \sim \frac{\hslash}{m_{b,c}} \sim 0.05-0.1 \text{ fm/c} \]
@@ -154,37 +163,37 @@ La radiazione di gluoni dipende dalla massa del quark, in particolare risulta so
 \frametitle{\textit{Open heavy flavours} in collisioni p-Pb}
 \begin{picture}(320,250)
 
-\put(-5,15){\includegraphics[scale=0.12]{PDF_nuclear_2}}
-\put(230,100){\includegraphics[scale=0.21]{pPbWithModels.eps}}
+\put(-5,12){\includegraphics[scale=0.12]{PDF_nuclear_2}}
+\put(40,102){\includegraphics[scale=0.25]{random_walk.png}}
+\put(200,90){\includegraphics[scale=0.25]{cronin_enhancement.png}}
+
+\put(215,260){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.3\linewidth}
+\begin{block}{\centering \textit{Open heavy flavours}}
+\centering
+\setlength\abovedisplayskip{0pt}
+Adroni formati da un quark pesante ($c$ o $b$) e uno o più quark leggeri
+ \end{block}
+\end{minipage}}
 
 \put(0,235){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{1.\linewidth}
-\begin{center}
- Nelle collisioni p-Pb non si raggiungono le condizioni per la formazione di un QGP esteso
- $\Rightarrow$ ci permettono di studiare i \textit{Cold Nuclear Matter Effects}
+\begin{minipage}[t]{0.6\linewidth}
+ Nelle collisioni p-Pb non si raggiungono le condizioni\\ per la formazione di un QGP esteso
+ $\Rightarrow$ ci permettono\\ di studiare i \textit{Cold Nuclear Matter Effects}\\\vspace{-0.1cm}
  \begin{itemize}
  \color{blue}
   \item Cronin Enhancement
-  \vspace{3.7cm}
+  \vspace{3.35cm}
   \item Modifica delle PDF in presenza di materia nucleare
  \end{itemize}
-\end{center}
 \end{minipage}}
 
-\put(10,197){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.6\linewidth}
-Le collisioni multiple dei partoni del proiettile con i nucleoni del nucleo determinano uno \textit{shift} dello spettro a più alti valori di momento trasverso
+\put(10,185){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.5\linewidth}
+Le collisioni multiple dei partoni del proiettile con i nucleoni del nucleo prima dell'\textit{hard scattering} determinano uno \textit{shift} dello spettro a più alti valori di momento trasverso
 \end{minipage}}
 
-\put(55,170){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.35\linewidth}
-\begin{block}{Nuclear modification factor}
-\setlength\abovedisplayskip{-1pt}
-\[R_{pPb} (\pt) = \frac{1}{<N_{coll}>}\frac{dN_{pPb}/d\pt}{dN_{pp}/d\pt}\]
-\end{block}
-\end{minipage}}
-
-\put(170,80){\captionsetup{labelformat=empty}
+\put(170,70){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.58\linewidth}
 Si possono distringuere quattro regioni:
 \begin{itemize}
@@ -283,15 +292,15 @@ $\Rightarrow$ $\sim$ 100 milioni di eventi \textit{Minimum Bias}\\
 \frametitle{Ricostruzione e selezione di mesoni D$^+$ in ALICE}
 \begin{picture}(320,250)
 
-\put(15,25){\includegraphics[scale=0.18]{Dplus_sketch.png}}
-\put(185,55){\includegraphics[scale=0.08]{2013-Mar-06-betap_v5.png}}
+\put(15,40){\includegraphics[scale=0.17]{Dplus_sketch.png}}
+\put(195,70){\includegraphics[scale=0.07]{2013-Mar-06-betap_v5.png}}
 
 \put(0,230){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{1.\linewidth}
 Mesoni D$^+$ ($c\tau = 312\text{ } \mu$m) e coniugati di carica sono ricostruiti nel canale di decadimento adronico
 \end{minipage}}
 
-\put(110,230){\captionsetup{labelformat=empty}
+\put(110,227){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.35\linewidth}
 \begin{block}{}
  \setlength\abovedisplayskip{-0.5pt}
@@ -302,18 +311,19 @@ Mesoni D$^+$ ($c\tau = 312\text{ } \mu$m) e coniugati di carica sono ricostruiti
 \put(-5,190){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{1.\linewidth}
 \begin{itemize}
+ \item I candidati mesoni D$^+$ vengono ricostruiti combinando tre tracce cariche 
+\end{itemize}
+\end{minipage}}
+
+\put(-5,177){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.53\linewidth}
+\begin{itemize}
+ \item Vengono applicate selezioni sulla qualità delle tracce ricostruite di K$^\pm$ e $\pi^\pm$ e su quantità legate alla topologia del decadimento per ridurre il fondo combinatoriale\\[3.8cm]
  \item Il segnale è estratto con un'\textcolor{blue}{analisi di massa invariante}
 \end{itemize}
 \end{minipage}}
 
-\put(-5,175){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.53\linewidth}
-\begin{itemize}
- \item Vengono applicate selezioni sulla qualità delle tracce ricostruite di K$^\pm$ e $\pi^\pm$ e su quantità legate alla topologia del decadimento per ridurre il fondo combinatoriale
-\end{itemize}
-\end{minipage}}
-
-\put(170,50){\captionsetup{labelformat=empty}
+\put(170,65){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.53\linewidth}
 \begin{itemize}
  \item Per ridurre ulteriormente del fondo viene applicata la \textit{Particle Identification} (PID) nella selezione delle tracce nello stato finale 
@@ -323,7 +333,7 @@ Mesoni D$^+$ ($c\tau = 312\text{ } \mu$m) e coniugati di carica sono ricostruiti
 \end{picture} 
 \end{frame}
 
-\section{Metodi theory-driven per la misura della frazione di D$^+$ prompt}
+\section{Mesoni D$^+$ primari e secondari}
 \begin{frame}
 \frametitle{Mesoni D$^+$ primari e secondari}
 \begin{picture}(320,250)
@@ -360,6 +370,7 @@ Per la misura dei mesoni D$^+$ che sono originati da un quark \textit{charm} pro
 \end{picture} 
 \end{frame}
 
+\section{Metodi theory-driven per la misura della frazione di D$^+$ prompt}
 \begin{frame}
 \frametitle{Metodi \textit{theory-driven} per la misura della frazione di mesoni D$^+$ prompt}
 \begin{picture}(320,250)
@@ -384,13 +395,21 @@ La frazione di D$^+$ prompt può essere ottenuta utilizzando metodi \textit{theo
 \end{itemize}
 \end{minipage}}
 
-\put(0,100){\captionsetup{labelformat=empty}
+\put(10,125){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.95\linewidth}
 Principali sorgenti di errore sistematico:
 \begin{itemize}
  \item Calcolo perturbativo di \textcolor{blue}{$\bigg{(}\frac{d^2\sigma}{d\pt dy}\bigg{)}_{FONLL}$}
  \item \textcolor{blue}{$R_{pPb}^{feed-down}(\pt)$} mai misurato \\[2mm]$\Rightarrow$ necessità di un'assunzione 
 \end{itemize}
+\end{minipage}}
+
+\put(20,65){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.35\linewidth}
+\begin{block}{Nuclear modification factor}
+\setlength\abovedisplayskip{-1pt}
+\[R_{pPb} (\pt) = \frac{1}{<N_{coll}>}\frac{dN_{pPb}/d\pt}{dN_{pp}/d\pt}\]
+\end{block}
 \end{minipage}}
 
 \end{picture} 
@@ -401,16 +420,26 @@ Principali sorgenti di errore sistematico:
 \frametitle{Metodo di fit del parametro di impatto}
 \begin{picture}(320,250)
 
-\put(25,132){\includegraphics[scale=0.2]{Prompt_sketch.png}}
-\put(180,130){\includegraphics[scale=0.2]{FD_sketch.png}}
+\put(175,110){\includegraphics[scale=0.2]{Prompt_sketch.png}}
+\put(20,115){\includegraphics[scale=0.2]{FD_sketch.png}}
+\put(230,20){\includegraphics[scale=0.2]{ImpParPrompt_5-6.eps}}
 
-\put(0,235){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.95\linewidth}
-Si basa sulla differenza tra le distribuzioni del parametro di impatto ($d_0$) di mesoni D$^+$ prompt e feed-down:
+\put(0,232){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.5\linewidth}
+Si basa sulla differenza tra le distribuzioni del parametro di impatto di mesoni D$^+$ prompt e feed-down: 
 \end{minipage}}
 
-\put(0,120){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.95\linewidth}
+\put(210,265){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.35\linewidth}
+\begin{block}{\centering Parametro di impatto ($d_0$)}
+\setlength\abovedisplayskip{-1pt}
+\centering
+Minima distanza tra il vertice primario e il prolungamento della traccia del mesone D$^+$ 
+\end{block}
+\end{minipage}}
+
+\put(5,100){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.6\linewidth}
 \begin{enumerate}
  \item \textcolor{blue}{Determinazione dei \textit{template} (fase di \textit{prefit})}
  \begin{itemize}
@@ -418,8 +447,6 @@ Si basa sulla differenza tra le distribuzioni del parametro di impatto ($d_0$) d
   \item Fit delle distribuzioni simulate di mesoni D$^+$ feed-down
   \item Fit delle distribuzioni del fondo combinatoriale ottenute dai dati nelle regioni di massa invariante a lato del picco (\textit{side-bands})
  \end{itemize}
- \vspace{0.1cm}
-  Nella fase di prefit si ottengono i parametri che vengono successivamente fissati nel fit finale dei dati per estrarre la frazione di mesoni D$^+$ prompt
  \vspace{0.2cm}
  \item \textcolor{blue}{Fit unbinned dei dati}\\
  La funzione di fit finale è somma dei singoli contributi
@@ -466,25 +493,34 @@ Convoluzione\\[1mm] di \textcolor{blue}{$F^{feed-down}_{true}(d_0^{xy})$}\\[1mm]
 \frametitle{Fit delle distribuzioni del fondo combinatoriale}
 \begin{picture}(320,250)
 
-\put(5,130){\includegraphics[scale=0.25]{Mass_5-6.pdf}}
-\put(195,130){\includegraphics[scale=0.25]{Sidebands_Pt_5-6_NoFit.eps}}
+\put(-5,130){\includegraphics[scale=0.25]{Mass_5-6.pdf}}
+\put(175,94){\includegraphics[scale=0.25]{Sidebands_Pt_5-6_NoFit.eps}}
 \put(5,10){\includegraphics[scale=0.25]{ImpParBkg_5-6.eps}}
 
-\put(113,150){
+\put(103,130){
 \begin{tikzpicture}[->]
-\draw[draw=verdebbello,solid,line width=0.3mm] (0, 0) -- + (3.,0.5);
+\draw[draw=verdebbello,solid,line width=0.3mm] (0, 0) -- + (2.7,-0.5);
 \end{tikzpicture}}
 
-\put(66.5,170){
+\put(56.5,145){
 \begin{tikzpicture}[->]
-\draw[draw=orange,solid,line width=0.3mm] (0, 0) -- + (4.6,0.5);
+\draw[draw=orange,solid,line width=0.3mm] (0, 0) -- + (4.2,-0.8);
 \end{tikzpicture}}
 
-\put(160,100){\captionsetup{labelformat=empty}
+\put(160,80){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.5\linewidth}
 \textcolor{magenta}{Fondo combinatoriale}: fit della distribuzione del parametro di impatto ottenuta dalle regioni di massa invariante a lato del picco (\textit{side-bands})
 \[4\sigma<|M-M_{peak}|<15\sigma\]
 $\rightarrow$ somma di due Gaussiane con code esponenziali, con i parametri uguali a meno dei valori medi
+\end{minipage}}
+
+\put(140,250){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.57\linewidth}
+\begin{block}{\centering Fondo combinatoriale}
+\centering
+Fondo costituito dalla combinazione di tracce scorrelate, non derivanti dal decadimento di mesoni D$^+$ 
+\end{block}
+
 \end{minipage}}
 
 \end{picture} 
@@ -579,7 +615,7 @@ Sorgenti di errore sistematico:
 \end{frame}
 
 \begin{frame}
-\frametitle{Fit del parametro di impatto - Risultato}
+\frametitle{Metodo di fit del parametro di impatto - Risultato}
 \begin{picture}(320,250)
 
 \put(0,20){\includegraphics[scale=0.37]{ImpParFitAndRes.eps}}
@@ -604,12 +640,12 @@ Sorgenti di errore sistematico:
 \draw[draw=blue,solid,line width=0.3mm] (0, 0) -- + (0,2.54);
 \end{tikzpicture}}
 
-\put(211,210){\captionsetup{labelformat=empty}
+\put(211,215){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.38\linewidth}
 \begin{itemize}
  \item La frazione di D$^+$ prompt misurata con il metodo del fit del parametro di impatto è compatibile con i metodi \textit{theory-driven}
  \item L'incertezza totale è compatibile con i metodi \textit{theory-driven} a $\pt$ intermedio e maggiore ad alto e basso $\pt$
- \item Risultato inserito come cross-check nell'articolo \textcolor{blue}{\textit{D-meson production in p-Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV and in pp collisions at $\sqrt{s}=7$ TeV}} pubblicato dalla Collaborazione ALICE 
+ \item Risultato inserito come cross-check dei metodi theory-driven nell'articolo \textcolor{blue}{\textit{D-meson production in p-Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV and in pp collisions at $\sqrt{s}=7$ TeV}} pubblicato dalla Collaborazione ALICE 
 \end{itemize}
 \end{minipage}}
 
@@ -621,24 +657,24 @@ Sorgenti di errore sistematico:
 \frametitle{Metodo della variazione dei tagli}
 \begin{picture}(320,250)
 
-\put(145,86){\includegraphics[scale=0.27]{cutvar_sketch.pdf}}
+\put(10,115){\includegraphics[scale=0.22]{cutvar_sketch.pdf}}
 
-\put(0,220){\captionsetup{labelformat=empty}
+\put(195,245){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.4\linewidth}
 \begin{center}
-I candidati mesoni D$^+$ includono D$^+$ prompt, D$^+$ feed-down e il fondo combinatoriale \\[3mm]
-Applicando selezioni su quantità topologiche per ottenere un buon rapporto segnale su fondo e una buona significatività statistica \[signif. = \frac{S}{\sqrt{S+B}},\] se ne seleziona soltanto una parte
+I candidati mesoni D$^+$ includono D$^+$ prompt, D$^+$ feed-down e il fondo combinatoriale \\[2mm]
+Applicando selezioni su quantità topologiche per ottenere un buon rapporto segnale su fondo e una buona significatività statistica\\[-4mm] \[signif. = \frac{S}{\sqrt{S+B}},\] \\[-2mm]se ne seleziona soltanto una parte
 \end{center}
 \end{minipage}}
 
-\put(187,82){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.45\linewidth}
+\put(0,110){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.55\linewidth}
 \begin{center}
-Per ogni set di tagli definito si ottiene un'equazione che ha come incognite il numero corretto di mesoni D$^+$ prompt e feed-down ($N_{prompt}$ e $N_{feed-down}$) \\[2mm] $\Rightarrow$ per $n$ set di tagli si ottiene un sistema sovradeterminato
+Per ogni set di tagli definito si ottiene un'equazione che ha come incognite il numero corretto di mesoni D$^+$ prompt e feed-down (\textcolor{blue}{$N_{prompt}$} e \textcolor{blue}{$N_{feed-down}$}) \\[2mm] $\Rightarrow$ per $n$ set di tagli si ottiene un sistema sovradeterminato
 \end{center}
 \end{minipage}}
 
-\put(3,93){\captionsetup{labelformat=empty}
+\put(7,65){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.49\linewidth}
 \begin{block}{}
 \setlength\abovedisplayskip{0pt}
@@ -646,11 +682,22 @@ Per ogni set di tagli definito si ottiene un'equazione che ha come incognite il 
 \begin{cases}
 \epsilon^{prompt}_1\cdot N_{prompt} + \epsilon^{feed-down}_1\cdot N_{feed-down} = Y_1\\
 ..\\
-..\\
 \epsilon^{prompt}_n\cdot N_{prompt} + \epsilon^{feed-down}_n\cdot N_{feed-down} = Y_n\\
 \end{cases}
 \label{cutvar_syst}
 \end{equation*}
+\end{block}
+\end{minipage}}
+
+\put(210,140){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.36\linewidth}
+\begin{block}{}
+\setlength\abovedisplayskip{0pt}
+\begin{itemize}
+\item \textcolor{blue}{Raw yield $Y$}: numero grezzo di D$^+$ estratto dal fit di massa invariante
+\item \textcolor{blue}{Efficienza $\epsilon_X$}: rapporto tra numero di D$^+$ prompt (feed-down) ricostruite e generate 
+\item \textcolor{blue}{Corrected yield $N_X$}: numero di D$^+$ prompt (feed-down) corretto per l'efficienza
+\end{itemize}
 \end{block}
 \end{minipage}}
 
@@ -853,9 +900,9 @@ Sorgenti di errore \\sistematico:
 \end{picture}
 \end{frame}
 
-\section{Ricostruzione dei mesoni D$^+$ con il filtro di Kalman}
+\section{Metodo di ricostruzione dei mesoni D$^+$ con il filtro di Kalman}
 \begin{frame}
-\frametitle{Ricostruzione dei mesoni D$^+$ con il filtro di Kalman}
+\frametitle{Metodo di ricostruzione dei mesoni D$^+$ con il filtro di Kalman}
 \begin{picture}(320,250)
 
 \put(135,15){\includegraphics[scale=0.18]{ResSVXZ.eps}}
@@ -910,18 +957,26 @@ $\Rightarrow$ risoluzione della variabile $X$:\\
 \put(0,235){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.95\linewidth}
 I mesoni D$^+$ feed-down  \textcolor{blue}{non} derivano dal vertice primario di interazione dei fasci \\[1mm]
-$\Rightarrow$ L'applicazione del \textcolor{blue}{topological constraint} al vertice primario permette di ridurre il contributo di mesoni D$^+$ da B, valutando il \textcolor{blue}{$\chi^2$} della particella ricostruita
+$\Rightarrow$ L'applicazione del \textcolor{blue}{topological constraint} al vertice primario permette di ridurre il contributo di mesoni D$^+$ da B, valutando il \textcolor{blue}{$\chi^2$} del vettore di stato dei candidati mesoni D$^+$
 \end{minipage}}
 
-\put(35,75){\includegraphics[scale=0.22]{KFchi_Dplus_pT1.eps}}
-\put(180,75){\includegraphics[scale=0.22]{KFchi_Dplus_pT8.eps}}
+\put(35,78){\includegraphics[scale=0.22]{KFchi_Dplus_pT1.eps}}
+\put(180,78){\includegraphics[scale=0.22]{KFchi_Dplus_pT8.eps}}
 
-\put(0,65){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{1.\linewidth}
-$\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni sulle quantità topologiche usate nell'analisi standard 
+\put(5,66){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+$\Rightarrow$ selezione su $\chi^2/ndf$ dei candidati mesoni D$^+$, oltre alle selezioni sulle quantità topologiche usate nell'analisi standard 
 \end{minipage}}
 
-\put(80,30){\captionsetup{labelformat=empty}
+\put(210,55){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.35\linewidth}
+\begin{block}{}
+\centering
+set centrale ottimizzato variando la selezione tra $[-1.5,1.5]$
+\end{block}
+\end{minipage}}
+
+\put(10,30){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.9\linewidth}
 \renewcommand\arraystretch{1.4} 
   \begin{tabular}{c|c|c|c|c}
@@ -956,16 +1011,16 @@ $\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni su
 \end{frame}
 
 \begin{frame}
-\frametitle{Ricostruzione dei mesoni D$^+$ \\con il filtro di Kalman - Risultato}
+\frametitle{Metodo di ricostruzione dei mesoni \\D$^+$ con il filtro di Kalman - Risultato}
 \begin{picture}(320,250)
 
 \put(10,150){\includegraphics[scale=0.24]{PromptFrac_KF.eps}}
 \put(175,70){\includegraphics[scale=0.26]{CrossSection_KF.eps}}
 
-\put(170,275){\captionsetup{labelformat=empty}
-\begin{minipage}[t]{0.48\linewidth}
+\put(185,275){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.45\linewidth}
 \begin{block}{}
-\fontsize{7}{10}\selectfont
+\fontsize{6.5}{10}\selectfont
 \setlength\abovedisplayskip{0pt}
 \begin{equation*}
 \frac{d\sigma^{D^+}_{prompt}}{d\pt}\bigg{|}_{|y|<0.5} = \frac{1}{2}\cdot \frac{f_{prompt}\cdot N^{D^\pm}_{raw}|_{|y|<y_{fid}}}{\Delta \pt \Delta y \cdot(Acc\times\epsilon)_{prompt}} \cdot\frac{L_{int}}{BR}
@@ -1015,19 +1070,22 @@ $\Rightarrow$ selezione su $\chi^2/ndf$ delle candidate, oltre alle selezioni su
 \begin{itemize}
  \item Tutti i risultati ottenuti sono compatibili con la sezione d'urto differenziale in $\pt$ di produzione dei mesoni D$^+$ prompt all'interno dell'incertezza sperimentale
  \item I metodi del fit del parametro di impatto e della variazione dei tagli permettono di effettuare la misura della produzione di mesoni D$^+$ prompt \textcolor{blue}{senza l'utilizzo di calcoli di QCD perturbativa}\\[6mm] al momento limitati dalla statistica disponibile\\[6mm] 
- miglioramento previsto a partire dal Run II e sopratutto per il Run III $\Rightarrow$ Upgrade di ALICE
+ miglioramento previsto a partire dal Run2 e sopratutto per il Run3 $\Rightarrow$ Upgrade di ALICE
  \end{itemize}
 \end{minipage}}
 
-\put(-5,85){\captionsetup{labelformat=empty}
+\put(-5,90){\captionsetup{labelformat=empty}
 \begin{minipage}[t]{0.33\linewidth}
 \begin{itemize}
- \item Il metodo basato sulla ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e l'applicazione del topological constraint permette di ridurre il contributo di D$^+$ feed-down
+ \item Il metodo basato sulla ricostruzione dei mesoni D$^+$ con il pacchetto KFParticle e l'applicazione del topological constraint permette di ridurre significativamente il contributo di D$^+$ feed-down
  \end{itemize}
 \end{minipage}}
 
 \end{picture}
 \end{frame}
+
+%\appendix
+\backupbegin
 
 \section{Backup}
 \begin{frame}
@@ -1106,6 +1164,75 @@ $cos(\theta_P^{xy})$ >& 0.995 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 0.990 & 
 \hline
 $\sigma_{vertex}$ (cm) <& 0.030 & 0.030 & 0.035 & 0.035 & 0.035 & 0.070 & 0.070 & 0.090 & 0.030\\
 \end{tabular}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\subsection{Fit del parametro di impatto - Template}
+\begin{frame}
+\frametitle{Fit del parametro di impato - template D$^+$ prompt}
+\begin{picture}(320,250)
+
+\put(70,20){\includegraphics[scale=0.38]{ImpParPrompt_5-6.eps}}
+
+\put(32,245){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.8\linewidth}
+ \begin{block}{}
+ \setlength\abovedisplayskip{0pt}
+\[ \textcolor{verdebbello}{F^{prompt}(d_0^{xy})} = N\cdot \bigg\{\frac{f_{gaus}^{prompt}}{\sqrt{2\pi}\sigma_{prompt}}e^{-\frac{(d_0^{xy}-\mu_{prompt})^2}{2\sigma_{prompt}^2}}+\frac{1-f_{gaus}^{prompt}}{2\lambda_{prompt}}e^{-\frac{|d_0^{xy}-\mu_{prompt}|}{\lambda_{prompt}}}\bigg\}\]
+\end{block}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impato - template D$^+$ feed-down (true)}
+\begin{picture}(320,250)
+
+\put(70,20){\includegraphics[scale=0.38]{ImpParTrueFD_5-6.eps}}
+
+\put(50,245){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.7\linewidth}
+ \begin{block}{}
+ \setlength\abovedisplayskip{0pt}
+\[ \textcolor{blue}{F^{feed-down}_{true}(d_0^{xy})} = N \cdot \bigg\{\frac{f_{\lambda_1}^{FD}}{2\lambda_1^{FD}}e^{-\frac{|d_0^{xy}-\mu_{FD}|}{\lambda_1^{FD}}}+\frac{1-f_{\lambda_1^{FD}}}{2\lambda_2^{FD}}e^{-\frac{|d_0^{xy}-\mu_{FD}|}{\lambda_2^{FD}}}\bigg\}\]
+\end{block}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impato - template D$^+$ feed-down (reco)}
+\begin{picture}(320,250)
+
+\put(70,20){\includegraphics[scale=0.38]{ImpParRecoFD_5-6.eps}}
+
+\put(50,245){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.7\linewidth}
+ \begin{block}{}
+ \setlength\abovedisplayskip{0pt}
+\[ \textcolor{blue}{F^{feed-down}_{reco}(d_0^{xy})} = N \cdot \int_{d_{0,min}^{xy}}^{d_{0,max}^{xy}} \textcolor{blue}{F^{feed-down}_{true}(d_0^{xy\prime})} \textcolor{verdebbello}{F^{prompt}(d_0^{xy}-d_0^{xy\prime})}dd_0^{xy\prime}\]
+\end{block}
+\end{minipage}}
+
+\end{picture} 
+\end{frame}
+
+\begin{frame}
+\frametitle{Fit del parametro di impato - template fondo combinatoriale}
+\begin{picture}(320,250)
+
+\put(70,20){\includegraphics[scale=0.38]{ImpParBkg_5-6.eps}}
+
+\put(7,245){\captionsetup{labelformat=empty}
+\begin{minipage}[t]{0.95\linewidth}
+ \begin{block}{}
+ \setlength\abovedisplayskip{0pt}
+\[ \textcolor{magenta}{F^{bkg}(d_0^{xy})} = N \cdot \bigg\{F^{gaus+exp}_1(d_0^{xy};\text{ }f_{gaus}^{bkg},\mu_1^{bkg},\sigma_{bkg},\lambda_{bkg})+F^{gaus+exp}_2(d_0^{xy};\text{ }f_{gaus}^{bkg},\mu_2^{bkg},\sigma_{bkg},\lambda_{bkg})\bigg\}\]
+\end{block}
 \end{minipage}}
 
 \end{picture} 
@@ -1325,6 +1452,224 @@ $\Rightarrow$ il fit non è perciò eseguito su un istogramma, ma su un \textit{
 \end{minipage}}
 
 \end{picture} 
+\end{frame}
+
+\subsection{Metodo della variazione dei tagli - Metodi di Minimizzazione}
+\begin{frame}
+ \frametitle{Minimizzazione Analitica I}
+% \framesubtitle{Method developed by Andrea Rossi and Felix Reidt for D$^0$ mesons}
+\begin{picture}(320,250)
+
+\put(10,230){
+\begin{minipage}[t]{0.9\linewidth}
+\begin{center}
+Esprimendo il sistema di equazioni in notazione matriciale otteniamo\\
+\begin{equation*}
+\renewcommand\arraystretch{1.3} {
+\left(
+\begin{array}{cc}
+ \epsilon^{prompt}_1 & \epsilon^{feed-down}_1 \\
+ \epsilon^{prompt}_2 & \epsilon^{feed-down}_2 \\
+ .. & .. \\
+ \epsilon^{prompt}_n & \epsilon^{feed-down}_n \\ 
+\end{array}
+\right)} \times
+\left(
+\begin{array}{c}
+N_{prompt}\\
+N_{feed-down}
+\end{array}
+\right)- 
+\left(
+\begin{array}{c}
+Y_1\\
+Y_2\\
+..\\
+Y_n
+\end{array}
+\right) =
+\left(
+\begin{array}{c}
+0\\
+0\\
+..\\
+0
+\end{array}
+\right)
+\end{equation*}
+
+\vspace{0.4cm}
+Sostituiamo il vettore nullo con un \textcolor{red}{vettore dei residui} $\pmb{\textcolor{red}{\delta}}$\\
+\begin{equation*}
+\renewcommand\arraystretch{1.3} {
+\left(
+\begin{array}{cc}
+ \epsilon^{prompt}_1 & \epsilon^{feed-down}_1 \\
+ \epsilon^{prompt}_2 & \epsilon^{feed-down}_2 \\
+ .. & .. \\
+ \epsilon^{prompt}_n & \epsilon^{feed-down}_n \\ 
+\end{array}
+\right)} \times
+\left(
+\begin{array}{c}
+N_{prompt}\\
+N_{feed-down}
+\end{array}
+\right)- 
+\left(
+\begin{array}{c}
+Y_1\\
+Y_2\\
+..\\
+Y_n
+\end{array}
+\right) =
+\textcolor{red}{\left(
+\begin{array}{c}
+\delta_1\\
+\delta_2\\
+..\\
+\delta_n
+\end{array}
+\right)}
+\end{equation*}
+
+\vspace{0.4cm}
+Per ottenere una soluzione approssimata è quindi necessario minimizzare il vettore dei residui 
+\end{center}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+\frametitle{Minimizzazione Analitica II}
+\begin{picture}(320,250)
+
+\put(90,110){
+\begin{minipage}[t]{0.5\linewidth}
+\[
+\sigma_{\delta_i}^2 = \sigma_{Y^i}^2+\sigma_{\epsilon_{prompt}^i}^2N_{prompt}^2+\sigma_{\epsilon_{FD}^i}^2N_{FD}^2
+\]
+\end{minipage}}
+
+\put(100,230){
+\begin{minipage}[t]{0.4\linewidth}
+\begin{equation*}
+\pmb{C} =
+\left(
+\begin{array}{cccc}
+\sigma_{\delta_1}^2 & & &\\
+& \sigma_{\delta_2}^2 & & \\
+& & \ddots &  \\
+& & & \sigma_{\delta_n}^2\\
+\end{array}
+\right)
+\end{equation*}
+\end{minipage}}
+
+\put(60,60){
+\begin{minipage}[t]{0.6\linewidth}
+\begin{block}{}
+\setlength\abovedisplayskip{0pt}
+\[\pmb{N} = (\pmb{\epsilon}^T\pmb{C}^{-1}\pmb{\epsilon})^{-1}(\pmb{\epsilon}^T\pmb{C}^{-1}\pmb{Y}) \quad \pmb{Cov(N)} = (\pmb{\epsilon}^T\pmb{C}^{-1}\pmb{\epsilon})\]
+\end{block}
+\end{minipage}}
+
+\put(0,245){
+\begin{minipage}[t]{1\linewidth}
+\begin{itemize}
+\item Il chi quadro è definito come $\chi^2 = \pmb{\delta}^T\pmb{C}^{-1}\pmb{\delta}$, dove $\pmb{C}$ è la matrice delle covarianze
+
+\vspace{2.8cm}
+Le $\sigma_{\delta_i}$ sono valutate iterativamente 
+\begin{itemize}
+ \item nel primo step solo gli errori sui \textit{raw yield} sono considerati ($N_{prompt}$ e $N_{FD}$ non sono conosciuti)
+ \item dal secondo step vengono utilizzati nella propagazione dell'errore $N_{prompt}$ e $N_{FD}$ ottenuti dallo step precedente 
+\end{itemize}
+
+\vspace{1cm}
+\item Il numero di $D^+$ prompt e feed-down è infine valutato minimizzando il $\chi^2$ ($\frac{d\chi^2}{dN_i} = 0$)
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Determinazione dell'incentro I}
+ \begin{picture}(320,250)
+
+\put(0,15){\includegraphics[scale=0.32]{Lines_6-8.eps}}
+
+ \put(70,232){
+\begin{minipage}[t]{0.5\linewidth}
+\begin{block}{}
+\setlength\abovedisplayskip{0pt}
+\[N_{prompt} = -\frac{\epsilon^{feed-down}_i}{\epsilon^{prompt}_i}\cdot N_{feed-down} + \frac{Y_i}{\epsilon^{prompt}_i} \]
+\end{block}
+\end{minipage}}
+
+ \put(0,235){
+\begin{minipage}[t]{1.\linewidth}
+Ogni equazione del sistema è descritta una retta nel piano $(N_{prompt},N_{feed-down})$
+\end{minipage}}
+
+\put(0,175){
+\begin{minipage}[t]{1.\linewidth}
+Idealmente c'è soltanto un punto di intersezione tra le rette, ma l'errore sull'estrazione del segnale e sulla determinazione dell'efficienza fa sì che ci siano $n$ intersezioni
+\end{minipage}}
+
+\put(85,68){
+\begin{tikzpicture}
+    \draw[draw=black,solid,line width=0.02cm] (0,0) ellipse (0.7cm and 0.4cm);
+\end{tikzpicture}}
+
+\put(215,65){\includegraphics[scale=0.28]{Incentre_def.png}}
+
+\put(125,80){
+\begin{tikzpicture}[->]
+\draw[draw=black,solid,line width=0.2mm] (1, 1) -- + (3.7, 0.6);
+\end{tikzpicture}}
+
+\put(210,50){
+ \begin{minipage}[t]{0.4\linewidth}
+ \centering
+ \textcolor{blue}{INCENTRO (I)}: \\punto di intersezione delle bisettrici
+ \end{minipage}}
+
+\end{picture}
+\end{frame}
+
+\begin{frame}
+ \frametitle{Errore sulla determinazione dell'incentro}
+ \begin{picture}(320,250)
+
+ \put(200,135){\reflectbox{\includegraphics[scale=0.26, angle=180]{Nfeeddown_disp_6-8.eps}}}
+ \put(120,122){\centering\includegraphics[scale=0.21, angle=90]{Nprompt_disp_6-8.eps}}
+ \put(200,125){\centering\includegraphics[scale = 0.26]{LinesDisp_6-8.eps}}
+ 
+\put(10,225){
+\begin{minipage}[t]{0.25\linewidth}
+L'errore è stato \\valutato con una \\\textcolor{blue}{simulazione MC}: 
+\end{minipage}}
+
+\put(0,195){
+\begin{minipage}[t]{0.3\linewidth}
+\begin{itemize}
+ \item i parametri vengono generati da una distribuzione gaussiana con valor medio il valore del parametro considerato e deviazione standard il suo errore
+\end{itemize}
+\end{minipage}}
+
+\put(0,100){
+\begin{minipage}[t]{0.5\linewidth}
+\begin{itemize}
+ \item per ogni generazione random di tutti i parametri viene riempito un istogramma bidimensionale con le coordinate dell'incentro calcolato
+\item l'errore su $N_{prompt}$ ed $N_{feed-down}$ è valutato come l'RMS delle distribuzioni proiettate sui rispettivi assi 
+\end{itemize}
+\end{minipage}}
+
+\end{picture}
 \end{frame}
 
 \subsection{Metodo della variazione dei tagli - Set di tagli}
@@ -1806,5 +2151,6 @@ A basso e ad alto momento trasverso la significatività statistica è più bassa
 
 \end{picture} 
 \end{frame}
+\backupend
 
 \end{document}
