@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2015.10.24)  18 JUL 2016 12:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.24)  20 SEP 2016 09:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MasterThesis_Grosa.tex
 (./MasterThesis_Grosa.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (./toptesi.cls
 Document Class: toptesi 2013/09/01 v.5.73 Class for typesetting university thes
 es
@@ -31,13 +31,13 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2014/09/25 3.9l The Babel package
+Package: babel 2016/02/24 3.9q The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2014/09/25 3.9l Babel common definitions
+File: babel.def 2016/02/24 3.9q Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
@@ -65,15 +65,15 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -199,10 +199,10 @@ Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count95
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks15
 \ex@=\dimen109
 )
@@ -249,31 +249,31 @@ Package: hepparticles 2014/12/01 HEP particle typesetting (v2.0)
 Package: subdepth 2007/09/02 v0.1 Unify subscript depths
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+Package: amsmath 2016/03/03 v2.15a AMS math features
 \@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
+Package: amstext 2000/06/29 v2.01 AMS text
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count97
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count98
 \leftroot@=\count99
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count100
 \DOTSCASE@=\count101
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
 \big@size=\dimen111
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \macc@depth=\count102
 \c@MaxMatrixCols=\count103
 \dotsspace@=\muskip10
@@ -294,8 +294,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip47
 \multlinetaggap=\skip48
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathup' in version `bold'
 (Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 110.
@@ -482,7 +482,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \bigstrutjot=\dimen132
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -855,22 +855,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--146
 
 File: 2gluoni1quark.1 Graphic file (type mps)
 [MP to PDF] (./2gluoni1quark.1) (./2gluoni1quark.t1)
-runsystem(mpost 2gluoni1quark)...executed safely (allowed).
-
 \openout3 = `3gluoni.mp'.
 
 File: 3gluoni.1 Graphic file (type mps)
  [MP to PDF] (./3gluoni.1)
-(./3gluoni.t1)
-runsystem(mpost 3gluoni)...executed safely (allowed).
-
- [2]
+(./3gluoni.t1) [2]
 \openout3 = `4gluoni.mp'.
 
 File: 4gluoni.1 Graphic file (type mps)
  [MP to PDF] (./4gluoni.1) (./4gluoni.t1)
-runsystem(mpost 4gluoni)...executed safely (allowed).
-
 \openout3 = `selfenergyquark.mp'.
 
 File: selfenergyquark.1 Graphic file (type mps)
@@ -878,48 +871,36 @@ File: selfenergyquark.1 Graphic file (type mps)
 (./selfenergyquark.1)
 feynmf: Label file selfenergyquark.t1 not found:
 feynmf: Process selfenergyquark.mp with MetaPost and then reprocess this file.
-runsystem(mpost selfenergyquark)...executed safely (allowed).
-
 \openout3 = `vaccumquark.mp'.
 
 File: vaccumquark.1 Graphic file (type mps)
 [MP to PDF] (./vaccumquark.1)
 feynmf: Label file vaccumquark.t1 not found:
 feynmf: Process vaccumquark.mp with MetaPost and then reprocess this file.
-runsystem(mpost vaccumquark)...executed safely (allowed).
-
 \openout3 = `vertquark.mp'.
 
 File: vertquark.1 Graphic file (type mps)
 [MP to PDF] (./vertquark.1)
 feynmf: Label file vertquark.t1 not found:
 feynmf: Process vertquark.mp with MetaPost and then reprocess this file.
-runsystem(mpost vertquark)...executed safely (allowed).
-
 \openout3 = `selfenergygluon.mp'.
 
 File: selfenergygluon.1 Graphic file (type mps)
 [MP to PDF] (./selfenergygluon.1)
 feynmf: Label file selfenergygluon.t1 not found:
 feynmf: Process selfenergygluon.mp with MetaPost and then reprocess this file.
-runsystem(mpost selfenergygluon)...executed safely (allowed).
-
 \openout3 = `vaccumgluon.mp'.
 
 File: vaccumgluon.1 Graphic file (type mps)
 [MP to PDF] (./vaccumgluon.1)
 feynmf: Label file vaccumgluon.t1 not found:
 feynmf: Process vaccumgluon.mp with MetaPost and then reprocess this file.
-runsystem(mpost vaccumgluon)...executed safely (allowed).
-
 \openout3 = `vertgluon.mp'.
 
 File: vertgluon.1 Graphic file (type mps)
 [MP to PDF] (./vertgluon.1)
 feynmf: Label file vertgluon.t1 not found:
 feynmf: Process vertgluon.mp with MetaPost and then reprocess this file.
-runsystem(mpost vertgluon)...executed safely (allowed).
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 270--284
 
@@ -1095,11 +1076,11 @@ Underfull \vbox (badness 2591) has occurred while \output is active []
 
 ]
 Package epstopdf Info: Source file: <2012-Jun-06-DplusCrossSection_pp7TeV.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28985 bytes
 (epstopdf)             Output file: <2012-Jun-06-DplusCrossSection_pp7TeV-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 17468 bytes
 (epstopdf)             Command: <repstopdf --outfile=2012-Jun-06-DplusCrossSect
 ion_pp7TeV-eps-converted-to.pdf 2012-Jun-06-DplusCrossSection_pp7TeV.eps>
@@ -1135,10 +1116,10 @@ Package pdftex.def Info: PDF_nuclear_2.png used on input line 763.
 (pdftex.def)             Requested size: 308.27266pt x 130.06631pt.
  [28] [29 <./PDF_nuclear_2.png (PNG copy)>]
 Package epstopdf Info: Source file: <pPbWithModels.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 14430 bytes
 (epstopdf)             Output file: <pPbWithModels-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 13060 bytes
 (epstopdf)             Command: <repstopdf --outfile=pPbWithModels-eps-converte
 d-to.pdf pPbWithModels.eps>
@@ -1314,10 +1295,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1026.
 
 Package epstopdf Info: Source file: <fiducialacc.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 2423823 bytes
 (epstopdf)             Output file: <fiducialacc-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9295387 bytes
 (epstopdf)             Command: <repstopdf --outfile=fiducialacc-eps-converted-
 to.pdf fiducialacc.eps>
@@ -1332,10 +1313,10 @@ Package pdftex.def Info: fiducialacc-eps-converted-to.pdf used on input line 10
 (pdftex.def)             Requested size: 227.64647pt x 165.81656pt.
  [51] [52 <./fiducialacc-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <DecLCompPt.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10017 bytes
 (epstopdf)             Output file: <DecLCompPt-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9557 bytes
 (epstopdf)             Command: <repstopdf --outfile=DecLCompPt-eps-converted-t
 o.pdf DecLCompPt.eps>
@@ -1349,10 +1330,10 @@ Package pdftex.def Info: DecLCompPt-eps-converted-to.pdf used on input line 105
 7.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <NormDecLComp_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9059 bytes
 (epstopdf)             Output file: <NormDecLComp_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10971 bytes
 (epstopdf)             Command: <repstopdf --outfile=NormDecLComp_4-5-eps-conve
 rted-to.pdf NormDecLComp_4-5.eps>
@@ -1367,10 +1348,10 @@ Package pdftex.def Info: NormDecLComp_4-5-eps-converted-to.pdf used on input li
 ne 1059.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <CospComp_8-12.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7834 bytes
 (epstopdf)             Output file: <CospComp_8-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11489 bytes
 (epstopdf)             Command: <repstopdf --outfile=CospComp_8-12-eps-converte
 d-to.pdf CospComp_8-12.eps>
@@ -1385,10 +1366,10 @@ Package pdftex.def Info: CospComp_8-12-eps-converted-to.pdf used on input line
 1067.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <CospXYCompPt.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9563 bytes
 (epstopdf)             Output file: <CospXYCompPt-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:19
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10072 bytes
 (epstopdf)             Command: <repstopdf --outfile=CospXYCompPt-eps-converted
 -to.pdf CospXYCompPt.eps>
@@ -1412,10 +1393,10 @@ Underfull \vbox (badness 2080) has occurred while \output is active []
  [54 <./CospComp_8-12-eps-converted-to.pdf> <./CospXYCompPt-eps-converted-to.pd
 f>]
 Package epstopdf Info: Source file: <SigVtxComp_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 7780 bytes
 (epstopdf)             Output file: <SigVtxComp_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11018 bytes
 (epstopdf)             Command: <repstopdf --outfile=SigVtxComp_6-8-eps-convert
 ed-to.pdf SigVtxComp_6-8.eps>
@@ -1430,10 +1411,10 @@ Package pdftex.def Info: SigVtxComp_6-8-eps-converted-to.pdf used on input line
  1080.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <KaonPtComp_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7862 bytes
 (epstopdf)             Output file: <KaonPtComp_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11803 bytes
 (epstopdf)             Command: <repstopdf --outfile=KaonPtComp_5-6-eps-convert
 ed-to.pdf KaonPtComp_5-6.eps>
@@ -1458,10 +1439,10 @@ Overfull \hbox (7.14409pt too wide) in paragraph at lines 1100--1113
 
 [56] [57]
 Package epstopdf Info: Source file: <MassFit3Bin.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 38910 bytes
 (epstopdf)             Output file: <MassFit3Bin-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 26605 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFit3Bin-eps-converted-
 to.pdf MassFit3Bin.eps>
@@ -1506,10 +1487,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1183.
 
 Package epstopdf Info: Source file: <Fprompt_fc_Nb_comp.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11947 bytes
 (epstopdf)             Output file: <Fprompt_fc_Nb_comp-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10471 bytes
 (epstopdf)             Command: <repstopdf --outfile=Fprompt_fc_Nb_comp-eps-con
 verted-to.pdf Fprompt_fc_Nb_comp.eps>
@@ -1532,10 +1513,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [60 <./Fprompt_fc_Nb_comp-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Eff_Dplus_PaperCuts.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8659 bytes
 (epstopdf)             Output file: <Eff_Dplus_PaperCuts-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9525 bytes
 (epstopdf)             Command: <repstopdf --outfile=Eff_Dplus_PaperCuts-eps-co
 nverted-to.pdf Eff_Dplus_PaperCuts.eps>
@@ -1550,10 +1531,10 @@ Package pdftex.def Info: Eff_Dplus_PaperCuts-eps-converted-to.pdf used on input
  line 1213.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <Acc_Dplus.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8503 bytes
 (epstopdf)             Output file: <Acc_Dplus-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7877 bytes
 (epstopdf)             Command: <repstopdf --outfile=Acc_Dplus-eps-converted-to
 .pdf Acc_Dplus.eps>
@@ -1573,10 +1554,10 @@ Underfull \vbox (badness 4036) has occurred while \output is active []
  [62 <./Eff_Dplus_PaperCuts-eps-converted-to.pdf> <./Acc_Dplus-eps-converted-to
 .pdf>]
 Package epstopdf Info: Source file: <Dplus-dsigmadpt-pPb.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 18354 bytes
 (epstopdf)             Output file: <Dplus-dsigmadpt-pPb-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13834 bytes
 (epstopdf)             Command: <repstopdf --outfile=Dplus-dsigmadpt-pPb-eps-co
 nverted-to.pdf Dplus-dsigmadpt-pPb.eps>
@@ -1635,10 +1616,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1268.
 
 Package epstopdf Info: Source file: <ImpParPrompt_2-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19438 bytes
 (epstopdf)             Output file: <ImpParPrompt_2-3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15781 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_2-3-eps-conve
 rted-to.pdf ImpParPrompt_2-3.eps>
@@ -1652,10 +1633,10 @@ Package pdftex.def Info: ImpParPrompt_2-3-eps-converted-to.pdf used on input li
 ne 1272.
 (pdftex.def)             Requested size: 176.4273pt x 143.44443pt.
 Package epstopdf Info: Source file: <ImpParPrompt_8-12.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19483 bytes
 (epstopdf)             Output file: <ImpParPrompt_8-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15542 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_8-12-eps-conv
 erted-to.pdf ImpParPrompt_8-12.eps>
@@ -1684,10 +1665,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1289.
 
 Package epstopdf Info: Source file: <ImpParTrueFD_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28557 bytes
 (epstopdf)             Output file: <ImpParTrueFD_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21304 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_5-6-eps-conve
 rted-to.pdf ImpParTrueFD_5-6.eps>
@@ -1701,10 +1682,10 @@ Package pdftex.def Info: ImpParTrueFD_5-6-eps-converted-to.pdf used on input li
 ne 1292.
 (pdftex.def)             Requested size: 176.4273pt x 143.44443pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28619 bytes
 (epstopdf)             Output file: <ImpParTrueFD_12-16-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21447 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_12-16-eps-con
 verted-to.pdf ImpParTrueFD_12-16.eps>
@@ -1721,10 +1702,10 @@ line 1294.
  [68 <./ImpParTrueFD_5-6-eps-converted-to.pdf> <./ImpParTrueFD_12-16-eps-conver
 ted-to.pdf>]
 Package epstopdf Info: Source file: <ImpParRecoFD_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23211 bytes
 (epstopdf)             Output file: <ImpParRecoFD_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19639 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_5-6-eps-conve
 rted-to.pdf ImpParRecoFD_5-6.eps>
@@ -1739,10 +1720,10 @@ Package pdftex.def Info: ImpParRecoFD_5-6-eps-converted-to.pdf used on input li
 ne 1307.
 (pdftex.def)             Requested size: 176.4273pt x 143.44443pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 22974 bytes
 (epstopdf)             Output file: <ImpParRecoFD_12-16-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19423 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_12-16-eps-con
 verted-to.pdf ImpParRecoFD_12-16.eps>
@@ -1764,11 +1745,11 @@ File: Mass_4-5.pdf Graphic file (type pdf)
 Package pdftex.def Info: Mass_4-5.pdf used on input line 1323.
 (pdftex.def)             Requested size: 182.12411pt x 141.00967pt.
 Package epstopdf Info: Source file: <Sidebands_Pt_4-5_NoFit.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 44254 bytes
 (epstopdf)             Output file: <Sidebands_Pt_4-5_NoFit-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 36157 bytes
 (epstopdf)             Command: <repstopdf --outfile=Sidebands_Pt_4-5_NoFit-eps
 -converted-to.pdf Sidebands_Pt_4-5_NoFit.eps>
@@ -1783,10 +1764,10 @@ Package pdftex.def Info: Sidebands_Pt_4-5_NoFit-eps-converted-to.pdf used on in
 put line 1325.
 (pdftex.def)             Requested size: 182.12411pt x 141.00967pt.
 Package epstopdf Info: Source file: <ImpParDistr.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 34832 bytes
 (epstopdf)             Output file: <ImpParDistr-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28368 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParDistr-eps-converted-
 to.pdf ImpParDistr.eps>
@@ -1803,10 +1784,10 @@ Package pdftex.def Info: ImpParDistr-eps-converted-to.pdf used on input line 13
  [70 <./Mass_4-5.pdf, page is rotated 90 degrees> <./Sidebands_Pt_4-5_NoFit-eps
 -converted-to.pdf>]
 Package epstopdf Info: Source file: <ImpParBkg_3-4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32553 bytes
 (epstopdf)             Output file: <ImpParBkg_3-4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23119 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_3-4-eps-converte
 d-to.pdf ImpParBkg_3-4.eps>
@@ -1821,10 +1802,10 @@ Package pdftex.def Info: ImpParBkg_3-4-eps-converted-to.pdf used on input line
 1354.
 (pdftex.def)             Requested size: 176.4273pt x 143.44443pt.
 Package epstopdf Info: Source file: <ImpParBkg_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32499 bytes
 (epstopdf)             Output file: <ImpParBkg_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23085 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_6-8-eps-converte
 d-to.pdf ImpParBkg_6-8.eps>
@@ -1850,10 +1831,10 @@ File: Mass_4-5_fit.pdf Graphic file (type pdf)
 Package pdftex.def Info: Mass_4-5_fit.pdf used on input line 1389.
 (pdftex.def)             Requested size: 182.12411pt x 141.00967pt.
 Package epstopdf Info: Source file: <ImpParData_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15819 bytes
 (epstopdf)             Output file: <ImpParData_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15808 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParData_4-5-eps-convert
 ed-to.pdf ImpParData_4-5.eps>
@@ -1875,11 +1856,11 @@ t-parameter
  []
 
 Package epstopdf Info: Source file: <FitUnbinned_2-3_bkg_plot.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 31587 bytes
 (epstopdf)             Output file: <FitUnbinned_2-3_bkg_plot-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 27580 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_2-3_bkg_plot-e
 ps-converted-to.pdf FitUnbinned_2-3_bkg_plot.eps>
@@ -1894,11 +1875,11 @@ Package pdftex.def Info: FitUnbinned_2-3_bkg_plot-eps-converted-to.pdf used on
 input line 1448.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <FitUnbinned_3-4_bkg_plot.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 33525 bytes
 (epstopdf)             Output file: <FitUnbinned_3-4_bkg_plot-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28593 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_3-4_bkg_plot-e
 ps-converted-to.pdf FitUnbinned_3-4_bkg_plot.eps>
@@ -1913,11 +1894,11 @@ Package pdftex.def Info: FitUnbinned_3-4_bkg_plot-eps-converted-to.pdf used on
 input line 1450.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <FitUnbinned_4-5_bkg_plot.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 34308 bytes
 (epstopdf)             Output file: <FitUnbinned_4-5_bkg_plot-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 29248 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_4-5_bkg_plot-e
 ps-converted-to.pdf FitUnbinned_4-5_bkg_plot.eps>
@@ -1932,11 +1913,11 @@ Package pdftex.def Info: FitUnbinned_4-5_bkg_plot-eps-converted-to.pdf used on
 input line 1452.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <FitUnbinned_5-6_bkg_plot.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32315 bytes
 (epstopdf)             Output file: <FitUnbinned_5-6_bkg_plot-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28237 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_5-6_bkg_plot-e
 ps-converted-to.pdf FitUnbinned_5-6_bkg_plot.eps>
@@ -1951,11 +1932,11 @@ Package pdftex.def Info: FitUnbinned_5-6_bkg_plot-eps-converted-to.pdf used on
 input line 1454.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <FitUnbinned_6-8_bkg_plot.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 34386 bytes
 (epstopdf)             Output file: <FitUnbinned_6-8_bkg_plot-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 29179 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_6-8_bkg_plot-e
 ps-converted-to.pdf FitUnbinned_6-8_bkg_plot.eps>
@@ -1970,11 +1951,11 @@ Package pdftex.def Info: FitUnbinned_6-8_bkg_plot-eps-converted-to.pdf used on
 input line 1456.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <FitUnbinned_8-12_bkg_plot.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 33305 bytes
 (epstopdf)             Output file: <FitUnbinned_8-12_bkg_plot-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28603 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_8-12_bkg_plot-
 eps-converted-to.pdf FitUnbinned_8-12_bkg_plot.eps>
@@ -1989,11 +1970,11 @@ Package pdftex.def Info: FitUnbinned_8-12_bkg_plot-eps-converted-to.pdf used on
  input line 1458.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <FitUnbinned_12-16_bkg_plot.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 27769 bytes
 (epstopdf)             Output file: <FitUnbinned_12-16_bkg_plot-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 25254 bytes
 (epstopdf)             Command: <repstopdf --outfile=FitUnbinned_12-16_bkg_plot
 -eps-converted-to.pdf FitUnbinned_12-16_bkg_plot.eps>
@@ -2020,10 +2001,10 @@ kg_plot-eps-converted-to.pdf> <./FitUnbinned_4-5_bkg_plot-eps-converted-to.pdf>
 eps-converted-to.pdf> <./FitUnbinned_8-12_bkg_plot-eps-converted-to.pdf> <./Fit
 Unbinned_12-16_bkg_plot-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <sigmaprompt.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10094 bytes
 (epstopdf)             Output file: <sigmaprompt-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10342 bytes
 (epstopdf)             Command: <repstopdf --outfile=sigmaprompt-eps-converted-
 to.pdf sigmaprompt.eps>
@@ -2038,11 +2019,11 @@ Package pdftex.def Info: sigmaprompt-eps-converted-to.pdf used on input line 14
 70.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <promptfraction_syst_sigma_onlyratio.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 8217 bytes
 (epstopdf)             Output file: <promptfraction_syst_sigma_onlyratio-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 8846 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_sigma_
 onlyratio-eps-converted-to.pdf promptfraction_syst_sigma_onlyratio.eps>
@@ -2063,11 +2044,11 @@ df used on input line 1472.
  <./sigmaprompt-eps-converted-to.pdf> <./promptfraction_syst_sigma_onlyratio-ep
 s-converted-to.pdf>]
 Package epstopdf Info: Source file: <promptfraction_syst_range_onlyratio.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 14168 bytes
 (epstopdf)             Output file: <promptfraction_syst_range_onlyratio-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 12567 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_range_
 onlyratio-eps-converted-to.pdf promptfraction_syst_range_onlyratio.eps>
@@ -2084,11 +2065,11 @@ df used on input line 1481.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <promptfraction_syst_range_onlyratio_SBfix.
 eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 14348 bytes
 (epstopdf)             Output file: <promptfraction_syst_range_onlyratio_SBfix-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 12555 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_range_
 onlyratio_SBfix-eps-converted-to.pdf promptfraction_syst_range_onlyratio_SBfix.
@@ -2108,10 +2089,10 @@ d-to.pdf used on input line 1483.
  [78 <./promptfraction_syst_range_onlyratio-eps-converted-to.pdf> <./promptfrac
 tion_syst_range_onlyratio_SBfix-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <BkgFitFuncComp.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 30296 bytes
 (epstopdf)             Output file: <BkgFitFuncComp-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23480 bytes
 (epstopdf)             Command: <repstopdf --outfile=BkgFitFuncComp-eps-convert
 ed-to.pdf BkgFitFuncComp.eps>
@@ -2126,11 +2107,11 @@ Package pdftex.def Info: BkgFitFuncComp-eps-converted-to.pdf used on input line
  1492.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <promptfraction_syst_prefit_onlyratio.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 8076 bytes
 (epstopdf)             Output file: <promptfraction_syst_prefit_onlyratio-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 8409 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_prefit
 _onlyratio-eps-converted-to.pdf promptfraction_syst_prefit_onlyratio.eps>
@@ -2154,11 +2135,11 @@ File: Mass_4-5_SBranges.pdf Graphic file (type pdf)
 Package pdftex.def Info: Mass_4-5_SBranges.pdf used on input line 1508.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <promptfraction_syst_SBtot_ratioonly.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 12389 bytes
 (epstopdf)             Output file: <promptfraction_syst_SBtot_ratioonly-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11098 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_SBtot_
 ratioonly-eps-converted-to.pdf promptfraction_syst_SBtot_ratioonly.eps>
@@ -2197,11 +2178,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1520.
 
 Package epstopdf Info: Source file: <DplusPrompt_PtSpectrum.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 54003 bytes
 (epstopdf)             Output file: <DplusPrompt_PtSpectrum-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 33964 bytes
 (epstopdf)             Command: <repstopdf --outfile=DplusPrompt_PtSpectrum-eps
 -converted-to.pdf DplusPrompt_PtSpectrum.eps>
@@ -2216,10 +2197,10 @@ Package pdftex.def Info: DplusPrompt_PtSpectrum-eps-converted-to.pdf used on in
 put line 1525.
 (pdftex.def)             Requested size: 170.73918pt x 187.00006pt.
 Package epstopdf Info: Source file: <Bmesons_PtSpetrum.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 52858 bytes
 (epstopdf)             Output file: <Bmesons_PtSpetrum-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 34489 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bmesons_PtSpetrum-eps-conv
 erted-to.pdf Bmesons_PtSpetrum.eps>
@@ -2234,11 +2215,11 @@ Package pdftex.def Info: Bmesons_PtSpetrum-eps-converted-to.pdf used on input l
 ine 1527.
 (pdftex.def)             Requested size: 170.73918pt x 187.00006pt.
 Package epstopdf Info: Source file: <ImpParPrompt_8-12_PtRewComp.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 25417 bytes
 (epstopdf)             Output file: <ImpParPrompt_8-12_PtRewComp-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:20
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21843 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_8-12_PtRewCom
 p-eps-converted-to.pdf ImpParPrompt_8-12_PtRewComp.eps>
@@ -2253,11 +2234,11 @@ Package pdftex.def Info: ImpParPrompt_8-12_PtRewComp-eps-converted-to.pdf used
 on input line 1534.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_12-16_PtRewComp.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 35014 bytes
 (epstopdf)             Output file: <ImpParTrueFD_12-16_PtRewComp-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 30646 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_12-16_PtRewCo
 mp-eps-converted-to.pdf ImpParTrueFD_12-16_PtRewComp.eps>
@@ -2282,11 +2263,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1542.
 
 Package epstopdf Info: Source file: <promptfraction_syst_SoverT_onlyratio.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9832 bytes
 (epstopdf)             Output file: <promptfraction_syst_SoverT_onlyratio-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9636 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_SoverT
 _onlyratio-eps-converted-to.pdf promptfraction_syst_SoverT_onlyratio.eps>
@@ -2304,11 +2285,11 @@ pdf used on input line 1545.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <promptcrosssection_syst_SoverT_ratioonly.e
 ps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9749 bytes
 (epstopdf)             Output file: <promptcrosssection_syst_SoverT_ratioonly-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9525 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptcrosssection_syst_So
 verT_ratioonly-eps-converted-to.pdf promptcrosssection_syst_SoverT_ratioonly.ep
@@ -2345,11 +2326,11 @@ Package pdftex.def Info: Mass_4-5_ranges.pdf used on input line 1561.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <promptfraction_syst_MassRange_onlyratio.ep
 s>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10225 bytes
 (epstopdf)             Output file: <promptfraction_syst_MassRange_onlyratio-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10254 bytes
 (epstopdf)             Command: <repstopdf --outfile=promptfraction_syst_MassRa
 nge_onlyratio-eps-converted-to.pdf promptfraction_syst_MassRange_onlyratio.eps>
@@ -2369,10 +2350,10 @@ to.pdf used on input line 1563.
  [84 <./Mass_4-5_ranges.pdf, page is rotated 90 degrees> <./promptfraction_syst
 _MassRange_onlyratio-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Bias_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13950 bytes
 (epstopdf)             Output file: <Bias_bkg_freesigma-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11385 bytes
 (epstopdf)             Command: <repstopdf --outfile=Bias_bkg_freesigma-eps-con
 verted-to.pdf Bias_bkg_freesigma.eps>
@@ -2387,11 +2368,11 @@ Package pdftex.def Info: Bias_bkg_freesigma-eps-converted-to.pdf used on input
 line 1572.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <BiasRMS_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14826 bytes
 (epstopdf)             Output file: <BiasRMS_bkg_freesigma-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11611 bytes
 (epstopdf)             Command: <repstopdf --outfile=BiasRMS_bkg_freesigma-eps-
 converted-to.pdf BiasRMS_bkg_freesigma.eps>
@@ -2407,10 +2388,10 @@ ut line 1574.
  [85 <./Bias_bkg_freesigma-eps-converted-to.pdf> <./BiasRMS_bkg_freesigma-eps-c
 onverted-to.pdf>]
 Package epstopdf Info: Source file: <Pulls_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 14832 bytes
 (epstopdf)             Output file: <Pulls_bkg_freesigma-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11601 bytes
 (epstopdf)             Command: <repstopdf --outfile=Pulls_bkg_freesigma-eps-co
 nverted-to.pdf Pulls_bkg_freesigma.eps>
@@ -2425,10 +2406,10 @@ Package pdftex.def Info: Pulls_bkg_freesigma-eps-converted-to.pdf used on input
  line 1594.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <Sigma_bkg_freesigma.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 13404 bytes
 (epstopdf)             Output file: <Sigma_bkg_freesigma-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11488 bytes
 (epstopdf)             Command: <repstopdf --outfile=Sigma_bkg_freesigma-eps-co
 nverted-to.pdf Sigma_bkg_freesigma.eps>
@@ -2448,10 +2429,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [87]
 Package epstopdf Info: Source file: <prompt_fraction.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9664 bytes
 (epstopdf)             Output file: <prompt_fraction-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10702 bytes
 (epstopdf)             Command: <repstopdf --outfile=prompt_fraction-eps-conver
 ted-to.pdf prompt_fraction.eps>
@@ -2466,10 +2447,10 @@ Package pdftex.def Info: prompt_fraction-eps-converted-to.pdf used on input lin
 e 1636.
 (pdftex.def)             Requested size: 313.0204pt x 224.69012pt.
 Package epstopdf Info: Source file: <ImpParFitAndRes.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 93481 bytes
 (epstopdf)             Output file: <ImpParFitAndRes-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 49142 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParFitAndRes-eps-conver
 ted-to.pdf ImpParFitAndRes.eps>
@@ -2536,10 +2517,10 @@ Underfull \vbox (badness 5548) has occurred while \output is active []
 
  [94 <./cutvar_sketch.pdf>] [95] [96]
 Package epstopdf Info: Source file: <Lines_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 17082 bytes
 (epstopdf)             Output file: <Lines_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:21
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16735 bytes
 (epstopdf)             Command: <repstopdf --outfile=Lines_6-8-eps-converted-to
 .pdf Lines_6-8.eps>
@@ -2555,10 +2536,10 @@ Package pdftex.def Info: Lines_6-8-eps-converted-to.pdf used on input line 1837
 (pdftex.def)             Requested size: 199.19717pt x 154.22849pt.
  [97 <./Lines_6-8-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <LinesDisp_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 115449 bytes
 (epstopdf)             Output file: <LinesDisp_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:21
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 416709 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_6-8-eps-converte
 d-to.pdf LinesDisp_6-8.eps>
@@ -2573,10 +2554,10 @@ Package pdftex.def Info: LinesDisp_6-8-eps-converted-to.pdf used on input line
 1850.
 (pdftex.def)             Requested size: 176.4273pt x 136.59892pt.
 Package epstopdf Info: Source file: <Nprompt_disp_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9875 bytes
 (epstopdf)             Output file: <Nprompt_disp_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9805 bytes
 (epstopdf)             Command: <repstopdf --outfile=Nprompt_disp_6-8-eps-conve
 rted-to.pdf Nprompt_disp_6-8.eps>
@@ -2593,11 +2574,11 @@ ne 1852.
  [98 <./LinesDisp_6-8-eps-converted-to.pdf> <./Nprompt_disp_6-8-eps-converted-t
 o.pdf>] [99]
 Package epstopdf Info: Source file: <CompPromptFD_DLXY_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8851 bytes
 (epstopdf)             Output file: <CompPromptFD_DLXY_6-8-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-07-07 10:06:22
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11494 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_DLXY_6-8-eps-
 converted-to.pdf CompPromptFD_DLXY_6-8.eps>
@@ -2611,11 +2592,11 @@ Package pdftex.def Info: CompPromptFD_DLXY_6-8-eps-converted-to.pdf used on inp
 ut line 1871.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <CompPromptFD_NDLXY_2-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7968 bytes
 (epstopdf)             Output file: <CompPromptFD_NDLXY_2-3-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-07-07 10:06:22
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10707 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_NDLXY_2-3-eps
 -converted-to.pdf CompPromptFD_NDLXY_2-3.eps>
@@ -2630,11 +2611,11 @@ Package pdftex.def Info: CompPromptFD_NDLXY_2-3-eps-converted-to.pdf used on in
 put line 1873.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <CompPromptFD_CospXY_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8173 bytes
 (epstopdf)             Output file: <CompPromptFD_CospXY_12-16-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2016-07-07 10:06:22
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11119 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_CospXY_12-16-
 eps-converted-to.pdf CompPromptFD_CospXY_12-16.eps>
@@ -2649,11 +2630,11 @@ Package pdftex.def Info: CompPromptFD_CospXY_12-16-eps-converted-to.pdf used on
  input line 1882.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <CompPromptFD_d0d0exp_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8429 bytes
 (epstopdf)             Output file: <CompPromptFD_d0d0exp_5-6-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10520 bytes
 (epstopdf)             Command: <repstopdf --outfile=CompPromptFD_d0d0exp_5-6-e
 ps-converted-to.pdf CompPromptFD_d0d0exp_5-6.eps>
@@ -2688,10 +2669,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1944--1947
 
 [102 <./topomatic.pdf>] [103]
 Package epstopdf Info: Source file: <Eff3Sets.eps>
-(epstopdf)                    date: 2016-07-07 09:19:44
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 18989 bytes
 (epstopdf)             Output file: <Eff3Sets-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 12782 bytes
 (epstopdf)             Command: <repstopdf --outfile=Eff3Sets-eps-converted-to.
 pdf Eff3Sets.eps>
@@ -2712,10 +2693,10 @@ Overfull \hbox (12.2359pt too wide) in paragraph at lines 1951--1952
 
 [104 <./Eff3Sets-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Mass3Set_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 36160 bytes
 (epstopdf)             Output file: <Mass3Set_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 26000 bytes
 (epstopdf)             Command: <repstopdf --outfile=Mass3Set_4-5-eps-converted
 -to.pdf Mass3Set_4-5.eps>
@@ -2735,10 +2716,10 @@ Overfull \hbox (12.2359pt too wide) in paragraph at lines 1963--1964
  []
 
 Package epstopdf Info: Source file: <MassSigmaSet2.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8537 bytes
 (epstopdf)             Output file: <MassSigmaSet2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8247 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassSigmaSet2-eps-converte
 d-to.pdf MassSigmaSet2.eps>
@@ -2752,10 +2733,10 @@ Package pdftex.def Info: MassSigmaSet2-eps-converted-to.pdf used on input line
 1971.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <MassMeanSet2.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8230 bytes
 (epstopdf)             Output file: <MassMeanSet2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8146 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassMeanSet2-eps-converted
 -to.pdf MassMeanSet2.eps>
@@ -2776,11 +2757,11 @@ Underfull \vbox (badness 1990) has occurred while \output is active []
 d-to.pdf> <./MassMeanSet2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <CutVarSet1_Prompt_Min_syst_cutsets_ratioon
 ly.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14383 bytes
 (epstopdf)             Output file: <CutVarSet1_Prompt_Min_syst_cutsets_ratioon
 ly-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:23
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 12242 bytes
 (epstopdf)             Command: <repstopdf --outfile=CutVarSet1_Prompt_Min_syst
 _cutsets_ratioonly-eps-converted-to.pdf CutVarSet1_Prompt_Min_syst_cutsets_rati
@@ -2798,10 +2779,10 @@ Package pdftex.def Info: CutVarSet1_Prompt_Min_syst_cutsets_ratioonly-eps-conve
 rted-to.pdf used on input line 2022.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <DispPromptMin3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10352 bytes
 (epstopdf)             Output file: <DispPromptMin3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 12992 bytes
 (epstopdf)             Command: <repstopdf --outfile=DispPromptMin3-eps-convert
 ed-to.pdf DispPromptMin3.eps>
@@ -2819,11 +2800,11 @@ Package pdftex.def Info: DispPromptMin3-eps-converted-to.pdf used on input line
 DispPromptMin3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <CutVarSet3_FD_Inc_syst_cutsets_ratioonly.e
 ps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 12673 bytes
 (epstopdf)             Output file: <CutVarSet3_FD_Inc_syst_cutsets_ratioonly-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11386 bytes
 (epstopdf)             Command: <repstopdf --outfile=CutVarSet3_FD_Inc_syst_cut
 sets_ratioonly-eps-converted-to.pdf CutVarSet3_FD_Inc_syst_cutsets_ratioonly.ep
@@ -2841,10 +2822,10 @@ Package pdftex.def Info: CutVarSet3_FD_Inc_syst_cutsets_ratioonly-eps-converted
 -to.pdf used on input line 2083.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <DispFDInc4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10394 bytes
 (epstopdf)             Output file: <DispFDInc4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 12996 bytes
 (epstopdf)             Command: <repstopdf --outfile=DispFDInc4-eps-converted-t
 o.pdf DispFDInc4.eps>
@@ -2873,11 +2854,11 @@ LaTeX Warning: Text page 111 contains only floats.
 [111 <./CutVarSet3_FD_Inc_syst_cutsets_ratioonly-eps-converted-to.pdf> <./DispF
 DInc4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <CorrYieldsVsTrialPromptInc_Pt1.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 105410 bytes
 (epstopdf)             Output file: <CorrYieldsVsTrialPromptInc_Pt1-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 68068 bytes
 (epstopdf)             Command: <repstopdf --outfile=CorrYieldsVsTrialPromptInc
 _Pt1-eps-converted-to.pdf CorrYieldsVsTrialPromptInc_Pt1.eps>
@@ -2893,11 +2874,11 @@ Package pdftex.def Info: CorrYieldsVsTrialPromptInc_Pt1-eps-converted-to.pdf us
 ed on input line 2119.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <CorrYieldsDispPromptInc_Pt1.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7136 bytes
 (epstopdf)             Output file: <CorrYieldsDispPromptInc_Pt1-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11458 bytes
 (epstopdf)             Command: <repstopdf --outfile=CorrYieldsDispPromptInc_Pt
 1-eps-converted-to.pdf CorrYieldsDispPromptInc_Pt1.eps>
@@ -2914,11 +2895,11 @@ on input line 2121.
  [112 <./CorrYieldsVsTrialPromptInc_Pt1-eps-converted-to.pdf> <./CorrYieldsDisp
 PromptInc_Pt1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <CorrYieldsVsTrialFDMin_Pt3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 102923 bytes
 (epstopdf)             Output file: <CorrYieldsVsTrialFDMin_Pt3-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 65396 bytes
 (epstopdf)             Command: <repstopdf --outfile=CorrYieldsVsTrialFDMin_Pt3
 -eps-converted-to.pdf CorrYieldsVsTrialFDMin_Pt3.eps>
@@ -2933,11 +2914,11 @@ Package pdftex.def Info: CorrYieldsVsTrialFDMin_Pt3-eps-converted-to.pdf used o
 n input line 2138.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <CorrYieldsDispFDMin_Pt3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7067 bytes
 (epstopdf)             Output file: <CorrYieldsDispFDMin_Pt3-eps-converted-to.p
 df>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 10255 bytes
 (epstopdf)             Command: <repstopdf --outfile=CorrYieldsDispFDMin_Pt3-ep
 s-converted-to.pdf CorrYieldsDispFDMin_Pt3.eps>
@@ -2973,11 +2954,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2165.
 
 Package epstopdf Info: Source file: <EffRatioCombined_Set_1-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8364 bytes
 (epstopdf)             Output file: <EffRatioCombined_Set_1-3-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8950 bytes
 (epstopdf)             Command: <repstopdf --outfile=EffRatioCombined_Set_1-3-e
 ps-converted-to.pdf EffRatioCombined_Set_1-3.eps>
@@ -2992,11 +2973,11 @@ Package pdftex.def Info: EffRatioCombined_Set_1-3-eps-converted-to.pdf used on
 input line 2189.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <CorrYieldsMin_syst_eff_onlyratio.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8768 bytes
 (epstopdf)             Output file: <CorrYieldsMin_syst_eff_onlyratio-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9155 bytes
 (epstopdf)             Command: <repstopdf --outfile=CorrYieldsMin_syst_eff_onl
 yratio-eps-converted-to.pdf CorrYieldsMin_syst_eff_onlyratio.eps>
@@ -3014,11 +2995,11 @@ used on input line 2191.
 
 [114]
 Package epstopdf Info: Source file: <CrossSectionPromptpPb.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 25007 bytes
 (epstopdf)             Output file: <CrossSectionPromptpPb-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2016-07-07 10:06:23
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19747 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSectionPromptpPb-eps-
 converted-to.pdf CrossSectionPromptpPb.eps>
@@ -3033,10 +3014,10 @@ Package pdftex.def Info: CrossSectionPromptpPb-eps-converted-to.pdf used on inp
 ut line 2205.
 (pdftex.def)             Requested size: 256.10445pt x 277.78523pt.
 Package epstopdf Info: Source file: <CrossSectionFDpPb.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 17640 bytes
 (epstopdf)             Output file: <CrossSectionFDpPb-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16851 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSectionFDpPb-eps-conv
 erted-to.pdf CrossSectionFDpPb.eps>
@@ -3085,10 +3066,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2267.
 
 Package epstopdf Info: Source file: <ResExKF.eps>
-(epstopdf)                    date: 2016-07-07 09:19:49
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 12787 bytes
 (epstopdf)             Output file: <ResExKF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:23
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11442 bytes
 (epstopdf)             Command: <repstopdf --outfile=ResExKF-eps-converted-to.p
 df ResExKF.eps>
@@ -3101,10 +3082,10 @@ File: ResExKF-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: ResExKF-eps-converted-to.pdf used on input line 2270.
 (pdftex.def)             Requested size: 159.35426pt x 123.3801pt.
 Package epstopdf Info: Source file: <PullExKF.eps>
-(epstopdf)                    date: 2016-07-07 09:19:49
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 12686 bytes
 (epstopdf)             Output file: <PullExKF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:24
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11453 bytes
 (epstopdf)             Command: <repstopdf --outfile=PullExKF-eps-converted-to.
 pdf PullExKF.eps>
@@ -3132,10 +3113,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2286.
 
 Package epstopdf Info: Source file: <ResSVXZ.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 13996 bytes
 (epstopdf)             Output file: <ResSVXZ-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 13215 bytes
 (epstopdf)             Command: <repstopdf --outfile=ResSVXZ-eps-converted-to.p
 df ResSVXZ.eps>
@@ -3148,10 +3129,10 @@ File: ResSVXZ-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: ResSVXZ-eps-converted-to.pdf used on input line 2290.
 (pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
 Package epstopdf Info: Source file: <PullsSVXZ.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 13297 bytes
 (epstopdf)             Output file: <PullsSVXZ-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 12976 bytes
 (epstopdf)             Command: <repstopdf --outfile=PullsSVXZ-eps-converted-to
 .pdf PullsSVXZ.eps>
@@ -3179,10 +3160,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2297.
 
 Package epstopdf Info: Source file: <ResPVXZ.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11313 bytes
 (epstopdf)             Output file: <ResPVXZ-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11630 bytes
 (epstopdf)             Command: <repstopdf --outfile=ResPVXZ-eps-converted-to.p
 df ResPVXZ.eps>
@@ -3195,10 +3176,10 @@ File: ResPVXZ-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: ResPVXZ-eps-converted-to.pdf used on input line 2301.
 (pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
 Package epstopdf Info: Source file: <PullsPVXZ.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11558 bytes
 (epstopdf)             Output file: <PullsPVXZ-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11503 bytes
 (epstopdf)             Command: <repstopdf --outfile=PullsPVXZ-eps-converted-to
 .pdf PullsPVXZ.eps>
@@ -3213,10 +3194,10 @@ Package pdftex.def Info: PullsPVXZ-eps-converted-to.pdf used on input line 2303
 .
 (pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
 Package epstopdf Info: Source file: <ResImpPar.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10374 bytes
 (epstopdf)             Output file: <ResImpPar-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10802 bytes
 (epstopdf)             Command: <repstopdf --outfile=ResImpPar-eps-converted-to
 .pdf ResImpPar.eps>
@@ -3231,10 +3212,10 @@ Package pdftex.def Info: ResImpPar-eps-converted-to.pdf used on input line 2310
 .
 (pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
 Package epstopdf Info: Source file: <PullsImpPar.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10120 bytes
 (epstopdf)             Output file: <PullsImpPar-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10261 bytes
 (epstopdf)             Command: <repstopdf --outfile=PullsImpPar-eps-converted-
 to.pdf PullsImpPar.eps>
@@ -3266,10 +3247,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2317.
 
 Package epstopdf Info: Source file: <ResDecL.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9977 bytes
 (epstopdf)             Output file: <ResDecL-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10632 bytes
 (epstopdf)             Command: <repstopdf --outfile=ResDecL-eps-converted-to.p
 df ResDecL.eps>
@@ -3282,10 +3263,10 @@ File: ResDecL-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: ResDecL-eps-converted-to.pdf used on input line 2320.
 (pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
 Package epstopdf Info: Source file: <PullsDecL.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9950 bytes
 (epstopdf)             Output file: <PullsDecL-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10334 bytes
 (epstopdf)             Command: <repstopdf --outfile=PullsDecL-eps-converted-to
 .pdf PullsDecL.eps>
@@ -3329,10 +3310,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2328.
 
 Package epstopdf Info: Source file: <ChiSquare.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9956 bytes
 (epstopdf)             Output file: <ChiSquare-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11175 bytes
 (epstopdf)             Command: <repstopdf --outfile=ChiSquare-eps-converted-to
 .pdf ChiSquare.eps>
@@ -3346,10 +3327,10 @@ Package pdftex.def Info: ChiSquare-eps-converted-to.pdf used on input line 2331
 .
 (pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
 Package epstopdf Info: Source file: <Probability.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 8093 bytes
 (epstopdf)             Output file: <Probability-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10886 bytes
 (epstopdf)             Command: <repstopdf --outfile=Probability-eps-converted-
 to.pdf Probability.eps>
@@ -3370,15 +3351,20 @@ prob-a-bil-ity (right) dis-tri-bu-tions for the prompt
  []
 
 Package epstopdf Info: Source file: <cPVresXZ.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
-(epstopdf)                    size: 12901 bytes
+(epstopdf)                    date: 2016-09-20 09:13:31
+(epstopdf)                    size: 13093 bytes
 (epstopdf)             Output file: <cPVresXZ-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11917 bytes
 (epstopdf)             Command: <repstopdf --outfile=cPVresXZ-eps-converted-to.
 pdf cPVresXZ.eps>
 (epstopdf)             \includegraphics on input line 2342.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=cPVresXZ-eps-converted-to.pdf cPVresXZ.eps)...exe
+cuted safely (allowed).
+
+Package epstopdf Info: Result file: <cPVresXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-20 09:15:15
+(epstopdf)                    size: 12107 bytes.
 <cPVresXZ-eps-converted-to.pdf, id=3845, 569.12625pt x 552.0625pt>
 File: cPVresXZ-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -3387,15 +3373,20 @@ Package pdftex.def Info: cPVresXZ-eps-converted-to.pdf used on input line 2342.
 
 (pdftex.def)             Requested size: 159.35426pt x 154.57643pt.
 Package epstopdf Info: Source file: <cPVmeanXZ.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
-(epstopdf)                    size: 14153 bytes
+(epstopdf)                    date: 2016-09-20 09:13:42
+(epstopdf)                    size: 14347 bytes
 (epstopdf)             Output file: <cPVmeanXZ-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 11949 bytes
 (epstopdf)             Command: <repstopdf --outfile=cPVmeanXZ-eps-converted-to
 .pdf cPVmeanXZ.eps>
 (epstopdf)             \includegraphics on input line 2344.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=cPVmeanXZ-eps-converted-to.pdf cPVmeanXZ.eps)...e
+xecuted safely (allowed).
+
+Package epstopdf Info: Result file: <cPVmeanXZ-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-09-20 09:15:15
+(epstopdf)                    size: 12150 bytes.
 
 <cPVmeanXZ-eps-converted-to.pdf, id=3846, 569.12625pt x 552.0625pt>
 File: cPVmeanXZ-eps-converted-to.pdf Graphic file (type pdf)
@@ -3424,10 +3415,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2350.
 
 Package epstopdf Info: Source file: <KFchi_Dplus_pT1.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14941 bytes
 (epstopdf)             Output file: <KFchi_Dplus_pT1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15274 bytes
 (epstopdf)             Command: <repstopdf --outfile=KFchi_Dplus_pT1-eps-conver
 ted-to.pdf KFchi_Dplus_pT1.eps>
@@ -3441,10 +3432,10 @@ Package pdftex.def Info: KFchi_Dplus_pT1-eps-converted-to.pdf used on input lin
 e 2377.
 (pdftex.def)             Requested size: 182.12411pt x 176.6636pt.
 Package epstopdf Info: Source file: <KFchi_Dplus_pT8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15410 bytes
 (epstopdf)             Output file: <KFchi_Dplus_pT8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15638 bytes
 (epstopdf)             Command: <repstopdf --outfile=KFchi_Dplus_pT8-eps-conver
 ted-to.pdf KFchi_Dplus_pT8.eps>
@@ -3492,11 +3483,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2385.
 
 Package epstopdf Info: Source file: <KF_CutVarSyst_rawyield_chiS.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19173 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_rawyield_chiS-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:24
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14807 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_rawyield_chi
 S-eps-converted-to.pdf KF_CutVarSyst_rawyield_chiS.eps>
@@ -3511,11 +3502,11 @@ Package pdftex.def Info: KF_CutVarSyst_rawyield_chiS-eps-converted-to.pdf used
 on input line 2390.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioraw_chiS.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16684 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioraw_chiS-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13464 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioraw_chi
 S-eps-converted-to.pdf KF_CutVarSyst_ratioraw_chiS.eps>
@@ -3530,11 +3521,11 @@ Package pdftex.def Info: KF_CutVarSyst_ratioraw_chiS-eps-converted-to.pdf used
 on input line 2392.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioeffprompt_chiS.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16394 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioeffprompt_chiS-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13657 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioeffprom
 pt_chiS-eps-converted-to.pdf KF_CutVarSyst_ratioeffprompt_chiS.eps>
@@ -3550,11 +3541,11 @@ Package pdftex.def Info: KF_CutVarSyst_ratioeffprompt_chiS-eps-converted-to.pdf
  used on input line 2401.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioeffFD_chiS.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16996 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioeffFD_chiS-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14015 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioeffFD_c
 hiS-eps-converted-to.pdf KF_CutVarSyst_ratioeffFD_chiS.eps>
@@ -3577,11 +3568,11 @@ LaTeX Warning: Text page 132 contains only floats.
 oraw_chiS-eps-converted-to.pdf> <./KF_CutVarSyst_ratioeffprompt_chiS-eps-conver
 ted-to.pdf> <./KF_CutVarSyst_ratioeffFD_chiS-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <KF_CutVarSyst_promptfrac_chiS.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 27032 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_promptfrac_chiS-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 17776 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_promptfrac_c
 hiS-eps-converted-to.pdf KF_CutVarSyst_promptfrac_chiS.eps>
@@ -3597,11 +3588,11 @@ Package pdftex.def Info: KF_CutVarSyst_promptfrac_chiS-eps-converted-to.pdf use
 d on input line 2412.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioonly_chiS.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 17368 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioonly_chiS-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13661 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioonly_ch
 iS-eps-converted-to.pdf KF_CutVarSyst_ratioonly_chiS.eps>
@@ -3619,11 +3610,11 @@ Package pdftex.def Info: KF_CutVarSyst_ratioonly_chiS-eps-converted-to.pdf used
  [133 <./KF_CutVarSyst_promptfrac_chiS-eps-converted-to.pdf> <./KF_CutVarSyst_r
 atioonly_chiS-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MassFits_KF_Pt_0_4_9.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 35683 bytes
 (epstopdf)             Output file: <MassFits_KF_Pt_0_4_9-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 22945 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_KF_Pt_0_4_9-eps-c
 onverted-to.pdf MassFits_KF_Pt_0_4_9.eps>
@@ -3643,10 +3634,10 @@ Overfull \hbox (12.2359pt too wide) in paragraph at lines 2427--2428
  []
 
 Package epstopdf Info: Source file: <SigmaComparisonKF.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10169 bytes
 (epstopdf)             Output file: <SigmaComparisonKF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10305 bytes
 (epstopdf)             Command: <repstopdf --outfile=SigmaComparisonKF-eps-conv
 erted-to.pdf SigmaComparisonKF.eps>
@@ -3660,10 +3651,10 @@ Package pdftex.def Info: SigmaComparisonKF-eps-converted-to.pdf used on input l
 ine 2461.
 (pdftex.def)             Requested size: 170.73918pt x 165.62003pt.
 Package epstopdf Info: Source file: <MeanComparisonKF.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9667 bytes
 (epstopdf)             Output file: <MeanComparisonKF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8745 bytes
 (epstopdf)             Command: <repstopdf --outfile=MeanComparisonKF-eps-conve
 rted-to.pdf MeanComparisonKF.eps>
@@ -3683,10 +3674,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [134 <./MassFits_KF_Pt_0_4_9-eps-converted-to.pdf>] [135] [136 <./SigmaCompari
 sonKF-eps-converted-to.pdf> <./MeanComparisonKF-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <RawVsTrial_Pt4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 186709 bytes
 (epstopdf)             Output file: <RawVsTrial_Pt4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 116975 bytes
 (epstopdf)             Command: <repstopdf --outfile=RawVsTrial_Pt4-eps-convert
 ed-to.pdf RawVsTrial_Pt4.eps>
@@ -3701,10 +3692,10 @@ Package pdftex.def Info: RawVsTrial_Pt4-eps-converted-to.pdf used on input line
  2488.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <SigmaVsTrial_Pt4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 80626 bytes
 (epstopdf)             Output file: <SigmaVsTrial_Pt4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 51712 bytes
 (epstopdf)             Command: <repstopdf --outfile=SigmaVsTrial_Pt4-eps-conve
 rted-to.pdf SigmaVsTrial_Pt4.eps>
@@ -3721,11 +3712,11 @@ ne 2490.
  [137 <./RawVsTrial_Pt4-eps-converted-to.pdf> <./SigmaVsTrial_Pt4-eps-converted
 -to.pdf>]
 Package epstopdf Info: Source file: <KF_CutVarSyst_ratioonly_nDecLXY.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14783 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_ratioonly_nDecLXY-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13015 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_ratioonly_nD
 ecLXY-eps-converted-to.pdf KF_CutVarSyst_ratioonly_nDecLXY.eps>
@@ -3741,11 +3732,11 @@ Package pdftex.def Info: KF_CutVarSyst_ratioonly_nDecLXY-eps-converted-to.pdf u
 sed on input line 2507.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <KF_CutVarSyst_Disp_Pt6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 8596 bytes
 (epstopdf)             Output file: <KF_CutVarSyst_Disp_Pt6-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 9858 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_CutVarSyst_Disp_Pt6-eps
 -converted-to.pdf KF_CutVarSyst_Disp_Pt6.eps>
@@ -3760,10 +3751,10 @@ Package pdftex.def Info: KF_CutVarSyst_Disp_Pt6-eps-converted-to.pdf used on in
 put line 2509.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <KFMassComp_Pt3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19110 bytes
 (epstopdf)             Output file: <KFMassComp_Pt3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19189 bytes
 (epstopdf)             Command: <repstopdf --outfile=KFMassComp_Pt3-eps-convert
 ed-to.pdf KFMassComp_Pt3.eps>
@@ -3778,10 +3769,10 @@ Package pdftex.def Info: KFMassComp_Pt3-eps-converted-to.pdf used on input line
  2518.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <Ratio_KF_noPID.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9377 bytes
 (epstopdf)             Output file: <Ratio_KF_noPID-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 8984 bytes
 (epstopdf)             Command: <repstopdf --outfile=Ratio_KF_noPID-eps-convert
 ed-to.pdf Ratio_KF_noPID.eps>
@@ -3812,10 +3803,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2527.
 
 Package epstopdf Info: Source file: <RatioEffPrompt_KF.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 7628 bytes
 (epstopdf)             Output file: <RatioEffPrompt_KF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9142 bytes
 (epstopdf)             Command: <repstopdf --outfile=RatioEffPrompt_KF-eps-conv
 erted-to.pdf RatioEffPrompt_KF.eps>
@@ -3829,10 +3820,10 @@ Package pdftex.def Info: RatioEffPrompt_KF-eps-converted-to.pdf used on input l
 ine 2530.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <KF_ratio_fprompt.eps>
-(epstopdf)                    date: 2016-07-15 11:58:21
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7650 bytes
 (epstopdf)             Output file: <KF_ratio_fprompt-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-15 11:58:30
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 7770 bytes
 (epstopdf)             Command: <repstopdf --outfile=KF_ratio_fprompt-eps-conve
 rted-to.pdf KF_ratio_fprompt.eps>
@@ -3867,10 +3858,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2558.
 
 Package epstopdf Info: Source file: <PromptFrac_KF.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10589 bytes
 (epstopdf)             Output file: <PromptFrac_KF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9708 bytes
 (epstopdf)             Command: <repstopdf --outfile=PromptFrac_KF-eps-converte
 d-to.pdf PromptFrac_KF.eps>
@@ -3886,11 +3877,11 @@ Package pdftex.def Info: PromptFrac_KF-eps-converted-to.pdf used on input line
  [141 <./RatioEffPrompt_KF-eps-converted-to.pdf> <./KF_ratio_fprompt-eps-conver
 ted-to.pdf>]
 Package epstopdf Info: Source file: <Eff_cutset1_cutsettopo.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11103 bytes
 (epstopdf)             Output file: <Eff_cutset1_cutsettopo-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 11150 bytes
 (epstopdf)             Command: <repstopdf --outfile=Eff_cutset1_cutsettopo-eps
 -converted-to.pdf Eff_cutset1_cutsettopo.eps>
@@ -3905,11 +3896,11 @@ Package pdftex.def Info: Eff_cutset1_cutsettopo-eps-converted-to.pdf used on in
 put line 2571.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <PromptFrac_cutset1_cutsettopo.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 10180 bytes
 (epstopdf)             Output file: <PromptFrac_cutset1_cutsettopo-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 12259 bytes
 (epstopdf)             Command: <repstopdf --outfile=PromptFrac_cutset1_cutsett
 opo-eps-converted-to.pdf PromptFrac_cutset1_cutsettopo.eps>
@@ -3925,11 +3916,11 @@ Package pdftex.def Info: PromptFrac_cutset1_cutsettopo-eps-converted-to.pdf use
 d on input line 2573.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <ScatterPlotAll_11-12_Pt_3-4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 122584 bytes
 (epstopdf)             Output file: <ScatterPlotAll_11-12_Pt_3-4-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 43558 bytes
 (epstopdf)             Command: <repstopdf --outfile=ScatterPlotAll_11-12_Pt_3-
 4-eps-converted-to.pdf ScatterPlotAll_11-12_Pt_3-4.eps>
@@ -3944,11 +3935,11 @@ Package pdftex.def Info: ScatterPlotAll_11-12_Pt_3-4-eps-converted-to.pdf used
 on input line 2580.
 (pdftex.def)             Requested size: 176.4273pt x 171.1376pt.
 Package epstopdf Info: Source file: <Ratio_cutset1_cutsettopo.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9169 bytes
 (epstopdf)             Output file: <Ratio_cutset1_cutsettopo-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:31
 (epstopdf)                    size: 9170 bytes
 (epstopdf)             Command: <repstopdf --outfile=Ratio_cutset1_cutsettopo-e
 ps-converted-to.pdf Ratio_cutset1_cutsettopo.eps>
@@ -3980,10 +3971,10 @@ LaTeX Font Warning: Font shape `U/bbold/m/n' in size <3.75> not available
 
 [142 <./PromptFrac_KF-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <CrossSection_KF.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16945 bytes
 (epstopdf)             Output file: <CrossSection_KF-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:49
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16440 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSection_KF-eps-conver
 ted-to.pdf CrossSection_KF.eps>
@@ -4008,10 +3999,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [145 <./CrossSection_KF-eps-converted-to.pdf>] [146]
 Chapter 8.
 Package epstopdf Info: Source file: <CrossSecComp.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13676 bytes
 (epstopdf)             Output file: <CrossSecComp-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16554 bytes
 (epstopdf)             Command: <repstopdf --outfile=CrossSecComp-eps-converted
 -to.pdf CrossSecComp.eps>
@@ -4044,10 +4035,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2637.
 
 Package epstopdf Info: Source file: <ImpParPrompt_2-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19438 bytes
 (epstopdf)             Output file: <ImpParPrompt_2-3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15781 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_2-3-eps-conve
 rted-to.pdf ImpParPrompt_2-3.eps>
@@ -4059,10 +4050,10 @@ Package pdftex.def Info: ImpParPrompt_2-3-eps-converted-to.pdf used on input li
 ne 2642.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParPrompt_3-4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19874 bytes
 (epstopdf)             Output file: <ImpParPrompt_3-4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15813 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_3-4-eps-conve
 rted-to.pdf ImpParPrompt_3-4.eps>
@@ -4077,10 +4068,10 @@ Package pdftex.def Info: ImpParPrompt_3-4-eps-converted-to.pdf used on input li
 ne 2644.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParPrompt_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19606 bytes
 (epstopdf)             Output file: <ImpParPrompt_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15863 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_4-5-eps-conve
 rted-to.pdf ImpParPrompt_4-5.eps>
@@ -4095,10 +4086,10 @@ Package pdftex.def Info: ImpParPrompt_4-5-eps-converted-to.pdf used on input li
 ne 2646.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParPrompt_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19710 bytes
 (epstopdf)             Output file: <ImpParPrompt_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15747 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_5-6-eps-conve
 rted-to.pdf ImpParPrompt_5-6.eps>
@@ -4113,10 +4104,10 @@ Package pdftex.def Info: ImpParPrompt_5-6-eps-converted-to.pdf used on input li
 ne 2648.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParPrompt_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19352 bytes
 (epstopdf)             Output file: <ImpParPrompt_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15530 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_6-8-eps-conve
 rted-to.pdf ImpParPrompt_6-8.eps>
@@ -4131,10 +4122,10 @@ Package pdftex.def Info: ImpParPrompt_6-8-eps-converted-to.pdf used on input li
 ne 2650.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParPrompt_8-12.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19483 bytes
 (epstopdf)             Output file: <ImpParPrompt_8-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15542 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_8-12-eps-conv
 erted-to.pdf ImpParPrompt_8-12.eps>
@@ -4147,10 +4138,10 @@ Package pdftex.def Info: ImpParPrompt_8-12-eps-converted-to.pdf used on input l
 ine 2652.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParPrompt_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19243 bytes
 (epstopdf)             Output file: <ImpParPrompt_12-16-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15366 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParPrompt_12-16-eps-con
 verted-to.pdf ImpParPrompt_12-16.eps>
@@ -4185,10 +4176,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2658.
 
 Package epstopdf Info: Source file: <ImpParTrueFD_2-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 25729 bytes
 (epstopdf)             Output file: <ImpParTrueFD_2-3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19628 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_2-3-eps-conve
 rted-to.pdf ImpParTrueFD_2-3.eps>
@@ -4202,10 +4193,10 @@ Package pdftex.def Info: ImpParTrueFD_2-3-eps-converted-to.pdf used on input li
 ne 2663.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_3-4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 27799 bytes
 (epstopdf)             Output file: <ImpParTrueFD_3-4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21006 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_3-4-eps-conve
 rted-to.pdf ImpParTrueFD_3-4.eps>
@@ -4220,10 +4211,10 @@ Package pdftex.def Info: ImpParTrueFD_3-4-eps-converted-to.pdf used on input li
 ne 2665.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28548 bytes
 (epstopdf)             Output file: <ImpParTrueFD_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21289 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_4-5-eps-conve
 rted-to.pdf ImpParTrueFD_4-5.eps>
@@ -4238,10 +4229,10 @@ Package pdftex.def Info: ImpParTrueFD_4-5-eps-converted-to.pdf used on input li
 ne 2667.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28557 bytes
 (epstopdf)             Output file: <ImpParTrueFD_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21304 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_5-6-eps-conve
 rted-to.pdf ImpParTrueFD_5-6.eps>
@@ -4254,10 +4245,10 @@ Package pdftex.def Info: ImpParTrueFD_5-6-eps-converted-to.pdf used on input li
 ne 2669.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28778 bytes
 (epstopdf)             Output file: <ImpParTrueFD_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21486 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_6-8-eps-conve
 rted-to.pdf ImpParTrueFD_6-8.eps>
@@ -4272,10 +4263,10 @@ Package pdftex.def Info: ImpParTrueFD_6-8-eps-converted-to.pdf used on input li
 ne 2671.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_8-12.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28794 bytes
 (epstopdf)             Output file: <ImpParTrueFD_8-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21490 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_8-12-eps-conv
 erted-to.pdf ImpParTrueFD_8-12.eps>
@@ -4290,10 +4281,10 @@ Package pdftex.def Info: ImpParTrueFD_8-12-eps-converted-to.pdf used on input l
 ine 2673.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParTrueFD_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 28619 bytes
 (epstopdf)             Output file: <ImpParTrueFD_12-16-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21447 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParTrueFD_12-16-eps-con
 verted-to.pdf ImpParTrueFD_12-16.eps>
@@ -4323,10 +4314,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2679.
 
 Package epstopdf Info: Source file: <ImpParRecoFD_2-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19990 bytes
 (epstopdf)             Output file: <ImpParRecoFD_2-3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 17548 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_2-3-eps-conve
 rted-to.pdf ImpParRecoFD_2-3.eps>
@@ -4340,10 +4331,10 @@ Package pdftex.def Info: ImpParRecoFD_2-3-eps-converted-to.pdf used on input li
 ne 2683.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_3-4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21824 bytes
 (epstopdf)             Output file: <ImpParRecoFD_3-4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 18704 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_3-4-eps-conve
 rted-to.pdf ImpParRecoFD_3-4.eps>
@@ -4358,10 +4349,10 @@ Package pdftex.def Info: ImpParRecoFD_3-4-eps-converted-to.pdf used on input li
 ne 2685.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 22751 bytes
 (epstopdf)             Output file: <ImpParRecoFD_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:45
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19270 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_4-5-eps-conve
 rted-to.pdf ImpParRecoFD_4-5.eps>
@@ -4376,10 +4367,10 @@ Package pdftex.def Info: ImpParRecoFD_4-5-eps-converted-to.pdf used on input li
 ne 2687.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23211 bytes
 (epstopdf)             Output file: <ImpParRecoFD_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19639 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_5-6-eps-conve
 rted-to.pdf ImpParRecoFD_5-6.eps>
@@ -4392,10 +4383,10 @@ Package pdftex.def Info: ImpParRecoFD_5-6-eps-converted-to.pdf used on input li
 ne 2689.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23291 bytes
 (epstopdf)             Output file: <ImpParRecoFD_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19677 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_6-8-eps-conve
 rted-to.pdf ImpParRecoFD_6-8.eps>
@@ -4410,10 +4401,10 @@ Package pdftex.def Info: ImpParRecoFD_6-8-eps-converted-to.pdf used on input li
 ne 2691.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_8-12.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23301 bytes
 (epstopdf)             Output file: <ImpParRecoFD_8-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19747 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_8-12-eps-conv
 erted-to.pdf ImpParRecoFD_8-12.eps>
@@ -4428,10 +4419,10 @@ Package pdftex.def Info: ImpParRecoFD_8-12-eps-converted-to.pdf used on input l
 ine 2693.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParRecoFD_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 22974 bytes
 (epstopdf)             Output file: <ImpParRecoFD_12-16-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 19423 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParRecoFD_12-16-eps-con
 verted-to.pdf ImpParRecoFD_12-16.eps>
@@ -4449,10 +4440,10 @@ line 2695.
 .pdf> <./ImpParRecoFD_4-5-eps-converted-to.pdf> <./ImpParRecoFD_6-8-eps-convert
 ed-to.pdf> <./ImpParRecoFD_8-12-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ImpParBkg_2-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 31759 bytes
 (epstopdf)             Output file: <ImpParBkg_2-3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 22583 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_2-3-eps-converte
 d-to.pdf ImpParBkg_2-3.eps>
@@ -4467,10 +4458,10 @@ Package pdftex.def Info: ImpParBkg_2-3-eps-converted-to.pdf used on input line
 2704.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParBkg_3-4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32553 bytes
 (epstopdf)             Output file: <ImpParBkg_3-4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23119 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_3-4-eps-converte
 d-to.pdf ImpParBkg_3-4.eps>
@@ -4483,10 +4474,10 @@ Package pdftex.def Info: ImpParBkg_3-4-eps-converted-to.pdf used on input line
 2706.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParBkg_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32566 bytes
 (epstopdf)             Output file: <ImpParBkg_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23029 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_4-5-eps-converte
 d-to.pdf ImpParBkg_4-5.eps>
@@ -4501,10 +4492,10 @@ Package pdftex.def Info: ImpParBkg_4-5-eps-converted-to.pdf used on input line
 2708.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParBkg_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32087 bytes
 (epstopdf)             Output file: <ImpParBkg_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 22715 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_5-6-eps-converte
 d-to.pdf ImpParBkg_5-6.eps>
@@ -4519,10 +4510,10 @@ Package pdftex.def Info: ImpParBkg_5-6-eps-converted-to.pdf used on input line
 2710.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParBkg_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32499 bytes
 (epstopdf)             Output file: <ImpParBkg_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23085 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_6-8-eps-converte
 d-to.pdf ImpParBkg_6-8.eps>
@@ -4535,10 +4526,10 @@ Package pdftex.def Info: ImpParBkg_6-8-eps-converted-to.pdf used on input line
 2712.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParBkg_8-12.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 32523 bytes
 (epstopdf)             Output file: <ImpParBkg_8-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 23256 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_8-12-eps-convert
 ed-to.pdf ImpParBkg_8-12.eps>
@@ -4553,10 +4544,10 @@ Package pdftex.def Info: ImpParBkg_8-12-eps-converted-to.pdf used on input line
  2714.
 (pdftex.def)             Requested size: 136.59308pt x 111.05716pt.
 Package epstopdf Info: Source file: <ImpParBkg_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 30425 bytes
 (epstopdf)             Output file: <ImpParBkg_12-16-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 21600 bytes
 (epstopdf)             Command: <repstopdf --outfile=ImpParBkg_12-16-eps-conver
 ted-to.pdf ImpParBkg_12-16.eps>
@@ -4576,10 +4567,10 @@ e 2716.
 <./ImpParBkg_5-6-eps-converted-to.pdf> <./ImpParBkg_8-12-eps-converted-to.pdf> 
 <./ImpParBkg_12-16-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MassFitSet1_Pt0.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16226 bytes
 (epstopdf)             Output file: <MassFitSet1_Pt0-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16225 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet1_Pt0-eps-conver
 ted-to.pdf MassFitSet1_Pt0.eps>
@@ -4594,10 +4585,10 @@ Package pdftex.def Info: MassFitSet1_Pt0-eps-converted-to.pdf used on input lin
 e 2726.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet1_Pt1.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16419 bytes
 (epstopdf)             Output file: <MassFitSet1_Pt1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16300 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet1_Pt1-eps-conver
 ted-to.pdf MassFitSet1_Pt1.eps>
@@ -4612,10 +4603,10 @@ Package pdftex.def Info: MassFitSet1_Pt1-eps-converted-to.pdf used on input lin
 e 2728.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet1_Pt2.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16033 bytes
 (epstopdf)             Output file: <MassFitSet1_Pt2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16080 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet1_Pt2-eps-conver
 ted-to.pdf MassFitSet1_Pt2.eps>
@@ -4630,10 +4621,10 @@ Package pdftex.def Info: MassFitSet1_Pt2-eps-converted-to.pdf used on input lin
 e 2730.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet1_Pt3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16439 bytes
 (epstopdf)             Output file: <MassFitSet1_Pt3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16346 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet1_Pt3-eps-conver
 ted-to.pdf MassFitSet1_Pt3.eps>
@@ -4648,10 +4639,10 @@ Package pdftex.def Info: MassFitSet1_Pt3-eps-converted-to.pdf used on input lin
 e 2732.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet1_Pt4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16224 bytes
 (epstopdf)             Output file: <MassFitSet1_Pt4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16439 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet1_Pt4-eps-conver
 ted-to.pdf MassFitSet1_Pt4.eps>
@@ -4666,10 +4657,10 @@ Package pdftex.def Info: MassFitSet1_Pt4-eps-converted-to.pdf used on input lin
 e 2734.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet1_Pt5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16648 bytes
 (epstopdf)             Output file: <MassFitSet1_Pt5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16302 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet1_Pt5-eps-conver
 ted-to.pdf MassFitSet1_Pt5.eps>
@@ -4684,10 +4675,10 @@ Package pdftex.def Info: MassFitSet1_Pt5-eps-converted-to.pdf used on input lin
 e 2736.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet1_Pt6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16423 bytes
 (epstopdf)             Output file: <MassFitSet1_Pt6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16391 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet1_Pt6-eps-conver
 ted-to.pdf MassFitSet1_Pt6.eps>
@@ -4708,10 +4699,10 @@ df> <./MassFitSet1_Pt2-eps-converted-to.pdf> <./MassFitSet1_Pt3-eps-converted-t
 o.pdf> <./MassFitSet1_Pt4-eps-converted-to.pdf> <./MassFitSet1_Pt5-eps-converte
 d-to.pdf> <./MassFitSet1_Pt6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MassFitSet2_Pt0.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16587 bytes
 (epstopdf)             Output file: <MassFitSet2_Pt0-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16222 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet2_Pt0-eps-conver
 ted-to.pdf MassFitSet2_Pt0.eps>
@@ -4726,10 +4717,10 @@ Package pdftex.def Info: MassFitSet2_Pt0-eps-converted-to.pdf used on input lin
 e 2745.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet2_Pt1.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16096 bytes
 (epstopdf)             Output file: <MassFitSet2_Pt1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16360 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet2_Pt1-eps-conver
 ted-to.pdf MassFitSet2_Pt1.eps>
@@ -4744,10 +4735,10 @@ Package pdftex.def Info: MassFitSet2_Pt1-eps-converted-to.pdf used on input lin
 e 2747.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet2_Pt2.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16936 bytes
 (epstopdf)             Output file: <MassFitSet2_Pt2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16517 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet2_Pt2-eps-conver
 ted-to.pdf MassFitSet2_Pt2.eps>
@@ -4762,10 +4753,10 @@ Package pdftex.def Info: MassFitSet2_Pt2-eps-converted-to.pdf used on input lin
 e 2749.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet2_Pt3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16231 bytes
 (epstopdf)             Output file: <MassFitSet2_Pt3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16280 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet2_Pt3-eps-conver
 ted-to.pdf MassFitSet2_Pt3.eps>
@@ -4780,10 +4771,10 @@ Package pdftex.def Info: MassFitSet2_Pt3-eps-converted-to.pdf used on input lin
 e 2751.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet2_Pt4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16252 bytes
 (epstopdf)             Output file: <MassFitSet2_Pt4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16353 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet2_Pt4-eps-conver
 ted-to.pdf MassFitSet2_Pt4.eps>
@@ -4798,10 +4789,10 @@ Package pdftex.def Info: MassFitSet2_Pt4-eps-converted-to.pdf used on input lin
 e 2753.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet2_Pt5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16812 bytes
 (epstopdf)             Output file: <MassFitSet2_Pt5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16417 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet2_Pt5-eps-conver
 ted-to.pdf MassFitSet2_Pt5.eps>
@@ -4816,10 +4807,10 @@ Package pdftex.def Info: MassFitSet2_Pt5-eps-converted-to.pdf used on input lin
 e 2755.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet2_Pt6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16443 bytes
 (epstopdf)             Output file: <MassFitSet2_Pt6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16138 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet2_Pt6-eps-conver
 ted-to.pdf MassFitSet2_Pt6.eps>
@@ -4840,10 +4831,10 @@ df> <./MassFitSet2_Pt2-eps-converted-to.pdf> <./MassFitSet2_Pt3-eps-converted-t
 o.pdf> <./MassFitSet2_Pt4-eps-converted-to.pdf> <./MassFitSet2_Pt5-eps-converte
 d-to.pdf> <./MassFitSet2_Pt6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MassFitSet3_Pt0.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14855 bytes
 (epstopdf)             Output file: <MassFitSet3_Pt0-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15771 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet3_Pt0-eps-conver
 ted-to.pdf MassFitSet3_Pt0.eps>
@@ -4858,10 +4849,10 @@ Package pdftex.def Info: MassFitSet3_Pt0-eps-converted-to.pdf used on input lin
 e 2764.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet3_Pt1.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16449 bytes
 (epstopdf)             Output file: <MassFitSet3_Pt1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16077 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet3_Pt1-eps-conver
 ted-to.pdf MassFitSet3_Pt1.eps>
@@ -4876,10 +4867,10 @@ Package pdftex.def Info: MassFitSet3_Pt1-eps-converted-to.pdf used on input lin
 e 2766.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet3_Pt2.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16983 bytes
 (epstopdf)             Output file: <MassFitSet3_Pt2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16565 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet3_Pt2-eps-conver
 ted-to.pdf MassFitSet3_Pt2.eps>
@@ -4894,10 +4885,10 @@ Package pdftex.def Info: MassFitSet3_Pt2-eps-converted-to.pdf used on input lin
 e 2768.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet3_Pt3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16775 bytes
 (epstopdf)             Output file: <MassFitSet3_Pt3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16399 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet3_Pt3-eps-conver
 ted-to.pdf MassFitSet3_Pt3.eps>
@@ -4912,10 +4903,10 @@ Package pdftex.def Info: MassFitSet3_Pt3-eps-converted-to.pdf used on input lin
 e 2770.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet3_Pt4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 17007 bytes
 (epstopdf)             Output file: <MassFitSet3_Pt4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16560 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet3_Pt4-eps-conver
 ted-to.pdf MassFitSet3_Pt4.eps>
@@ -4930,10 +4921,10 @@ Package pdftex.def Info: MassFitSet3_Pt4-eps-converted-to.pdf used on input lin
 e 2772.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet3_Pt5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15711 bytes
 (epstopdf)             Output file: <MassFitSet3_Pt5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15809 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet3_Pt5-eps-conver
 ted-to.pdf MassFitSet3_Pt5.eps>
@@ -4948,10 +4939,10 @@ Package pdftex.def Info: MassFitSet3_Pt5-eps-converted-to.pdf used on input lin
 e 2774.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFitSet3_Pt6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15063 bytes
 (epstopdf)             Output file: <MassFitSet3_Pt6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15460 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFitSet3_Pt6-eps-conver
 ted-to.pdf MassFitSet3_Pt6.eps>
@@ -4972,10 +4963,10 @@ df> <./MassFitSet3_Pt2-eps-converted-to.pdf> <./MassFitSet3_Pt3-eps-converted-t
 o.pdf> <./MassFitSet3_Pt4-eps-converted-to.pdf> <./MassFitSet3_Pt5-eps-converte
 d-to.pdf> <./MassFitSet3_Pt6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <LinesDisp_2-3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 117862 bytes
 (epstopdf)             Output file: <LinesDisp_2-3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 409236 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_2-3-eps-converte
 d-to.pdf LinesDisp_2-3.eps>
@@ -4990,10 +4981,10 @@ Package pdftex.def Info: LinesDisp_2-3-eps-converted-to.pdf used on input line
 2783.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <LinesDisp_3-4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:46
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 116768 bytes
 (epstopdf)             Output file: <LinesDisp_3-4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 401423 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_3-4-eps-converte
 d-to.pdf LinesDisp_3-4.eps>
@@ -5008,10 +4999,10 @@ Package pdftex.def Info: LinesDisp_3-4-eps-converted-to.pdf used on input line
 2785.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <LinesDisp_4-5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 117559 bytes
 (epstopdf)             Output file: <LinesDisp_4-5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 415783 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_4-5-eps-converte
 d-to.pdf LinesDisp_4-5.eps>
@@ -5026,10 +5017,10 @@ Package pdftex.def Info: LinesDisp_4-5-eps-converted-to.pdf used on input line
 2787.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <LinesDisp_5-6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:47
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 117770 bytes
 (epstopdf)             Output file: <LinesDisp_5-6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 430848 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_5-6-eps-converte
 d-to.pdf LinesDisp_5-6.eps>
@@ -5044,10 +5035,10 @@ Package pdftex.def Info: LinesDisp_5-6-eps-converted-to.pdf used on input line
 2789.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <LinesDisp_6-8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 115449 bytes
 (epstopdf)             Output file: <LinesDisp_6-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 10:06:21
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 416709 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_6-8-eps-converte
 d-to.pdf LinesDisp_6-8.eps>
@@ -5060,10 +5051,10 @@ Package pdftex.def Info: LinesDisp_6-8-eps-converted-to.pdf used on input line
 2791.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <LinesDisp_8-12.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 117290 bytes
 (epstopdf)             Output file: <LinesDisp_8-12-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 403016 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_8-12-eps-convert
 ed-to.pdf LinesDisp_8-12.eps>
@@ -5078,10 +5069,10 @@ Package pdftex.def Info: LinesDisp_8-12-eps-converted-to.pdf used on input line
  2793.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <LinesDisp_12-16.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 118000 bytes
 (epstopdf)             Output file: <LinesDisp_12-16-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 414104 bytes
 (epstopdf)             Command: <repstopdf --outfile=LinesDisp_12-16-eps-conver
 ted-to.pdf LinesDisp_12-16.eps>
@@ -5102,10 +5093,10 @@ e 2795.
 ./LinesDisp_8-12-eps-converted-to.pdf> <./LinesDisp_12-16-eps-converted-to.pdf>
 ]
 Package epstopdf Info: Source file: <MassFits_cutset1_0.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15065 bytes
 (epstopdf)             Output file: <MassFits_cutset1_0-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15185 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_0-eps-con
 verted-to.pdf MassFits_cutset1_0.eps>
@@ -5120,10 +5111,10 @@ Package pdftex.def Info: MassFits_cutset1_0-eps-converted-to.pdf used on input
 line 2803.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_1.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15075 bytes
 (epstopdf)             Output file: <MassFits_cutset1_1-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15074 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_1-eps-con
 verted-to.pdf MassFits_cutset1_1.eps>
@@ -5138,10 +5129,10 @@ Package pdftex.def Info: MassFits_cutset1_1-eps-converted-to.pdf used on input
 line 2805.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_2.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15517 bytes
 (epstopdf)             Output file: <MassFits_cutset1_2-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15648 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_2-eps-con
 verted-to.pdf MassFits_cutset1_2.eps>
@@ -5156,10 +5147,10 @@ Package pdftex.def Info: MassFits_cutset1_2-eps-converted-to.pdf used on input
 line 2807.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_3.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14122 bytes
 (epstopdf)             Output file: <MassFits_cutset1_3-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14874 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_3-eps-con
 verted-to.pdf MassFits_cutset1_3.eps>
@@ -5174,10 +5165,10 @@ Package pdftex.def Info: MassFits_cutset1_3-eps-converted-to.pdf used on input
 line 2809.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_4.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13943 bytes
 (epstopdf)             Output file: <MassFits_cutset1_4-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15065 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_4-eps-con
 verted-to.pdf MassFits_cutset1_4.eps>
@@ -5192,10 +5183,10 @@ Package pdftex.def Info: MassFits_cutset1_4-eps-converted-to.pdf used on input
 line 2811.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_5.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14334 bytes
 (epstopdf)             Output file: <MassFits_cutset1_5-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15089 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_5-eps-con
 verted-to.pdf MassFits_cutset1_5.eps>
@@ -5210,10 +5201,10 @@ Package pdftex.def Info: MassFits_cutset1_5-eps-converted-to.pdf used on input
 line 2813.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_6.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 13687 bytes
 (epstopdf)             Output file: <MassFits_cutset1_6-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14864 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_6-eps-con
 verted-to.pdf MassFits_cutset1_6.eps>
@@ -5228,10 +5219,10 @@ Package pdftex.def Info: MassFits_cutset1_6-eps-converted-to.pdf used on input
 line 2815.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_7.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14400 bytes
 (epstopdf)             Output file: <MassFits_cutset1_7-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15144 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_7-eps-con
 verted-to.pdf MassFits_cutset1_7.eps>
@@ -5253,10 +5244,10 @@ d-to.pdf> <./MassFits_cutset1_2-eps-converted-to.pdf> <./MassFits_cutset1_3-eps
 et1_5-eps-converted-to.pdf> <./MassFits_cutset1_6-eps-converted-to.pdf> <./Mass
 Fits_cutset1_7-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <MassFits_cutset1_8.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 14330 bytes
 (epstopdf)             Output file: <MassFits_cutset1_8-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 15070 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_8-eps-con
 verted-to.pdf MassFits_cutset1_8.eps>
@@ -5271,10 +5262,10 @@ Package pdftex.def Info: MassFits_cutset1_8-eps-converted-to.pdf used on input
 line 2824.
 (pdftex.def)             Requested size: 142.2812pt x 110.16129pt.
 Package epstopdf Info: Source file: <MassFits_cutset1_9.eps>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16349 bytes
 (epstopdf)             Output file: <MassFits_cutset1_9-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-07-07 09:19:48
+(epstopdf)                    date: 2016-07-29 17:48:30
 (epstopdf)                    size: 16550 bytes
 (epstopdf)             Command: <repstopdf --outfile=MassFits_cutset1_9-eps-con
 verted-to.pdf MassFits_cutset1_9.eps>
@@ -5410,10 +5401,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 13121 strings out of 493085
- 197275 string characters out of 6136916
- 450173 words of memory out of 5000000
- 15426 multiletter control sequences out of 15000+600000
+ 13139 strings out of 493029
+ 197495 string characters out of 6136234
+ 450635 words of memory out of 5000000
+ 15495 multiletter control sequences out of 15000+600000
  191523 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,19n,37p,2914b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -5444,7 +5435,7 @@ msy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/symbols/msbm10.pfb>
-Output written on MasterThesis_Grosa.pdf (188 pages, 27895442 bytes).
+Output written on MasterThesis_Grosa.pdf (188 pages, 27895816 bytes).
 PDF statistics:
  5687 PDF objects out of 6186 (max. 8388607)
  4434 compressed objects within 45 object streams
